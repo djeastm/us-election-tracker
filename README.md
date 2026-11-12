@@ -27,6 +27,10 @@ Other commands:
 - `npm run portraits` downloads a freely licensed Wikipedia portrait for anyone whose `portrait` is `null` (`--force` to refresh all, `--only <id>` for one person).
 - `npm run reach` refreshes YouTube subscriber counts (`--dry-run` to preview).
 
+## Live site
+
+Every push to `main` runs `.github/workflows/deploy.yml`, which builds and publishes `dist/index.html` to GitHub Pages at https://djeastm.github.io/us-election-tracker/. Update runs only edit files locally, so the live site changes when their edits are committed and pushed.
+
 ## How updates work
 
 Content is updated by scheduled runs of an LLM agent, each set up as a T3 Code scheduled task. Each run is given one of the prompts in `tasks/`:
