@@ -1,0 +1,249 @@
+[
+  {
+    "id": "fox-news",
+    "name": "Fox News",
+    "kind": "Cable network",
+    "lean": "Conservative, aligned with the Republican Party",
+    "reach": [
+      {
+        "metric": "Primetime average viewers, October 2026",
+        "value": 1675000,
+        "asOf": "2026-10",
+        "source": {
+          "title": "Here Are the Cable News Ratings for October 2026",
+          "publisher": "Adweek TVNewser",
+          "url": "https://www.adweek.com/tvnewser/cable-news-ratings-october-2026/",
+          "date": "2026-11"
+        }
+      },
+      {
+        "metric": "YouTube subscribers",
+        "value": 15600000,
+        "asOf": "2026-11-12",
+        "youtube": "FoxNews",
+        "source": {
+          "title": "Fox News on YouTube",
+          "publisher": "YouTube",
+          "url": "https://www.youtube.com/@FoxNews",
+          "date": "2026-11-12"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ms-now",
+    "name": "MS NOW",
+    "kind": "Cable network",
+    "lean": "Liberal, aligned with the Democratic Party",
+    "reach": [
+      {
+        "metric": "Primetime average viewers, October 2026",
+        "value": 925000,
+        "asOf": "2026-10",
+        "source": {
+          "title": "Here Are the Cable News Ratings for October 2026",
+          "publisher": "Adweek TVNewser",
+          "url": "https://www.adweek.com/tvnewser/cable-news-ratings-october-2026/",
+          "date": "2026-11"
+        }
+      },
+      {
+        "metric": "YouTube subscribers",
+        "value": 10100000,
+        "asOf": "2026-11-12",
+        "youtube": "MSNOW",
+        "source": {
+          "title": "MS NOW on YouTube",
+          "publisher": "YouTube",
+          "url": "https://www.youtube.com/@MSNOW",
+          "date": "2026-11-12"
+        }
+      }
+    ]
+  },
+  {
+    "id": "daily-wire",
+    "name": "The Daily Wire",
+    "kind": "Digital media company",
+    "lean": "Conservative, hawkish on foreign policy",
+    "reach": [
+      {
+        "metric": "YouTube subscribers",
+        "value": 3230000,
+        "asOf": "2026-11-12",
+        "youtube": "DailyWire",
+        "source": {
+          "title": "The Daily Wire on YouTube",
+          "publisher": "YouTube",
+          "url": "https://www.youtube.com/@DailyWire",
+          "date": "2026-11-12"
+        }
+      }
+    ]
+  },
+  {
+    "id": "tucker-carlson-network",
+    "name": "Tucker Carlson Network",
+    "kind": "Subscription video and podcast",
+    "lean": "Populist right, anti-interventionist",
+    "reach": []
+  },
+  {
+    "id": "siriusxm",
+    "name": "SiriusXM",
+    "kind": "Satellite radio",
+    "lean": "Carries hosts across the spectrum",
+    "reach": []
+  },
+  {
+    "id": "premiere-networks",
+    "name": "Premiere Networks",
+    "kind": "Radio syndicator",
+    "lean": "Home of most national conservative talk radio",
+    "reach": []
+  },
+  {
+    "id": "westwood-one",
+    "name": "Westwood One",
+    "kind": "Radio syndicator",
+    "lean": "Carries conservative talk radio",
+    "reach": []
+  },
+  {
+    "id": "cox-media",
+    "name": "Cox Media Group",
+    "kind": "Radio group",
+    "lean": "General market, syndicates conservative talk from WSB Atlanta",
+    "reach": []
+  },
+  {
+    "id": "real-americas-voice",
+    "name": "Real America's Voice",
+    "kind": "Streaming and satellite channel",
+    "lean": "Pro-Trump populist right",
+    "reach": [
+      {
+        "metric": "YouTube subscribers",
+        "value": 336000,
+        "asOf": "2026-11-12",
+        "youtube": "RealAmericasVoice",
+        "source": {
+          "title": "Real America's Voice on YouTube",
+          "publisher": "YouTube",
+          "url": "https://www.youtube.com/@RealAmericasVoice",
+          "date": "2026-11-12"
+        }
+      }
+    ]
+  },
+  {
+    "id": "timcast",
+    "name": "Timcast",
+    "kind": "Independent media company",
+    "lean": "Populist right",
+    "reach": []
+  },
+  {
+    "id": "valuetainment",
+    "name": "Valuetainment",
+    "kind": "Independent media company",
+    "lean": "Right-leaning, business-minded",
+    "reach": []
+  },
+  {
+    "id": "rumble",
+    "name": "Rumble",
+    "kind": "Video platform",
+    "lean": "Platform favored by creators banned or restricted elsewhere",
+    "reach": []
+  },
+  {
+    "id": "independent",
+    "name": "Independent",
+    "kind": "Self-published",
+    "lean": "Varies by host",
+    "reach": []
+  },
+  {
+    "id": "crooked-media",
+    "name": "Crooked Media",
+    "kind": "Podcast network",
+    "lean": "Liberal, founded by Obama White House alumni",
+    "reach": []
+  },
+  {
+    "id": "new-york-times",
+    "name": "The New York Times",
+    "kind": "Newspaper",
+    "lean": "Opinion section spans center-left to center-right",
+    "reach": []
+  },
+  {
+    "id": "comedy-central",
+    "name": "Comedy Central",
+    "kind": "Cable network",
+    "lean": "Liberal-leaning satire",
+    "reach": []
+  },
+  {
+    "id": "twitch",
+    "name": "Twitch",
+    "kind": "Livestream platform",
+    "lean": "Platform, no editorial line",
+    "reach": []
+  },
+  {
+    "id": "zeteo",
+    "name": "Zeteo",
+    "kind": "Subscriber-funded media company",
+    "lean": "Progressive left",
+    "reach": [
+      {
+        "metric": "YouTube subscribers",
+        "value": 2310000,
+        "asOf": "2026-11-12",
+        "youtube": "Zeteo",
+        "source": {
+          "title": "Zeteo on YouTube",
+          "publisher": "YouTube",
+          "url": "https://www.youtube.com/@Zeteo",
+          "date": "2026-11-12"
+        }
+      }
+    ]
+  },
+  {
+    "id": "the-bulwark",
+    "name": "The Bulwark",
+    "kind": "Digital media company",
+    "lean": "Anti-Trump, founded by former Republicans",
+    "reach": [
+      {
+        "metric": "YouTube subscribers",
+        "value": 1830000,
+        "asOf": "2026-11-12",
+        "youtube": "BulwarkMedia",
+        "source": {
+          "title": "The Bulwark on YouTube",
+          "publisher": "YouTube",
+          "url": "https://www.youtube.com/@BulwarkMedia",
+          "date": "2026-11-12"
+        }
+      }
+    ]
+  },
+  {
+    "id": "espn",
+    "name": "ESPN",
+    "kind": "Cable sports network",
+    "lean": "Sports, no political line",
+    "reach": []
+  },
+  {
+    "id": "silver-bulletin",
+    "name": "Silver Bulletin",
+    "kind": "Substack newsletter",
+    "lean": "Data-driven, heterodox center-left",
+    "reach": []
+  }
+]

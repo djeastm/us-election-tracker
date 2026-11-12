@@ -1,0 +1,1725 @@
+[
+  {
+    "id": "jd-vance",
+    "name": "JD Vance",
+    "party": "R",
+    "role": "Vice President",
+    "born": "1984-08-02",
+    "home": "Ohio",
+    "wikipedia": "JD Vance",
+    "portrait": {
+      "file": "jd-vance.jpg",
+      "credit": "Emily J. Higgins",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:March_2026_Official_Vice_Presidential_Portrait_of_JD_Vance_(medium_crop)_(2).jpg"
+    },
+    "status": "undecided",
+    "statusNote": "Said he would decide after the midterms. No announcement yet, and Trump says he does not know Vance's plans.",
+    "bio": "Marine veteran, Yale Law graduate and author of Hillbilly Elegy. Served two years as a senator from Ohio before becoming vice president in 2025. Led the US delegation to the Islamabad talks with Iran in April 2026.",
+    "standing": {
+      "text": "38.6% in the RealClearPolling Republican average, first",
+      "asOf": "2026-11-01",
+      "source": {
+        "title": "Presidential Power Ranking For 2028: Frontrunners Assessed After Midterms",
+        "publisher": "Newsweek",
+        "url": "https://www.newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
+        "date": "2026-11-04"
+      }
+    },
+    "positions": {
+      "iran-war": {
+        "label": "Blames the war for the loss",
+        "lean": -1,
+        "summary": "Wrote on X the morning after the midterms that \"The reason we lost is the war,\" and challenged its defenders to say losing the Senate was worth it. He had led the administration's talks with Iran in April.",
+        "asOf": "2026-11-04",
+        "basis": "statement",
+        "sources": [
+          {
+            "title": "JD Vance blames Iran war for midterm thumping. Is he really blaming Trump?",
+            "publisher": "CBC News",
+            "url": "https://www.cbc.ca/news/world/trump-midterms-jd-vance-iran-war-9.7409264",
+            "date": "2026-11"
+          },
+          {
+            "title": "Vance, Cruz and DeSantis diagnose GOP's midterm disaster as battle over party's future begins",
+            "publisher": "Fox News",
+            "url": "https://www.yahoo.com/news/politics/articles/vance-cruz-desantis-diagnose-gops-100004797.html",
+            "date": "2026-11-06"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-04-11",
+            "label": "Led talks with Iran",
+            "lean": 0,
+            "note": "Headed the US delegation at the Islamabad talks on April 11 and 12, which ended without a deal.",
+            "sources": [
+              {
+                "title": "U.S.-Iran Ceasefire and Negotiations: Assessment and Issues for Congress",
+                "publisher": "Congressional Research Service",
+                "url": "https://www.congress.gov/crs-product/IN12678",
+                "date": "2026"
+              }
+            ]
+          }
+        ]
+      },
+      "tariffs": {
+        "label": "Defends the Trump tariffs",
+        "lean": 2,
+        "summary": "Has defended the administration's tariffs since taking office as a way to bring manufacturing back.",
+        "asOf": "2026-11",
+        "basis": "record",
+        "sources": [
+          {
+            "title": "Political positions of JD Vance",
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Political_positions_of_JD_Vance",
+            "date": "2026-11"
+          }
+        ],
+        "history": []
+      },
+      "immigration": {
+        "label": "Backs mass deportation",
+        "lean": 2,
+        "summary": "A leading advocate of the administration's deportation campaign and of lower immigration overall.",
+        "asOf": "2026-11",
+        "basis": "record",
+        "sources": [
+          {
+            "title": "Political positions of JD Vance",
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Political_positions_of_JD_Vance",
+            "date": "2026-11"
+          }
+        ],
+        "history": []
+      },
+      "ai": {
+        "label": "Pro-industry, now hedging",
+        "lean": 1,
+        "summary": "Has favored federal over state regulation and backed the industry. NBC reports he has lately struck a tone that speaks to both sides as voters sour on data centers.",
+        "asOf": "2026",
+        "basis": "reported",
+        "sources": [
+          {
+            "title": "DeSantis' AI skepticism draws a contrast with Vance",
+            "publisher": "NBC News",
+            "url": "https://www.nbcnews.com/politics/2028-election/florida-gov-ron-desantis-ai-skepticism-contrast-vance-rcna258824",
+            "date": "2026"
+          }
+        ],
+        "history": []
+      },
+      "abortion": {
+        "label": "Opposes abortion, defers to states",
+        "lean": 1,
+        "summary": "Describes himself as pro-life. In the 2024 campaign he aligned with Trump's position that states should decide.",
+        "asOf": "2026-11",
+        "basis": "record",
+        "sources": [
+          {
+            "title": "Political positions of JD Vance",
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Political_positions_of_JD_Vance",
+            "date": "2026-11"
+          }
+        ],
+        "history": []
+      }
+    },
+    "moves": [
+      {
+        "date": "2026-11-04",
+        "text": "Posted that Republicans lost because of the Iran war and that defections from the 2024 coalition, not turnout, drove the collapse. Trump called the post \"fine.\"",
+        "sources": [
+          {
+            "title": "Vance, Cruz and DeSantis diagnose GOP's midterm disaster as battle over party's future begins",
+            "publisher": "Fox News",
+            "url": "https://www.yahoo.com/news/politics/articles/vance-cruz-desantis-diagnose-gops-100004797.html",
+            "date": "2026-11-06"
+          },
+          {
+            "title": "Trump's 2028 successors are already fighting over who to blame for GOP midterm wipeout",
+            "publisher": "CNBC",
+            "url": "https://www.cnbc.com/2026/11/10/trump-vance-rubio-republican-desantis-midterms.html",
+            "date": "2026-11-10"
+          }
+        ]
+      },
+      {
+        "date": "2026-04-11",
+        "text": "Led the US delegation to two days of talks with Iran in Islamabad, the most senior contact between the countries since 1979.",
+        "sources": [
+          {
+            "title": "U.S.-Iran Ceasefire and Negotiations: Assessment and Issues for Congress",
+            "publisher": "Congressional Research Service",
+            "url": "https://www.congress.gov/crs-product/IN12678",
+            "date": "2026"
+          }
+        ]
+      },
+      {
+        "date": "2025-11-14",
+        "text": "Said he would sit down with Trump after the midterms to talk about a 2028 run.",
+        "sources": [
+          {
+            "title": "Vance says he'll \"sit down\" with Trump to discuss a 2028 run after midterms",
+            "publisher": "Axios",
+            "url": "https://www.axios.com/2025/11/14/jd-vance-trump-presidential-run-midterms",
+            "date": "2025-11-14"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "marco-rubio",
+    "name": "Marco Rubio",
+    "party": "R",
+    "role": "Secretary of State",
+    "born": "1971-05-28",
+    "home": "Florida",
+    "wikipedia": "Marco Rubio",
+    "portrait": {
+      "file": "marco-rubio.jpg",
+      "credit": "U.S. Department of State",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Secretary_Marco_Rubio_(cropped)(2).jpg"
+    },
+    "status": "speculated",
+    "statusNote": "Told reporters on Nov. 9 he was \"just not going to talk about 2028 anymore.\" Has said he would defer to Vance, while House and Senate Republicans talk up a draft.",
+    "bio": "Son of Cuban immigrants, senator from Florida from 2011 to 2025 and a 2016 presidential candidate. As secretary of state he has been the administration's main voice on the Iran war.",
+    "standing": {
+      "text": "26.4% in the RealClearPolling Republican average, second",
+      "asOf": "2026-11-01",
+      "source": {
+        "title": "Presidential Power Ranking For 2028: Frontrunners Assessed After Midterms",
+        "publisher": "Newsweek",
+        "url": "https://www.newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
+        "date": "2026-11-04"
+      }
+    },
+    "positions": {
+      "iran-war": {
+        "label": "Defends the decision to attack",
+        "lean": 2,
+        "summary": "Has stayed out of the blame game and stands by the war. \"Sometimes, when you do the right thing, you don't know whether it's popular or not,\" he said on Nov. 8.",
+        "asOf": "2026-11-08",
+        "basis": "statement",
+        "sources": [
+          {
+            "title": "Trump's 2028 successors are already fighting over who to blame for GOP midterm wipeout",
+            "publisher": "CNBC",
+            "url": "https://www.cnbc.com/2026/11/10/trump-vance-rubio-republican-desantis-midterms.html",
+            "date": "2026-11-10"
+          }
+        ],
+        "history": []
+      },
+      "immigration": {
+        "label": "Hard line since joining Trump",
+        "lean": 2,
+        "summary": "Co-wrote the 2013 bipartisan immigration bill and later disowned it. At the State Department he has overseen visa revocations and deportation agreements.",
+        "asOf": "2026-11",
+        "basis": "record",
+        "sources": [
+          {
+            "title": "Political positions of Marco Rubio",
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Political_positions_of_Marco_Rubio",
+            "date": "2026-11"
+          }
+        ],
+        "history": []
+      },
+      "ai": {
+        "label": "Sides with the industry",
+        "lean": 2,
+        "summary": "NBC groups him with Vance as a supporter of the industry and of federal rather than state regulation. This rests on a single report.",
+        "asOf": "2026",
+        "basis": "reported",
+        "sources": [
+          {
+            "title": "DeSantis' AI skepticism draws a contrast with Vance",
+            "publisher": "NBC News",
+            "url": "https://www.nbcnews.com/politics/2028-election/florida-gov-ron-desantis-ai-skepticism-contrast-vance-rcna258824",
+            "date": "2026"
+          }
+        ],
+        "history": []
+      },
+      "israel": {
+        "label": "Staunch supporter of Israel",
+        "lean": 2,
+        "summary": "One of the Senate's most consistent backers of military aid to Israel, and has carried that into the State Department.",
+        "asOf": "2026-11",
+        "basis": "record",
+        "sources": [
+          {
+            "title": "Political positions of Marco Rubio",
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Political_positions_of_Marco_Rubio",
+            "date": "2026-11"
+          }
+        ],
+        "history": []
+      },
+      "abortion": {
+        "label": "Backed a federal 15-week ban",
+        "lean": 2,
+        "summary": "Co-sponsored the 2022 Senate bill to ban most abortions nationwide after 15 weeks.",
+        "asOf": "2026-11",
+        "basis": "record",
+        "sources": [
+          {
+            "title": "Political positions of Marco Rubio",
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Political_positions_of_Marco_Rubio",
+            "date": "2026-11"
+          }
+        ],
+        "history": []
+      }
+    },
+    "moves": [
+      {
+        "date": "2026-11",
+        "text": "A growing group of congressional Republicans wants to draft him. Several say people close to him suggest he is not interested.",
+        "sources": [
+          {
+            "title": "'Draft Marco' effort grows on Capitol Hill after midterms bloodbath",
+            "publisher": "Yahoo News",
+            "url": "https://www.yahoo.com/news/politics/articles/more-more-hill-republicans-looking-173513091.html",
+            "date": "2026-11"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-08",
+        "text": "Defended the Iran war to reporters and declined to assign blame for the midterms. Trump praised him alongside Vance in a CBS interview the same day.",
+        "sources": [
+          {
+            "title": "Trump's 2028 successors are already fighting over who to blame for GOP midterm wipeout",
+            "publisher": "CNBC",
+            "url": "https://www.cnbc.com/2026/11/10/trump-vance-rubio-republican-desantis-midterms.html",
+            "date": "2026-11-10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ron-desantis",
+    "name": "Ron DeSantis",
+    "party": "R",
+    "role": "Governor of Florida",
+    "born": "1978-09-14",
+    "home": "Florida",
+    "wikipedia": "Ron DeSantis",
+    "portrait": {
+      "file": "ron-desantis.jpg",
+      "credit": "Government of Florida",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Ron_DeSantis_official_photo.jpg"
+    },
+    "status": "interested",
+    "statusNote": "Has not said he is running. Moved within hours of the midterms to present Florida as the one place Republicans held.",
+    "bio": "Navy lawyer and three-term congressman, governor of Florida since 2019 and term-limited out in January 2027. Lost the 2024 nomination to Trump.",
+    "standing": {
+      "text": "7.5% in the RealClearPolling Republican average, fourth",
+      "asOf": "2026-11-01",
+      "source": {
+        "title": "Presidential Power Ranking For 2028: Frontrunners Assessed After Midterms",
+        "publisher": "Newsweek",
+        "url": "https://www.newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
+        "date": "2026-11-04"
+      }
+    },
+    "positions": {
+      "tariffs": {
+        "label": "Panned the $5,000 dividend",
+        "lean": null,
+        "summary": "Criticized Trump's September pledge of a $5,000 cash payment to adults if Republicans held Congress. A Republican donor called it the first shot of the 2028 contest. His position on the tariffs themselves is not on record here.",
+        "asOf": "2026-09",
+        "basis": "reported",
+        "sources": [
+          {
+            "title": "Vance, Cruz and DeSantis diagnose GOP's midterm disaster as battle over party's future begins",
+            "publisher": "Fox News",
+            "url": "https://www.yahoo.com/news/politics/articles/vance-cruz-desantis-diagnose-gops-100004797.html",
+            "date": "2026-11-06"
+          }
+        ],
+        "history": []
+      },
+      "immigration": {
+        "label": "State-run enforcement",
+        "lean": 2,
+        "summary": "Signed some of the toughest state immigration laws in the country and built state detention capacity to support federal deportations.",
+        "asOf": "2026-11",
+        "basis": "record",
+        "sources": [
+          {
+            "title": "Political positions of Ron DeSantis",
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Political_positions_of_Ron_DeSantis",
+            "date": "2026-11"
+          }
+        ],
+        "history": []
+      },
+      "ai": {
+        "label": "Leading Republican AI skeptic",
+        "lean": -2,
+        "summary": "Opposes massive data centers, warns about the danger to children and wants states free to regulate. His AI bill of rights died in the Florida House. In May he signed a narrower law making data centers pay for their own power.",
+        "asOf": "2026-05-07",
+        "basis": "record",
+        "sources": [
+          {
+            "title": "DeSantis' AI skepticism draws a contrast with Vance",
+            "publisher": "NBC News",
+            "url": "https://www.nbcnews.com/politics/2028-election/florida-gov-ron-desantis-ai-skepticism-contrast-vance-rcna258824",
+            "date": "2026"
+          },
+          {
+            "title": "Florida has a new law regulating AI data centers",
+            "publisher": "Florida Phoenix",
+            "url": "https://floridaphoenix.com/2026/05/07/florida-has-a-new-law-regulating-ai-data-centers/",
+            "date": "2026-05-07"
+          }
+        ],
+        "history": []
+      },
+      "health-care": {
+        "label": "Refused Medicaid expansion",
+        "lean": 1,
+        "summary": "Florida remains one of the states that has not expanded Medicaid under the Affordable Care Act.",
+        "asOf": "2026-11",
+        "basis": "record",
+        "sources": [
+          {
+            "title": "Political positions of Ron DeSantis",
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Political_positions_of_Ron_DeSantis",
+            "date": "2026-11"
+          }
+        ],
+        "history": []
+      },
+      "abortion": {
+        "label": "Signed a six-week ban",
+        "lean": 2,
+        "summary": "Signed Florida's six-week ban in 2023 and campaigned against the 2024 ballot measure that would have overturned it.",
+        "asOf": "2026-11",
+        "basis": "record",
+        "sources": [
+          {
+            "title": "Political positions of Ron DeSantis",
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Political_positions_of_Ron_DeSantis",
+            "date": "2026-11"
+          }
+        ],
+        "history": []
+      }
+    },
+    "moves": [
+      {
+        "date": "2026-11-04",
+        "text": "Called the midterms \"close to an extinction-level event for Republicans\" and said the party was \"fighting yesterday's battle.\" Questioned the hundreds of millions spent on ads about transgender issues.",
+        "sources": [
+          {
+            "title": "Vance, Cruz and DeSantis diagnose GOP's midterm disaster as battle over party's future begins",
+            "publisher": "Fox News",
+            "url": "https://www.yahoo.com/news/politics/articles/vance-cruz-desantis-diagnose-gops-100004797.html",
+            "date": "2026-11-06"
+          },
+          {
+            "title": "Trump's 2028 successors are already fighting over who to blame for GOP midterm wipeout",
+            "publisher": "CNBC",
+            "url": "https://www.cnbc.com/2026/11/10/trump-vance-rubio-republican-desantis-midterms.html",
+            "date": "2026-11-10"
+          }
+        ]
+      },
+      {
+        "date": "2026-09",
+        "text": "Threw cold water on Trump's pledge of a $5,000 dividend.",
+        "sources": [
+          {
+            "title": "Vance, Cruz and DeSantis diagnose GOP's midterm disaster as battle over party's future begins",
+            "publisher": "Fox News",
+            "url": "https://www.yahoo.com/news/politics/articles/vance-cruz-desantis-diagnose-gops-100004797.html",
+            "date": "2026-11-06"
+          }
+        ]
+      },
+      {
+        "date": "2026-05-07",
+        "text": "Signed SB 484, which makes data centers cover their own utility costs. It was rewritten after talks between the White House and Florida House members.",
+        "sources": [
+          {
+            "title": "Florida has a new law regulating AI data centers",
+            "publisher": "Florida Phoenix",
+            "url": "https://floridaphoenix.com/2026/05/07/florida-has-a-new-law-regulating-ai-data-centers/",
+            "date": "2026-05-07"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ted-cruz",
+    "name": "Ted Cruz",
+    "party": "R",
+    "role": "Senator from Texas",
+    "born": "1970-12-22",
+    "home": "Texas",
+    "wikipedia": "Ted Cruz",
+    "portrait": {
+      "file": "ted-cruz.jpg",
+      "credit": "U.S. Senate Photographic Studio",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Ted_Cruz_official_116th_portrait_(3x4_cropped).jpg"
+    },
+    "status": "interested",
+    "statusNote": "Has not ruled out another run and, per Fox News, makes no secret that he may try again.",
+    "bio": "Former Texas solicitor general, senator since 2013 and runner-up for the 2016 Republican nomination. Chairs the Senate Commerce Committee.",
+    "standing": null,
+    "positions": {
+      "iran-war": {
+        "label": "Hawk, says it ran long",
+        "lean": 1,
+        "summary": "A longtime Iran hawk. After the midterms he listed the prolonged war alongside tariffs and prices as reasons for the defeat.",
+        "asOf": "2026-11-04",
+        "basis": "statement",
+        "sources": [
+          {
+            "title": "Vance, Cruz and DeSantis diagnose GOP's midterm disaster as battle over party's future begins",
+            "publisher": "Fox News",
+            "url": "https://www.yahoo.com/news/politics/articles/vance-cruz-desantis-diagnose-gops-100004797.html",
+            "date": "2026-11-06"
+          },
+          {
+            "title": "Trump's 2028 successors are already fighting over who to blame for GOP midterm wipeout",
+            "publisher": "CNBC",
+            "url": "https://www.cnbc.com/2026/11/10/trump-vance-rubio-republican-desantis-midterms.html",
+            "date": "2026-11-10"
+          }
+        ],
+        "history": []
+      },
+      "tariffs": {
+        "label": "Blames tariffs for the loss",
+        "lean": -2,
+        "summary": "Named tariffs as a cause of the midterm defeat. In donor recordings reported in January he warned they could wreck the economy and lead to Trump's impeachment.",
+        "asOf": "2026-11-04",
+        "basis": "statement",
+        "sources": [
+          {
+            "title": "Trump's 2028 successors are already fighting over who to blame for GOP midterm wipeout",
+            "publisher": "CNBC",
+            "url": "https://www.cnbc.com/2026/11/10/trump-vance-rubio-republican-desantis-midterms.html",
+            "date": "2026-11-10"
+          },
+          {
+            "title": "Exclusive: In secret recordings, Cruz trashes Trump tariffs, Vance",
+            "publisher": "Axios",
+            "url": "https://www.axios.com/2026/01/25/cruz-trump-vance-secret-tapes",
+            "date": "2026-01-25"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-01-25",
+            "label": "Trashed tariffs in private",
+            "lean": -2,
+            "note": "Axios published recordings of Cruz telling donors the tariffs could decimate the economy.",
+            "sources": [
+              {
+                "title": "Exclusive: In secret recordings, Cruz trashes Trump tariffs, Vance",
+                "publisher": "Axios",
+                "url": "https://www.axios.com/2026/01/25/cruz-trump-vance-secret-tapes",
+                "date": "2026-01-25"
+              }
+            ]
+          }
+        ]
+      },
+      "immigration": {
+        "label": "Longtime border hard-liner",
+        "lean": 2,
+        "summary": "Has pushed for a border wall, more deportations and lower asylum admissions throughout his Senate career.",
+        "asOf": "2026-11",
+        "basis": "record",
+        "sources": [
+          {
+            "title": "Political positions of Ted Cruz",
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Political_positions_of_Ted_Cruz",
+            "date": "2026-11"
+          }
+        ],
+        "history": []
+      },
+      "ai": {
+        "label": "Wants states kept out",
+        "lean": 2,
+        "summary": "As Commerce chairman he has pushed to block state AI rules in favor of a light federal framework.",
+        "asOf": "2026-11",
+        "basis": "record",
+        "sources": [
+          {
+            "title": "Political positions of Ted Cruz",
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Political_positions_of_Ted_Cruz",
+            "date": "2026-11"
+          }
+        ],
+        "history": []
+      },
+      "health-care": {
+        "label": "Led the ACA defunding fight",
+        "lean": 2,
+        "summary": "Drove the 2013 government shutdown over funding for the Affordable Care Act and has backed repeal since.",
+        "asOf": "2026-11",
+        "basis": "record",
+        "sources": [
+          {
+            "title": "Political positions of Ted Cruz",
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Political_positions_of_Ted_Cruz",
+            "date": "2026-11"
+          }
+        ],
+        "history": []
+      },
+      "israel": {
+        "label": "Unconditional support",
+        "lean": 2,
+        "summary": "Among the most vocal supporters of Israel in the Senate.",
+        "asOf": "2026-11",
+        "basis": "record",
+        "sources": [
+          {
+            "title": "Political positions of Ted Cruz",
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Political_positions_of_Ted_Cruz",
+            "date": "2026-11"
+          }
+        ],
+        "history": []
+      },
+      "abortion": {
+        "label": "Supports state bans",
+        "lean": 2,
+        "summary": "Opposes abortion and has defended state bans since Roe was overturned.",
+        "asOf": "2026-11",
+        "basis": "record",
+        "sources": [
+          {
+            "title": "Political positions of Ted Cruz",
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Political_positions_of_Ted_Cruz",
+            "date": "2026-11"
+          }
+        ],
+        "history": []
+      }
+    },
+    "moves": [
+      {
+        "date": "2026-11-04",
+        "text": "Called the midterms \"a Watergate-level repudiation\" after Republicans lost every statewide race in Texas. \"Texas is blue. That is a hard sentence to utter.\"",
+        "sources": [
+          {
+            "title": "Vance, Cruz and DeSantis diagnose GOP's midterm disaster as battle over party's future begins",
+            "publisher": "Fox News",
+            "url": "https://www.yahoo.com/news/politics/articles/vance-cruz-desantis-diagnose-gops-100004797.html",
+            "date": "2026-11-06"
+          },
+          {
+            "title": "Trump's 2028 successors are already fighting over who to blame for GOP midterm wipeout",
+            "publisher": "CNBC",
+            "url": "https://www.cnbc.com/2026/11/10/trump-vance-rubio-republican-desantis-midterms.html",
+            "date": "2026-11-10"
+          }
+        ]
+      },
+      {
+        "date": "2026-01-25",
+        "text": "Axios published recordings of him criticizing Trump's tariffs and Vance to donors.",
+        "sources": [
+          {
+            "title": "Exclusive: In secret recordings, Cruz trashes Trump tariffs, Vance",
+            "publisher": "Axios",
+            "url": "https://www.axios.com/2026/01/25/cruz-trump-vance-secret-tapes",
+            "date": "2026-01-25"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "donald-trump-jr",
+    "name": "Donald Trump Jr.",
+    "party": "R",
+    "role": "Executive, Trump Organization",
+    "born": "1977-12-31",
+    "home": "Florida",
+    "wikipedia": "Donald Trump Jr.",
+    "portrait": {
+      "file": "donald-trump-jr.jpg",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Donald_Trump,_Jr._(55021618832)_(cropped_2).jpg"
+    },
+    "status": "speculated",
+    "statusNote": "Has not said he is running. Polls third among Republicans on name alone and is publicly aligned with Vance.",
+    "bio": "The president's eldest son, an executive at the Trump Organization and host of the podcast Triggered. Has never held office.",
+    "standing": {
+      "text": "9.8% in the RealClearPolling Republican average, third",
+      "asOf": "2026-11-01",
+      "source": {
+        "title": "Presidential Power Ranking For 2028: Frontrunners Assessed After Midterms",
+        "publisher": "Newsweek",
+        "url": "https://www.newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
+        "date": "2026-11-04"
+      }
+    },
+    "positions": {
+      "iran-war": {
+        "label": "Sides with Vance on the war",
+        "lean": -1,
+        "summary": "Endorsed Vance's post blaming the Iran war for the midterm loss.",
+        "asOf": "2026-11-04",
+        "basis": "statement",
+        "sources": [
+          {
+            "title": "Vance, Cruz and DeSantis diagnose GOP's midterm disaster as battle over party's future begins",
+            "publisher": "Fox News",
+            "url": "https://www.yahoo.com/news/politics/articles/vance-cruz-desantis-diagnose-gops-100004797.html",
+            "date": "2026-11-06"
+          }
+        ],
+        "history": []
+      }
+    },
+    "moves": [
+      {
+        "date": "2026-11-04",
+        "text": "Backed Vance's diagnosis of the midterms on X.",
+        "sources": [
+          {
+            "title": "Vance, Cruz and DeSantis diagnose GOP's midterm disaster as battle over party's future begins",
+            "publisher": "Fox News",
+            "url": "https://www.yahoo.com/news/politics/articles/vance-cruz-desantis-diagnose-gops-100004797.html",
+            "date": "2026-11-06"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kamala-harris",
+    "name": "Kamala Harris",
+    "party": "D",
+    "role": "Former Vice President",
+    "born": "1964-10-20",
+    "home": "California",
+    "wikipedia": "Kamala Harris",
+    "portrait": {
+      "file": "kamala-harris.jpg",
+      "credit": "Lawrence Jackson",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Kamala_Harris_Vice_Presidential_Portrait.jpg"
+    },
+    "status": "undecided",
+    "statusNote": "\"I go back and forth. I honestly go back and forth,\" she told reporters while campaigning in six states before the midterms.",
+    "bio": "Former San Francisco district attorney, California attorney general and senator. Vice president from 2021 to 2025 and the 2024 Democratic nominee. Passed on a 2026 run for governor of California.",
+    "standing": {
+      "text": "24.2% in the RealClearPolling Democratic average, first",
+      "asOf": "2026-11-01",
+      "source": {
+        "title": "Presidential Power Ranking For 2028: Frontrunners Assessed After Midterms",
+        "publisher": "Newsweek",
+        "url": "https://www.newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
+        "date": "2026-11-04"
+      }
+    },
+    "positions": {
+      "iran-war": {
+        "label": "Opposes a regime-change war",
+        "lean": -2,
+        "summary": "Accused Trump of \"dragging the United States into a war the American people do not want\" and said she opposes a regime-change war in Iran.",
+        "asOf": "2026-03",
+        "basis": "statement",
+        "sources": [
+          {
+            "title": "Dems' potential 2028 hopefuls come out against US strikes on Iran",
+            "publisher": "Fox News",
+            "url": "https://www.foxnews.com/politics/dems-potential-2028-hopefuls-come-out-against-us-strikes-iran",
+            "date": "2026-03"
+          }
+        ],
+        "history": []
+      },
+      "tariffs": {
+        "label": "Called tariffs a sales tax",
+        "lean": -2,
+        "summary": "Campaigned in 2024 against Trump's tariff plans as a national sales tax on families.",
+        "asOf": "2026-11",
+        "basis": "record",
+        "sources": [
+          {
+            "title": "Political positions of Kamala Harris",
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Political_positions_of_Kamala_Harris",
+            "date": "2026-11"
+          }
+        ],
+        "history": []
+      },
+      "immigration": {
+        "label": "Backed the 2024 border bill",
+        "lean": 0,
+        "summary": "Ran in 2024 on the bipartisan Senate border bill, which paired more enforcement with asylum changes.",
+        "asOf": "2026-11",
+        "basis": "record",
+        "sources": [
+          {
+            "title": "Political positions of Kamala Harris",
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Political_positions_of_Kamala_Harris",
+            "date": "2026-11"
+          }
+        ],
+        "history": []
+      },
+      "health-care": {
+        "label": "Build on the ACA",
+        "lean": 0,
+        "summary": "Supported Medicare for All as a senator, then ran in 2024 on strengthening the Affordable Care Act and capping drug costs.",
+        "asOf": "2026-11",
+        "basis": "record",
+        "sources": [
+          {
+            "title": "Political positions of Kamala Harris",
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Political_positions_of_Kamala_Harris",
+            "date": "2026-11"
+          }
+        ],
+        "history": []
+      },
+      "abortion": {
+        "label": "Restore Roe in federal law",
+        "lean": -2,
+        "summary": "Made a federal law restoring Roe v. Wade's protections the center of her 2024 campaign.",
+        "asOf": "2026-11",
+        "basis": "record",
+        "sources": [
+          {
+            "title": "Political positions of Kamala Harris",
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Political_positions_of_Kamala_Harris",
+            "date": "2026-11"
+          }
+        ],
+        "history": []
+      }
+    },
+    "moves": [
+      {
+        "date": "2026-11-07",
+        "text": "Drew 0.6% in the Crooked Con straw poll of about 1,000 progressive activists.",
+        "sources": [
+          {
+            "title": "Ossoff And AOC Tipped As Favorites For The 2028 Democratic Presidential Nomination At Progressive Convention",
+            "publisher": "International Business Times",
+            "url": "https://www.yahoo.com/news/politics/articles/ossoff-aoc-tipped-favorites-2028-125653038.html",
+            "date": "2026-11-08"
+          }
+        ]
+      },
+      {
+        "date": "2026-11",
+        "text": "Said she goes back and forth on running again.",
+        "sources": [
+          {
+            "title": "Presidential Power Ranking For 2028: Frontrunners Assessed After Midterms",
+            "publisher": "Newsweek",
+            "url": "https://www.newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
+            "date": "2026-11-04"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gavin-newsom",
+    "name": "Gavin Newsom",
+    "party": "D",
+    "role": "Governor of California",
+    "born": "1967-10-10",
+    "home": "California",
+    "wikipedia": "Gavin Newsom",
+    "portrait": {
+      "file": "gavin-newsom.jpg",
+      "credit": "Charles Ommanney – Office of the Governor of California",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Governor_of_California_Gavin_Newsom_(cropped_3x4).jpg"
+    },
+    "status": "interested",
+    "statusNote": "Said he would decide after the midterms, and in September said he would not run if Harris does: \"I wouldn't waste everyone's time.\"",
+    "bio": "Former mayor of San Francisco and lieutenant governor, governor of California since 2019 and term-limited out in January 2027. Spent the closing weeks of the midterms in New Hampshire, South Carolina, North Carolina and Alabama.",
+    "standing": {
+      "text": "14.2% in the RealClearPolling Democratic average, second",
+      "asOf": "2026-11-01",
+      "source": {
+        "title": "Presidential Power Ranking For 2028: Frontrunners Assessed After Midterms",
+        "publisher": "Newsweek",
+        "url": "https://www.newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
+        "date": "2026-11-04"
+      }
+    },
+    "positions": {
+      "iran-war": {
+        "label": "Against the war, hard on Tehran",
+        "lean": -1,
+        "summary": "Said Iran's \"corrupt and repressive\" regime must never get nuclear weapons and that its leadership \"must go,\" while his office called it \"Trump's reckless war.\"",
+        "asOf": "2026-03",
+        "basis": "statement",
+        "sources": [
+          {
+            "title": "Dems' potential 2028 hopefuls come out against US strikes on Iran",
+            "publisher": "Fox News",
+            "url": "https://www.foxnews.com/politics/dems-potential-2028-hopefuls-come-out-against-us-strikes-iran",
+            "date": "2026-03"
+          }
+        ],
+        "history": []
+      },
+      "tariffs": {
+        "label": "Sued to stop the tariffs",
+        "lean": -2,
+        "summary": "California was the first state to sue over Trump's tariffs, in April 2025.",
+        "asOf": "2026-11",
+        "basis": "record",
+        "sources": [
+          {
+            "title": "Gavin Newsom",
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Gavin_Newsom",
+            "date": "2026-11"
+          }
+        ],
+        "history": []
+      },
+      "immigration": {
+        "label": "Fought the federal raids",
+        "lean": -1,
+        "summary": "Sued over the 2025 deployment of the National Guard to Los Angeles during immigration raids. The same year he froze new Medi-Cal enrollment for undocumented adults.",
+        "asOf": "2026-11",
+        "basis": "record",
+        "sources": [
+          {
+            "title": "Gavin Newsom",
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Gavin_Newsom",
+            "date": "2026-11"
+          }
+        ],
+        "history": []
+      },
+      "ai": {
+        "label": "Still working out a position",
+        "lean": 0,
+        "summary": "Vetoed a sweeping AI safety bill in 2024 and signed a narrower transparency law in 2025. Nate Silver writes that he is now scrambling to reformulate his position.",
+        "asOf": "2026",
+        "basis": "reported",
+        "sources": [
+          {
+            "title": "The Democrats' AI primary is heating up",
+            "publisher": "Silver Bulletin",
+            "url": "https://www.natesilver.net/p/the-democrats-ai-primary-is-heating",
+            "date": "2026"
+          },
+          {
+            "title": "2028 Democrats dodge on Bernie Sanders' push to pause AI development",
+            "publisher": "Axios",
+            "url": "https://www.axios.com/2026/08/23/2028-democrats-ai-bernie-sanders",
+            "date": "2026-08-23"
+          }
+        ],
+        "history": []
+      },
+      "health-care": {
+        "label": "Says he backs Medicare for All",
+        "lean": -2,
+        "summary": "\"I believe in universal healthcare, and I believe in Medicare for All,\" he said in a September interview. The Big Picture calls the endorsement rhetorical.",
+        "asOf": "2026-09",
+        "basis": "statement",
+        "sources": [
+          {
+            "title": "Where Democrats' 2028 Hopefuls Stand On Core Threshold Issues",
+            "publisher": "The Big Picture",
+            "url": "https://thinkbigpicture.substack.com/p/2028-democrats-core-threshold-issues",
+            "date": "2026-09-10"
+          }
+        ],
+        "history": []
+      },
+      "abortion": {
+        "label": "Wrote it into the constitution",
+        "lean": -2,
+        "summary": "Led the 2022 ballot measure that put abortion rights in California's constitution.",
+        "asOf": "2026-11",
+        "basis": "record",
+        "sources": [
+          {
+            "title": "Gavin Newsom",
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Gavin_Newsom",
+            "date": "2026-11"
+          }
+        ],
+        "history": []
+      }
+    },
+    "moves": [
+      {
+        "date": "2026-11-07",
+        "text": "Finished under 5% in the Crooked Con straw poll.",
+        "sources": [
+          {
+            "title": "Ossoff And AOC Tipped As Favorites For The 2028 Democratic Presidential Nomination At Progressive Convention",
+            "publisher": "International Business Times",
+            "url": "https://www.yahoo.com/news/politics/articles/ossoff-aoc-tipped-favorites-2028-125653038.html",
+            "date": "2026-11-08"
+          }
+        ]
+      },
+      {
+        "date": "2026-09",
+        "text": "Said he would not run if Harris runs. \"Who needs that?\"",
+        "sources": [
+          {
+            "title": "2028 presidential race: Meet the contenders",
+            "publisher": "CNN",
+            "url": "https://www.cnn.com/interactive/politics/2028-presidential-candidates-vis/gavin-newsom/",
+            "date": "2026"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pete-buttigieg",
+    "name": "Pete Buttigieg",
+    "party": "D",
+    "role": "Former Transportation Secretary",
+    "born": "1982-01-19",
+    "home": "Michigan",
+    "wikipedia": "Pete Buttigieg",
+    "portrait": {
+      "file": "pete-buttigieg.jpg",
+      "credit": "United States Department of Transportation",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Pete_Buttigieg,_Secretary_of_Transportation.jpg"
+    },
+    "status": "interested",
+    "statusNote": "Mostly avoids the question, but has said he would consider what he brings to the table. Passed on Michigan's 2026 Senate and governor races.",
+    "bio": "Navy Reserve veteran and former mayor of South Bend, Indiana. Won the 2020 Iowa caucuses, then served as transportation secretary from 2021 to 2025. Ran a seven-state closing tour before the midterms.",
+    "standing": {
+      "text": "13.1% in the RealClearPolling Democratic average, third",
+      "asOf": "2026-11-01",
+      "source": {
+        "title": "Presidential Power Ranking For 2028: Frontrunners Assessed After Midterms",
+        "publisher": "Newsweek",
+        "url": "https://www.newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
+        "date": "2026-11-04"
+      }
+    },
+    "positions": {
+      "iran-war": {
+        "label": "Calls it a war of choice",
+        "lean": -2,
+        "summary": "Accused Trump of launching a \"war of choice.\"",
+        "asOf": "2026-03",
+        "basis": "statement",
+        "sources": [
+          {
+            "title": "Dems' potential 2028 hopefuls come out against US strikes on Iran",
+            "publisher": "Fox News",
+            "url": "https://www.foxnews.com/politics/dems-potential-2028-hopefuls-come-out-against-us-strikes-iran",
+            "date": "2026-03"
+          }
+        ],
+        "history": []
+      },
+      "ai": {
+        "label": "Worried about who gets the wealth",
+        "lean": 0,
+        "summary": "Has said comparatively little about regulating data centers. His stated concern is the concentration of wealth.",
+        "asOf": "2026-08-23",
+        "basis": "reported",
+        "sources": [
+          {
+            "title": "2028 Democrats dodge on Bernie Sanders' push to pause AI development",
+            "publisher": "Axios",
+            "url": "https://www.axios.com/2026/08/23/2028-democrats-ai-bernie-sanders",
+            "date": "2026-08-23"
+          }
+        ],
+        "history": []
+      },
+      "health-care": {
+        "label": "A public option, by choice",
+        "lean": -1,
+        "summary": "Ran in 2020 on Medicare for All Who Want It, a public plan alongside private insurance. \"I think people should be able to choose.\"",
+        "asOf": "2026-09-10",
+        "basis": "record",
+        "sources": [
+          {
+            "title": "Where Democrats' 2028 Hopefuls Stand On Core Threshold Issues",
+            "publisher": "The Big Picture",
+            "url": "https://thinkbigpicture.substack.com/p/2028-democrats-core-threshold-issues",
+            "date": "2026-09-10"
+          }
+        ],
+        "history": []
+      }
+    },
+    "moves": [
+      {
+        "date": "2026-11-12",
+        "text": "Due at a Denver gathering of the Majority Democrats group, along with Ro Khanna.",
+        "sources": [
+          {
+            "title": "Midterms over, Democrats plunge into wide-open 2028 presidential race",
+            "publisher": "Reuters",
+            "url": "https://www.yahoo.com/news/politics/articles/midterms-over-democrats-plunge-wide-111023616.html",
+            "date": "2026-11-05"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-07",
+        "text": "Came third in the Crooked Con straw poll with 13.9%.",
+        "sources": [
+          {
+            "title": "Ossoff And AOC Tipped As Favorites For The 2028 Democratic Presidential Nomination At Progressive Convention",
+            "publisher": "International Business Times",
+            "url": "https://www.yahoo.com/news/politics/articles/ossoff-aoc-tipped-favorites-2028-125653038.html",
+            "date": "2026-11-08"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "alexandria-ocasio-cortez",
+    "name": "Alexandria Ocasio-Cortez",
+    "party": "D",
+    "role": "Representative from New York",
+    "born": "1989-10-13",
+    "home": "New York",
+    "wikipedia": "Alexandria Ocasio-Cortez",
+    "portrait": {
+      "file": "alexandria-ocasio-cortez.jpg",
+      "credit": "Franmarie Metzler; U.S. House Office of Photography",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Alexandria_Ocasio-Cortez_Official_Portrait.jpg"
+    },
+    "status": "interested",
+    "statusNote": "Said in September she is considering a presidential run. She is also weighing a Senate bid in New York.",
+    "bio": "Bronx-born organizer who unseated a ten-term incumbent in 2018 and became the most prominent progressive in the House. Campaigned in Maine, Michigan, Nevada and California before the midterms.",
+    "standing": {
+      "text": "11.8% in the RealClearPolling Democratic average, fourth",
+      "asOf": "2026-11-01",
+      "source": {
+        "title": "Presidential Power Ranking For 2028: Frontrunners Assessed After Midterms",
+        "publisher": "Newsweek",
+        "url": "https://www.newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
+        "date": "2026-11-04"
+      }
+    },
+    "positions": {
+      "iran-war": {
+        "label": "A leading opponent",
+        "lean": -2,
+        "summary": "Among the leading opponents of the strikes in Congress.",
+        "asOf": "2026-03",
+        "basis": "reported",
+        "sources": [
+          {
+            "title": "Dems' potential 2028 hopefuls come out against US strikes on Iran",
+            "publisher": "Fox News",
+            "url": "https://www.foxnews.com/politics/dems-potential-2028-hopefuls-come-out-against-us-strikes-iran",
+            "date": "2026-03"
+          }
+        ],
+        "history": []
+      },
+      "immigration": {
+        "label": "Has called to abolish ICE",
+        "lean": -2,
+        "summary": "Has called for abolishing Immigration and Customs Enforcement since her first campaign.",
+        "asOf": "2026-11",
+        "basis": "record",
+        "sources": [
+          {
+            "title": "Alexandria Ocasio-Cortez",
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Alexandria_Ocasio-Cortez",
+            "date": "2026-11"
+          }
+        ],
+        "history": []
+      },
+      "ai": {
+        "label": "Pause data center construction",
+        "lean": -2,
+        "summary": "Introduced the Artificial Intelligence Data Center Moratorium Act in March, halting new and expanded data centers until Congress passes AI safety and wealth-sharing law.",
+        "asOf": "2026-03",
+        "basis": "record",
+        "sources": [
+          {
+            "title": "2028 Democratic Hopefuls Take on Data Centers",
+            "publisher": "The Nation",
+            "url": "https://www.thenation.com/article/politics/2028-democrats-data-centers-data-center-opposition/",
+            "date": "2026"
+          },
+          {
+            "title": "2028 Democrats dodge on Bernie Sanders' push to pause AI development",
+            "publisher": "Axios",
+            "url": "https://www.axios.com/2026/08/23/2028-democrats-ai-bernie-sanders",
+            "date": "2026-08-23"
+          }
+        ],
+        "history": []
+      },
+      "health-care": {
+        "label": "Medicare for All co-sponsor",
+        "lean": -2,
+        "summary": "One of the original House co-sponsors of the Medicare for All bill reintroduced in April.",
+        "asOf": "2026-04",
+        "basis": "record",
+        "sources": [
+          {
+            "title": "Where Democrats' 2028 Hopefuls Stand On Core Threshold Issues",
+            "publisher": "The Big Picture",
+            "url": "https://thinkbigpicture.substack.com/p/2028-democrats-core-threshold-issues",
+            "date": "2026-09-10"
+          }
+        ],
+        "history": []
+      },
+      "israel": {
+        "label": "Voted to cut aid",
+        "lean": -2,
+        "summary": "Said in Munich on Feb. 13 that unconditional aid \"enabled a genocide in Gaza,\" and voted in July for an amendment cutting aid to Israel.",
+        "asOf": "2026-07",
+        "basis": "record",
+        "sources": [
+          {
+            "title": "Where Democrats' 2028 Hopefuls Stand On Core Threshold Issues",
+            "publisher": "The Big Picture",
+            "url": "https://thinkbigpicture.substack.com/p/2028-democrats-core-threshold-issues",
+            "date": "2026-09-10"
+          }
+        ],
+        "history": []
+      }
+    },
+    "moves": [
+      {
+        "date": "2026-11-07",
+        "text": "Came second in the Crooked Con straw poll with 16.6%.",
+        "sources": [
+          {
+            "title": "Ossoff And AOC Tipped As Favorites For The 2028 Democratic Presidential Nomination At Progressive Convention",
+            "publisher": "International Business Times",
+            "url": "https://www.yahoo.com/news/politics/articles/ossoff-aoc-tipped-favorites-2028-125653038.html",
+            "date": "2026-11-08"
+          }
+        ]
+      },
+      {
+        "date": "2026-09",
+        "text": "Said she is considering a presidential run. Her $1 million gift to Abdul El-Sayed's Senate campaign was read by one Democratic insider as a sign she is running.",
+        "sources": [
+          {
+            "title": "Ossoff And AOC Tipped As Favorites For The 2028 Democratic Presidential Nomination At Progressive Convention",
+            "publisher": "International Business Times",
+            "url": "https://www.yahoo.com/news/politics/articles/ossoff-aoc-tipped-favorites-2028-125653038.html",
+            "date": "2026-11-08"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jon-ossoff",
+    "name": "Jon Ossoff",
+    "party": "D",
+    "role": "Senator from Georgia",
+    "born": "1987-02-16",
+    "home": "Georgia",
+    "wikipedia": "Jon Ossoff",
+    "portrait": {
+      "file": "jon-ossoff.jpg",
+      "credit": "U.S. Senate Photographic Studio",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Senator_Jon_Ossoff_Official_Portrait.jpg"
+    },
+    "status": "declined",
+    "statusNote": "Said in an October Senate debate he has \"zero interest in running for president.\" Activists and prediction markets keep naming him anyway.",
+    "bio": "Former investigative documentary producer, elected to the Senate in the January 2021 runoff. Won re-election on Nov. 3 by 59% to 41% in a state Trump carried in 2024.",
+    "standing": {
+      "text": "9.6% in the RealClearPolling Democratic average, fifth",
+      "asOf": "2026-11-01",
+      "source": {
+        "title": "Presidential Power Ranking For 2028: Frontrunners Assessed After Midterms",
+        "publisher": "Newsweek",
+        "url": "https://www.newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
+        "date": "2026-11-04"
+      }
+    },
+    "positions": {},
+    "moves": [
+      {
+        "date": "2026-11-07",
+        "text": "Won the Crooked Con straw poll with 38.4%. Nate Silver called him \"such a slam dunk number one pick.\"",
+        "sources": [
+          {
+            "title": "Ossoff And AOC Tipped As Favorites For The 2028 Democratic Presidential Nomination At Progressive Convention",
+            "publisher": "International Business Times",
+            "url": "https://www.yahoo.com/news/politics/articles/ossoff-aoc-tipped-favorites-2028-125653038.html",
+            "date": "2026-11-08"
+          },
+          {
+            "title": "Nate Silver Reveals His 2028 'Slam Dunk' Favorite for President",
+            "publisher": "The Daily Beast",
+            "url": "https://www.thedailybeast.com/nate-silver-reveals-his-2028-slam-dunk-favorite-for-president",
+            "date": "2026-11-07"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-03",
+        "text": "Beat Republican Mike Collins 59% to 41% to keep his Senate seat.",
+        "sources": [
+          {
+            "title": "Presidential Power Ranking For 2028: Frontrunners Assessed After Midterms",
+            "publisher": "Newsweek",
+            "url": "https://www.newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
+            "date": "2026-11-04"
+          }
+        ]
+      },
+      {
+        "date": "2026-10",
+        "text": "Told a debate audience he has zero interest in running for president.",
+        "sources": [
+          {
+            "title": "Ossoff And AOC Tipped As Favorites For The 2028 Democratic Presidential Nomination At Progressive Convention",
+            "publisher": "International Business Times",
+            "url": "https://www.yahoo.com/news/politics/articles/ossoff-aoc-tipped-favorites-2028-125653038.html",
+            "date": "2026-11-08"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "josh-shapiro",
+    "name": "Josh Shapiro",
+    "party": "D",
+    "role": "Governor of Pennsylvania",
+    "born": "1973-06-20",
+    "home": "Pennsylvania",
+    "wikipedia": "Josh Shapiro",
+    "portrait": {
+      "file": "josh-shapiro.jpg",
+      "credit": "Maryland GovPics",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Gov._Shapiro.jpg"
+    },
+    "status": "speculated",
+    "statusNote": "Has said nothing about 2028. Won a second term on Nov. 3 by about 22 points in the largest swing state.",
+    "bio": "Former state legislator and two-term Pennsylvania attorney general, governor since 2023. Was on the shortlist to be Harris's running mate in 2024.",
+    "standing": {
+      "text": "5.5% in the RealClearPolling Democratic average",
+      "asOf": "2026-11-01",
+      "source": {
+        "title": "Presidential Power Ranking For 2028: Frontrunners Assessed After Midterms",
+        "publisher": "Newsweek",
+        "url": "https://www.newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
+        "date": "2026-11-04"
+      }
+    },
+    "positions": {
+      "iran-war": {
+        "label": "Objects on war powers",
+        "lean": -1,
+        "summary": "Focused his criticism on process, arguing Trump acted outside constitutional limits by striking without Congress.",
+        "asOf": "2026-03",
+        "basis": "statement",
+        "sources": [
+          {
+            "title": "Dems' potential 2028 hopefuls come out against US strikes on Iran",
+            "publisher": "Fox News",
+            "url": "https://www.foxnews.com/politics/dems-potential-2028-hopefuls-come-out-against-us-strikes-iran",
+            "date": "2026-03"
+          }
+        ],
+        "history": []
+      },
+      "ai": {
+        "label": "Reversed, now restricts data centers",
+        "lean": -1,
+        "summary": "Signed an executive order this summer putting tight requirements on data centers in Pennsylvania. In 2025 he was promoting the state as a home for them.",
+        "asOf": "2026-08-23",
+        "basis": "record",
+        "sources": [
+          {
+            "title": "2028 Democrats dodge on Bernie Sanders' push to pause AI development",
+            "publisher": "Axios",
+            "url": "https://www.axios.com/2026/08/23/2028-democrats-ai-bernie-sanders",
+            "date": "2026-08-23"
+          }
+        ],
+        "history": [
+          {
+            "date": "2025",
+            "label": "Courted data centers",
+            "lean": 1,
+            "note": "Promoted Pennsylvania as a destination for AI and data center investment.",
+            "sources": [
+              {
+                "title": "2028 Democrats dodge on Bernie Sanders' push to pause AI development",
+                "publisher": "Axios",
+                "url": "https://www.axios.com/2026/08/23/2028-democrats-ai-bernie-sanders",
+                "date": "2026-08-23"
+              }
+            ]
+          }
+        ]
+      },
+      "health-care": {
+        "label": "Protect Medicaid and subsidies",
+        "lean": 0,
+        "summary": "Opposes Trump's Medicaid cuts and has worked to replace the expired federal premium subsidies in Pennsylvania.",
+        "asOf": "2026-08",
+        "basis": "record",
+        "sources": [
+          {
+            "title": "Where Democrats' 2028 Hopefuls Stand On Core Threshold Issues",
+            "publisher": "The Big Picture",
+            "url": "https://thinkbigpicture.substack.com/p/2028-democrats-core-threshold-issues",
+            "date": "2026-09-10"
+          }
+        ],
+        "history": []
+      },
+      "israel": {
+        "label": "Supporter, critic of Netanyahu",
+        "lean": 1,
+        "summary": "A longtime supporter of Israel who has sharply criticized Benjamin Netanyahu's leadership.",
+        "asOf": "2026-11",
+        "basis": "record",
+        "sources": [
+          {
+            "title": "Josh Shapiro",
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Josh_Shapiro",
+            "date": "2026-11"
+          }
+        ],
+        "history": []
+      },
+      "abortion": {
+        "label": "Vows to veto restrictions",
+        "lean": -2,
+        "summary": "Has promised to veto any bill restricting abortion in Pennsylvania.",
+        "asOf": "2026-11",
+        "basis": "record",
+        "sources": [
+          {
+            "title": "Josh Shapiro",
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Josh_Shapiro",
+            "date": "2026-11"
+          }
+        ],
+        "history": []
+      }
+    },
+    "moves": [
+      {
+        "date": "2026-11-03",
+        "text": "Re-elected 60.3% to 38.4% with 98% counted, a swing of more than 23 points toward Democrats from 2024.",
+        "sources": [
+          {
+            "title": "Presidential Power Ranking For 2028: Frontrunners Assessed After Midterms",
+            "publisher": "Newsweek",
+            "url": "https://www.newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
+            "date": "2026-11-04"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jb-pritzker",
+    "name": "JB Pritzker",
+    "party": "D",
+    "role": "Governor of Illinois",
+    "born": "1965-01-19",
+    "home": "Illinois",
+    "wikipedia": "JB Pritzker",
+    "portrait": {
+      "file": "jb-pritzker.jpg",
+      "credit": "Oscar Garza",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Governor_JB_Pritzker_Official_Portrait.jpg"
+    },
+    "status": "speculated",
+    "statusNote": "Has not said he is running. Headlined the New Hampshire Democratic Party's gala and won a third term on Nov. 3.",
+    "bio": "Heir to the Hyatt fortune and a venture investor, governor of Illinois since 2019. One of the most confrontational Democratic governors toward the Trump administration.",
+    "standing": {
+      "text": "3% in the RealClearPolling Democratic average",
+      "asOf": "2026-11-01",
+      "source": {
+        "title": "Presidential Power Ranking For 2028: Frontrunners Assessed After Midterms",
+        "publisher": "Newsweek",
+        "url": "https://www.newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
+        "date": "2026-11-04"
+      }
+    },
+    "positions": {
+      "iran-war": {
+        "label": "Criticized the strikes",
+        "lean": -1,
+        "summary": "Criticized the strikes and accused Trump of ignoring Congress.",
+        "asOf": "2026-03",
+        "basis": "statement",
+        "sources": [
+          {
+            "title": "Dems' potential 2028 hopefuls come out against US strikes on Iran",
+            "publisher": "Fox News",
+            "url": "https://www.foxnews.com/politics/dems-potential-2028-hopefuls-come-out-against-us-strikes-iran",
+            "date": "2026-03"
+          }
+        ],
+        "history": []
+      },
+      "tariffs": {
+        "label": "Vocal critic",
+        "lean": -2,
+        "summary": "Has attacked the tariffs as a tax on working families since they were announced.",
+        "asOf": "2026-11",
+        "basis": "record",
+        "sources": [
+          {
+            "title": "JB Pritzker",
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/JB_Pritzker",
+            "date": "2026-11"
+          }
+        ],
+        "history": []
+      },
+      "immigration": {
+        "label": "Fought the Chicago deployment",
+        "lean": -2,
+        "summary": "Went to court against the federal immigration surge and National Guard deployment in Chicago in 2025.",
+        "asOf": "2026-11",
+        "basis": "record",
+        "sources": [
+          {
+            "title": "JB Pritzker",
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/JB_Pritzker",
+            "date": "2026-11"
+          }
+        ],
+        "history": []
+      },
+      "ai": {
+        "label": "Pulled data center tax breaks",
+        "lean": -1,
+        "summary": "Revoked Illinois's tax breaks for data centers, a reversal Axios describes as stark.",
+        "asOf": "2026-08-23",
+        "basis": "record",
+        "sources": [
+          {
+            "title": "2028 Democrats dodge on Bernie Sanders' push to pause AI development",
+            "publisher": "Axios",
+            "url": "https://www.axios.com/2026/08/23/2028-democrats-ai-bernie-sanders",
+            "date": "2026-08-23"
+          }
+        ],
+        "history": []
+      },
+      "health-care": {
+        "label": "Universal care is non-negotiable",
+        "lean": -1,
+        "summary": "Listed universal healthcare as one of two non-negotiables in April. In office he has focused on expanding Medicaid.",
+        "asOf": "2026-04",
+        "basis": "statement",
+        "sources": [
+          {
+            "title": "Where Democrats' 2028 Hopefuls Stand On Core Threshold Issues",
+            "publisher": "The Big Picture",
+            "url": "https://thinkbigpicture.substack.com/p/2028-democrats-core-threshold-issues",
+            "date": "2026-09-10"
+          }
+        ],
+        "history": []
+      },
+      "abortion": {
+        "label": "Made Illinois a haven",
+        "lean": -2,
+        "summary": "Signed the 2019 law making abortion a fundamental right in Illinois and funds abortion-rights ballot campaigns in other states.",
+        "asOf": "2026-11",
+        "basis": "record",
+        "sources": [
+          {
+            "title": "JB Pritzker",
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/JB_Pritzker",
+            "date": "2026-11"
+          }
+        ],
+        "history": []
+      }
+    },
+    "moves": [
+      {
+        "date": "2026-11-03",
+        "text": "Won a third term 59.8% to 36.8% with 91% counted, a wider margin than in 2022.",
+        "sources": [
+          {
+            "title": "Presidential Power Ranking For 2028: Frontrunners Assessed After Midterms",
+            "publisher": "Newsweek",
+            "url": "https://www.newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
+            "date": "2026-11-04"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "andy-beshear",
+    "name": "Andy Beshear",
+    "party": "D",
+    "role": "Governor of Kentucky",
+    "born": "1977-11-29",
+    "home": "Kentucky",
+    "wikipedia": "Andy Beshear",
+    "portrait": {
+      "file": "andy-beshear.jpg",
+      "credit": "Governor Andy Beshear",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Andy_Beshear_in_April_2026_(cropped_3).jpg"
+    },
+    "status": "interested",
+    "statusNote": "Has said openly that he would consider a run. Spent the last weeks of the midterms campaigning in early primary states.",
+    "bio": "Former Kentucky attorney general and the son of a governor. Elected governor in 2019 and re-elected in 2023 in a state Trump won by 30 points. Term-limited out in 2027.",
+    "standing": {
+      "text": "4% in the RealClearPolling Democratic average",
+      "asOf": "2026-11-01",
+      "source": {
+        "title": "Presidential Power Ranking For 2028: Frontrunners Assessed After Midterms",
+        "publisher": "Newsweek",
+        "url": "https://www.newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
+        "date": "2026-11-04"
+      }
+    },
+    "positions": {
+      "tariffs": {
+        "label": "Says they hurt Kentucky",
+        "lean": -1,
+        "summary": "Has criticized the tariffs for their effect on Kentucky's bourbon and auto industries.",
+        "asOf": "2026-11",
+        "basis": "record",
+        "sources": [
+          {
+            "title": "Andy Beshear",
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Andy_Beshear",
+            "date": "2026-11"
+          }
+        ],
+        "history": []
+      },
+      "health-care": {
+        "label": "Defends Medicaid expansion",
+        "lean": 0,
+        "summary": "Has protected Kentucky's Medicaid expansion and revived the state insurance exchange.",
+        "asOf": "2026-11",
+        "basis": "record",
+        "sources": [
+          {
+            "title": "Andy Beshear",
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Andy_Beshear",
+            "date": "2026-11"
+          }
+        ],
+        "history": []
+      },
+      "israel": {
+        "label": "Rejects the genocide label",
+        "lean": 1,
+        "summary": "Calls demands to use the word genocide \"one of those new litmus tests\" the party said it would stop applying.",
+        "asOf": "2026-09-10",
+        "basis": "statement",
+        "sources": [
+          {
+            "title": "Where Democrats' 2028 Hopefuls Stand On Core Threshold Issues",
+            "publisher": "The Big Picture",
+            "url": "https://thinkbigpicture.substack.com/p/2028-democrats-core-threshold-issues",
+            "date": "2026-09-10"
+          }
+        ],
+        "history": []
+      },
+      "abortion": {
+        "label": "Opposes Kentucky's ban",
+        "lean": -1,
+        "summary": "Has vetoed abortion restrictions and campaigned against the state's ban for lacking rape and incest exceptions.",
+        "asOf": "2026-11",
+        "basis": "record",
+        "sources": [
+          {
+            "title": "Andy Beshear",
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Andy_Beshear",
+            "date": "2026-11"
+          }
+        ],
+        "history": []
+      }
+    },
+    "moves": [
+      {
+        "date": "2026-11-05",
+        "text": "Named by Reuters among Democrats who spent the final midterm weeks in Nevada, New Hampshire and South Carolina.",
+        "sources": [
+          {
+            "title": "Midterms over, Democrats plunge into wide-open 2028 presidential race",
+            "publisher": "Reuters",
+            "url": "https://www.yahoo.com/news/politics/articles/midterms-over-democrats-plunge-wide-111023616.html",
+            "date": "2026-11-05"
+          }
+        ]
+      }
+    ]
+  }
+]

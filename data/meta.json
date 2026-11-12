@@ -1,0 +1,24 @@
+{
+  "title": "2028 Watch",
+  "electionDate": "2028-11-07",
+  "lastUpdated": "2026-11-12",
+  "previousUpdate": null,
+  "raceSummary": {
+    "asOf": "2026-11-12",
+    "headline": "Nobody major has declared, and the midterms reopened both primaries.",
+    "paragraphs": [
+      "Democrats won both chambers of Congress on Nov. 3, with at least 54 Senate seats and 254 House seats and some races still uncalled. They flipped Senate seats in Texas, Ohio, Iowa, Kansas, North Carolina, Maine, South Carolina and Mississippi.",
+      "Republicans are arguing over the cause. JD Vance blames the Iran war, Marco Rubio defends it, Ron DeSantis says the party fought yesterday's battle, and Ted Cruz blames tariffs and the length of the war. Donald Trump said he may stay out of the primary.",
+      "On the Democratic side Kamala Harris leads national polls but drew 0.6% in the Crooked Con straw poll. Jon Ossoff, who says he has zero interest in running, won it with 38.4%."
+    ],
+    "sources": [
+      { "title": "2026 midterm election results: Who won the key House and Senate races?", "publisher": "Northeastern Global News", "url": "https://news.northeastern.edu/2026/11/03/midterm-election-results-analysis-2026/", "date": "2026-11-03" },
+      { "title": "Trump's 2028 successors are already fighting over who to blame for GOP midterm wipeout", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/11/10/trump-vance-rubio-republican-desantis-midterms.html", "date": "2026-11-10" },
+      { "title": "Ossoff And AOC Tipped As Favorites For The 2028 Democratic Presidential Nomination At Progressive Convention", "publisher": "International Business Times", "url": "https://www.yahoo.com/news/politics/articles/ossoff-aoc-tipped-favorites-2028-125653038.html", "date": "2026-11-08" },
+      { "title": "Presidential Power Ranking For 2028: Frontrunners Assessed After Midterms", "publisher": "Newsweek", "url": "https://www.newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279", "date": "2026-11-04" }
+    ]
+  },
+  "updates": [
+    { "date": "2026-11-12", "summary": "First edition. 13 candidates, 25 pundits, 7 issues. Right-wing pundit stances seeded from the Media Matters roundup of Nov. 10." }
+  ]
+}

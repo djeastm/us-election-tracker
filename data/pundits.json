@@ -1,0 +1,1554 @@
+[
+  {
+    "id": "tucker-carlson",
+    "name": "Tucker Carlson",
+    "side": "right",
+    "wikipedia": "Tucker Carlson",
+    "portrait": {
+      "file": "tucker-carlson.jpg",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Tucker_Carlson_(54670577849)_(cropped_2).jpg"
+    },
+    "bio": "Fox News's top-rated host until the network fired him in 2023, now running his own subscription network. Backed Trump in 2024, then apologized for it after the Iran war began and said in June that he is done with the Republican Party.",
+    "spectrum": {
+      "score": 4,
+      "faction": "Populist, anti-war right",
+      "rationale": "Nationalist on immigration and trade and the loudest opponent of the Iran war on the right. He has left the party rather than moved toward the center."
+    },
+    "platforms": [
+      {
+        "outlet": "tucker-carlson-network",
+        "show": "The Tucker Carlson Show",
+        "role": "Host",
+        "reach": [
+          {
+            "metric": "YouTube subscribers",
+            "value": 5790000,
+            "asOf": "2026-11-12",
+            "youtube": "TuckerCarlson",
+            "source": {
+              "title": "Tucker Carlson on YouTube",
+              "publisher": "YouTube",
+              "url": "https://www.youtube.com/@TuckerCarlson",
+              "date": "2026-11-12"
+            }
+          }
+        ]
+      }
+    ],
+    "stances": [
+      {
+        "date": "2026-07",
+        "candidate": null,
+        "subject": "A third party",
+        "position": "support",
+        "quote": "there's going to be a third party, and I'm going to do everything I can to bring that about",
+        "context": "Told Columbia Journalism Review he wants a third party but does not want to be its candidate.",
+        "venue": "Columbia Journalism Review interview",
+        "source": {
+          "title": "Tucker Carlson teases third political party",
+          "publisher": "The Washington Times",
+          "url": "https://www.washingtontimes.com/news/2026/jul/2/tucker-carlson-teases-third-political-party-im-going-everything-bring/",
+          "date": "2026-07-02"
+        }
+      },
+      {
+        "date": "2026-06",
+        "candidate": "jd-vance",
+        "subject": null,
+        "position": "leaning",
+        "quote": "Obviously, [Vance] is great compared to Rubio",
+        "context": "Praised Vance days after quitting the party, while saying Vance is in a tough spot leading the Iran talks.",
+        "venue": "The Alex Jones Show",
+        "source": {
+          "title": "Ex-Trump backer praises 'really smart' 2028 contender, days after trashing GOP",
+          "publisher": "Yahoo News",
+          "url": "https://www.yahoo.com/news/politics/articles/ex-trump-backer-praises-really-161542905.html",
+          "date": "2026-06"
+        }
+      },
+      {
+        "date": "2026-06",
+        "candidate": "marco-rubio",
+        "subject": null,
+        "position": "skeptical",
+        "quote": null,
+        "context": "Ranked Rubio below Vance in the same interview.",
+        "venue": "The Alex Jones Show",
+        "source": {
+          "title": "Ex-Trump backer praises 'really smart' 2028 contender, days after trashing GOP",
+          "publisher": "Yahoo News",
+          "url": "https://www.yahoo.com/news/politics/articles/ex-trump-backer-praises-really-161542905.html",
+          "date": "2026-06"
+        }
+      },
+      {
+        "date": "2026-06",
+        "candidate": null,
+        "subject": "His own candidacy",
+        "position": "oppose",
+        "quote": null,
+        "context": "Ruled out running for president himself.",
+        "venue": "The Alex Jones Show",
+        "source": {
+          "title": "Tucker Carlson dismisses 2028 presidential bid",
+          "publisher": "The Hill",
+          "url": "https://thehill.com/homenews/campaign/5939120-tucker-carlson-rules-out-2028-bid/",
+          "date": "2026-06"
+        }
+      },
+      {
+        "date": "2026-06-22",
+        "candidate": null,
+        "subject": "The Republican Party",
+        "position": "oppose",
+        "quote": "So no, I'm out. And if I'm out, then I think a lot of other people are out.",
+        "context": "Said there is no chance he would support the Republican Party in the midterms, and that he would not support Democrats either.",
+        "venue": "Can't Be Censored podcast",
+        "source": {
+          "title": "Tucker Carlson says he will no longer support the Republican Party",
+          "publisher": "Associated Press",
+          "url": "https://www.nbcnews.com/politics/politics-news/tucker-carlson-says-will-no-longer-support-republican-party-rcna351308",
+          "date": "2026-06-22"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ben-shapiro",
+    "name": "Ben Shapiro",
+    "side": "right",
+    "wikipedia": "Ben Shapiro",
+    "portrait": {
+      "file": "ben-shapiro.jpg",
+      "credit": "Gage Skidmore",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ben_Shapiro_December_2025_(cropped).jpg"
+    },
+    "bio": "Co-founder of The Daily Wire and host of one of the most downloaded conservative podcasts. A lawyer by training and the most prominent defender of Israel and of the Iran war in right-wing media.",
+    "spectrum": {
+      "score": 3,
+      "faction": "Hawkish conservative",
+      "rationale": "A movement conservative on taxes, religion and culture who is at open war with the populist, anti-interventionist wing."
+    },
+    "platforms": [
+      {
+        "outlet": "daily-wire",
+        "show": "The Ben Shapiro Show, Friendly Fire",
+        "role": "Host and co-founder",
+        "reach": [
+          {
+            "metric": "YouTube subscribers",
+            "value": 6960000,
+            "asOf": "2026-11-12",
+            "youtube": "BenShapiro",
+            "source": {
+              "title": "Ben Shapiro on YouTube",
+              "publisher": "YouTube",
+              "url": "https://www.youtube.com/@BenShapiro",
+              "date": "2026-11-12"
+            }
+          }
+        ]
+      }
+    ],
+    "stances": [
+      {
+        "date": "2026-11-04",
+        "candidate": "jd-vance",
+        "subject": null,
+        "position": "skeptical",
+        "quote": "That is a rough road.",
+        "context": "Said \"I just don't see\" Vance as the nominee after the midterms.",
+        "venue": "Friendly Fire, The Daily Wire",
+        "source": {
+          "title": "Right-wing media figures set the stage for who they want on the GOP ticket in 2028",
+          "publisher": "Media Matters for America",
+          "url": "https://www.mediamatters.org/jd-vance/right-wing-media-figures-set-stage-who-they-want-gop-ticket-2028",
+          "date": "2026-11-10"
+        }
+      }
+    ]
+  },
+  {
+    "id": "megyn-kelly",
+    "name": "Megyn Kelly",
+    "side": "right",
+    "wikipedia": "Megyn Kelly",
+    "portrait": {
+      "file": "megyn-kelly.jpg",
+      "credit": "Gage Skidmore",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Megyn_Kelly_(54670579634)_(cropped).jpg"
+    },
+    "bio": "Former Fox News and NBC anchor who rebuilt her audience with a daily SiriusXM and YouTube show. Has moved toward the populist wing and feuds openly with Ben Shapiro and Mark Levin.",
+    "spectrum": {
+      "score": 3.5,
+      "faction": "Populist, anti-war right",
+      "rationale": "Culturally conservative and increasingly aligned with the anti-interventionist camp against the Fox and Daily Wire establishment."
+    },
+    "platforms": [
+      {
+        "outlet": "siriusxm",
+        "show": "The Megyn Kelly Show",
+        "role": "Host",
+        "reach": [
+          {
+            "metric": "YouTube subscribers",
+            "value": 4190000,
+            "asOf": "2026-11-12",
+            "youtube": "MegynKelly",
+            "source": {
+              "title": "Megyn Kelly on YouTube",
+              "publisher": "YouTube",
+              "url": "https://www.youtube.com/@MegynKelly",
+              "date": "2026-11-12"
+            }
+          }
+        ]
+      }
+    ],
+    "stances": [
+      {
+        "date": "2026-11-04",
+        "candidate": "ron-desantis",
+        "subject": null,
+        "position": "skeptical",
+        "quote": "he's a neocon.",
+        "context": "Dismissed DeSantis the day after the midterms.",
+        "venue": "The Megyn Kelly Show, SiriusXM",
+        "source": {
+          "title": "Right-wing media figures set the stage for who they want on the GOP ticket in 2028",
+          "publisher": "Media Matters for America",
+          "url": "https://www.mediamatters.org/jd-vance/right-wing-media-figures-set-stage-who-they-want-gop-ticket-2028",
+          "date": "2026-11-10"
+        }
+      },
+      {
+        "date": "2026-05",
+        "candidate": "jd-vance",
+        "subject": null,
+        "position": "leaning",
+        "quote": null,
+        "context": "Slate describes her as promoting Vance as the front-runner among 2028 Republican hopefuls. She has also predicted Fox will not back him.",
+        "venue": "The Megyn Kelly Show",
+        "source": {
+          "title": "Megyn Kelly's YouTube transformation tells a dark story about her, and us.",
+          "publisher": "Slate",
+          "url": "https://slate.com/news-and-politics/2026/05/megyn-kelly-show-youtube-podcast-trump-charlie-kirk.html",
+          "date": "2026-05"
+        }
+      }
+    ]
+  },
+  {
+    "id": "sean-hannity",
+    "name": "Sean Hannity",
+    "side": "right",
+    "wikipedia": "Sean Hannity",
+    "portrait": {
+      "file": "sean-hannity.jpg",
+      "credit": "The White House from Washington, DC",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Sean_Hannity_2020.jpg"
+    },
+    "bio": "Fox News's 9 p.m. host since 2009 and one of the most syndicated voices in talk radio. A close informal adviser to Trump throughout both terms.",
+    "spectrum": {
+      "score": 3.5,
+      "faction": "Fox establishment",
+      "rationale": "Follows the Trump White House line closely and supports the Iran war. Conservative across the board without the populist break on foreign policy."
+    },
+    "platforms": [
+      {
+        "outlet": "fox-news",
+        "show": "Hannity",
+        "role": "Host",
+        "reach": [
+          {
+            "metric": "Hannity, average viewers, October 2026",
+            "value": 1847000,
+            "asOf": "2026-10",
+            "source": {
+              "title": "Here Are the Cable News Ratings for October 2026",
+              "publisher": "Adweek TVNewser",
+              "url": "https://www.adweek.com/tvnewser/cable-news-ratings-october-2026/",
+              "date": "2026-11"
+            }
+          }
+        ]
+      },
+      {
+        "outlet": "premiere-networks",
+        "show": "The Sean Hannity Show",
+        "role": "Host",
+        "reach": []
+      }
+    ],
+    "stances": [
+      {
+        "date": "2026-11-05",
+        "candidate": "marco-rubio",
+        "subject": null,
+        "position": "support",
+        "quote": "he's got a lot going for him.",
+        "context": "Talked up Rubio on his radio show two days after the midterms.",
+        "venue": "The Sean Hannity Show, Premiere Radio Networks",
+        "source": {
+          "title": "Right-wing media figures set the stage for who they want on the GOP ticket in 2028",
+          "publisher": "Media Matters for America",
+          "url": "https://www.mediamatters.org/jd-vance/right-wing-media-figures-set-stage-who-they-want-gop-ticket-2028",
+          "date": "2026-11-10"
+        }
+      }
+    ]
+  },
+  {
+    "id": "jesse-watters",
+    "name": "Jesse Watters",
+    "side": "right",
+    "wikipedia": "Jesse Watters",
+    "portrait": {
+      "file": "jesse-watters.jpg",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America",
+      "license": "CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Jesse_Watters_(51774148529)_(cropped).jpg"
+    },
+    "bio": "Took over Fox News's 8 p.m. hour in 2023 after Tucker Carlson's firing and co-hosts The Five, the most watched show in cable news.",
+    "spectrum": {
+      "score": 3.5,
+      "faction": "Fox establishment",
+      "rationale": "Reliable Trump ally with a populist tone, inside the network's mainstream rather than the anti-war insurgency."
+    },
+    "platforms": [
+      {
+        "outlet": "fox-news",
+        "show": "Jesse Watters Primetime",
+        "role": "Host",
+        "reach": [
+          {
+            "metric": "Jesse Watters Primetime, average viewers, October 2026",
+            "value": 2344000,
+            "asOf": "2026-10",
+            "source": {
+              "title": "Here Are the Cable News Ratings for October 2026",
+              "publisher": "Adweek TVNewser",
+              "url": "https://www.adweek.com/tvnewser/cable-news-ratings-october-2026/",
+              "date": "2026-11"
+            }
+          }
+        ]
+      },
+      {
+        "outlet": "fox-news",
+        "show": "The Five",
+        "role": "Co-host",
+        "reach": [
+          {
+            "metric": "The Five, average viewers, October 2026",
+            "value": 2707000,
+            "asOf": "2026-10",
+            "source": {
+              "title": "Here Are the Cable News Ratings for October 2026",
+              "publisher": "Adweek TVNewser",
+              "url": "https://www.adweek.com/tvnewser/cable-news-ratings-october-2026/",
+              "date": "2026-11"
+            }
+          }
+        ]
+      }
+    ],
+    "stances": [
+      {
+        "date": "2026-11-05",
+        "candidate": "marco-rubio",
+        "subject": null,
+        "position": "skeptical",
+        "quote": "still tied to the war",
+        "context": "Said Rubio cannot escape the Iran war.",
+        "venue": "Jesse Watters Primetime, Fox News",
+        "source": {
+          "title": "Right-wing media figures set the stage for who they want on the GOP ticket in 2028",
+          "publisher": "Media Matters for America",
+          "url": "https://www.mediamatters.org/jd-vance/right-wing-media-figures-set-stage-who-they-want-gop-ticket-2028",
+          "date": "2026-11-10"
+        }
+      },
+      {
+        "date": "2026-11-04",
+        "candidate": "ron-desantis",
+        "subject": null,
+        "position": "support",
+        "quote": "The tsunami stopped at his door.",
+        "context": "Put DeSantis \"in the 2028 conversation\" on the night after the midterms.",
+        "venue": "Jesse Watters Primetime, Fox News",
+        "source": {
+          "title": "Right-wing media figures set the stage for who they want on the GOP ticket in 2028",
+          "publisher": "Media Matters for America",
+          "url": "https://www.mediamatters.org/jd-vance/right-wing-media-figures-set-stage-who-they-want-gop-ticket-2028",
+          "date": "2026-11-10"
+        }
+      }
+    ]
+  },
+  {
+    "id": "brian-kilmeade",
+    "name": "Brian Kilmeade",
+    "side": "right",
+    "wikipedia": "Brian Kilmeade",
+    "portrait": {
+      "file": "brian-kilmeade.jpg",
+      "credit": "U.S. Department of the Interior",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Brian_Kilmeade_2025_(cropped).jpg"
+    },
+    "bio": "Co-host of Fox & Friends since 1998, with a daily Fox News Radio show and a weekend program. Among the network's most consistent defenders of the Iran war.",
+    "spectrum": {
+      "score": 3,
+      "faction": "Fox establishment",
+      "rationale": "A traditional hawk. His break with Vance is over the vice president's criticism of the war."
+    },
+    "platforms": [
+      {
+        "outlet": "fox-news",
+        "show": "Fox & Friends",
+        "role": "Co-host",
+        "reach": []
+      },
+      {
+        "outlet": "fox-news",
+        "show": "The Brian Kilmeade Show",
+        "role": "Host, Fox News Radio",
+        "reach": []
+      }
+    ],
+    "stances": [
+      {
+        "date": "2026-11-08",
+        "candidate": "ron-desantis",
+        "subject": null,
+        "position": "support",
+        "quote": "If the vote was today, that would be my vote for the nomination.",
+        "context": "Named DeSantis as his choice.",
+        "venue": "The Brian Kilmeade Show, Fox News Radio",
+        "source": {
+          "title": "Right-wing media figures set the stage for who they want on the GOP ticket in 2028",
+          "publisher": "Media Matters for America",
+          "url": "https://www.mediamatters.org/jd-vance/right-wing-media-figures-set-stage-who-they-want-gop-ticket-2028",
+          "date": "2026-11-10"
+        }
+      },
+      {
+        "date": "2026-11-05",
+        "candidate": "jd-vance",
+        "subject": null,
+        "position": "oppose",
+        "quote": "the person who did the most damage to the war effort",
+        "context": "Attacked Vance for blaming the war for the midterm loss.",
+        "venue": "Fox & Friends, Fox News",
+        "source": {
+          "title": "Right-wing media figures set the stage for who they want on the GOP ticket in 2028",
+          "publisher": "Media Matters for America",
+          "url": "https://www.mediamatters.org/jd-vance/right-wing-media-figures-set-stage-who-they-want-gop-ticket-2028",
+          "date": "2026-11-10"
+        }
+      },
+      {
+        "date": "2026-11-04",
+        "candidate": "jd-vance",
+        "subject": null,
+        "position": "skeptical",
+        "quote": "I think this is wide open now.",
+        "context": "Said the nomination is no longer Vance's to lose.",
+        "venue": "Fox & Friends, Fox News",
+        "source": {
+          "title": "Right-wing media figures set the stage for who they want on the GOP ticket in 2028",
+          "publisher": "Media Matters for America",
+          "url": "https://www.mediamatters.org/jd-vance/right-wing-media-figures-set-stage-who-they-want-gop-ticket-2028",
+          "date": "2026-11-10"
+        }
+      }
+    ]
+  },
+  {
+    "id": "steve-bannon",
+    "name": "Steve Bannon",
+    "side": "right",
+    "wikipedia": "Steve Bannon",
+    "portrait": {
+      "file": "steve-bannon.jpg",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Steve_Bannon_in_2025_(3x4_cropped).jpg"
+    },
+    "bio": "Chief executive of Trump's 2016 campaign and briefly White House chief strategist. Hosts War Room, the daily show that sets the agenda for the party's populist base. Has repeatedly declined to rule out his own run.",
+    "spectrum": {
+      "score": 4.5,
+      "faction": "Populist, anti-war right",
+      "rationale": "Economic nationalist, hostile to big tech and to the party's donor class, and the loudest advocate of a third Trump term."
+    },
+    "platforms": [
+      {
+        "outlet": "real-americas-voice",
+        "show": "War Room",
+        "role": "Host",
+        "reach": []
+      }
+    ],
+    "stances": [
+      {
+        "date": "2025-08",
+        "candidate": "jd-vance",
+        "subject": null,
+        "position": "skeptical",
+        "quote": null,
+        "context": "Reported to have told allies Vance is \"not tough enough\" to run in 2028. Has criticized him on air as too close to big tech. The quote comes from an unnamed source.",
+        "venue": "Private remarks reported by the Daily Mail",
+        "source": {
+          "title": "Steve Bannon Reacts to Report About Him Running for President in 2028",
+          "publisher": "Newsweek",
+          "url": "https://www.newsweek.com/steve-bannon-presidential-run-2028-report-reaction-2110504",
+          "date": "2025-08"
+        }
+      },
+      {
+        "date": "2025-03",
+        "candidate": null,
+        "subject": "A third Trump term",
+        "position": "support",
+        "quote": null,
+        "context": "Says he is a firm believer that Trump will run and win again in 2028, despite the 22nd Amendment.",
+        "venue": "Interview",
+        "source": {
+          "title": "Donald Trump Will Run Again in 2028, Steve Bannon Says",
+          "publisher": "Newsweek",
+          "url": "https://www.newsweek.com/donald-trump-will-run-again-2028-steve-bannon-says-2046954",
+          "date": "2025-03"
+        }
+      }
+    ]
+  },
+  {
+    "id": "jack-posobiec",
+    "name": "Jack Posobiec",
+    "side": "right",
+    "wikipedia": "Jack Posobiec",
+    "portrait": {
+      "file": "jack-posobiec.jpg",
+      "credit": "Gage Skidmore",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Jack_Posobiec_(cropped).jpg"
+    },
+    "bio": "Former Navy intelligence officer and senior editor at Human Events. Rose to prominence promoting the Pizzagate conspiracy theory and is now a fixture of the Turning Point USA circuit.",
+    "spectrum": {
+      "score": 4.5,
+      "faction": "Populist, anti-war right",
+      "rationale": "A hard-line nationalist activist who treats the party's hawks and its 2024 DeSantis backers as the enemy within."
+    },
+    "platforms": [
+      {
+        "outlet": "real-americas-voice",
+        "show": "Human Events Daily",
+        "role": "Host",
+        "reach": []
+      }
+    ],
+    "stances": [
+      {
+        "date": "2026-11-05",
+        "candidate": "jd-vance",
+        "subject": null,
+        "position": "support",
+        "quote": "I appreciate that JD Vance stood up and showed leadership and took accountability",
+        "context": "Praised Vance's post blaming the war.",
+        "venue": "Human Events Daily, Real America's Voice",
+        "source": {
+          "title": "Right-wing media figures set the stage for who they want on the GOP ticket in 2028",
+          "publisher": "Media Matters for America",
+          "url": "https://www.mediamatters.org/jd-vance/right-wing-media-figures-set-stage-who-they-want-gop-ticket-2028",
+          "date": "2026-11-10"
+        }
+      },
+      {
+        "date": "2026-11-05",
+        "candidate": "ron-desantis",
+        "subject": null,
+        "position": "skeptical",
+        "quote": null,
+        "context": "Mocked DeSantis's past as a foreign-policy hawk.",
+        "venue": "Human Events Daily, Real America's Voice",
+        "source": {
+          "title": "Right-wing media figures set the stage for who they want on the GOP ticket in 2028",
+          "publisher": "Media Matters for America",
+          "url": "https://www.mediamatters.org/jd-vance/right-wing-media-figures-set-stage-who-they-want-gop-ticket-2028",
+          "date": "2026-11-10"
+        }
+      }
+    ]
+  },
+  {
+    "id": "michael-knowles",
+    "name": "Michael Knowles",
+    "side": "right",
+    "wikipedia": "Michael Knowles (political commentator)",
+    "portrait": {
+      "file": "michael-knowles.jpg",
+      "credit": "Gage Skidmore",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Michael_Knowles_September_2025_(cropped).jpg"
+    },
+    "bio": "Daily Wire host and Catholic traditionalist. Shares a company with Ben Shapiro but not his view of Vance.",
+    "spectrum": {
+      "score": 4,
+      "faction": "Religious conservative",
+      "rationale": "Socially conservative to a degree that puts him to the right of the Fox mainstream, and sympathetic to Vance's post-liberal politics."
+    },
+    "platforms": [
+      {
+        "outlet": "daily-wire",
+        "show": "The Michael Knowles Show",
+        "role": "Host",
+        "reach": [
+          {
+            "metric": "YouTube subscribers",
+            "value": 2620000,
+            "asOf": "2026-11-12",
+            "youtube": "MichaelKnowles",
+            "source": {
+              "title": "Michael Knowles on YouTube",
+              "publisher": "YouTube",
+              "url": "https://www.youtube.com/@MichaelKnowles",
+              "date": "2026-11-12"
+            }
+          }
+        ]
+      }
+    ],
+    "stances": [
+      {
+        "date": "2026-11-04",
+        "candidate": "jd-vance",
+        "subject": null,
+        "position": "support",
+        "quote": "I think he is the obvious heir apparent",
+        "context": "Stood by Vance the day after the midterms.",
+        "venue": "The Michael Knowles Show, The Daily Wire",
+        "source": {
+          "title": "Right-wing media figures set the stage for who they want on the GOP ticket in 2028",
+          "publisher": "Media Matters for America",
+          "url": "https://www.mediamatters.org/jd-vance/right-wing-media-figures-set-stage-who-they-want-gop-ticket-2028",
+          "date": "2026-11-10"
+        }
+      }
+    ]
+  },
+  {
+    "id": "tim-pool",
+    "name": "Tim Pool",
+    "side": "right",
+    "wikipedia": "Tim Pool",
+    "portrait": {
+      "file": "tim-pool.jpg",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America",
+      "license": "CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Tim_Pool_(53425474894)_(cropped).jpg"
+    },
+    "bio": "Came up livestreaming Occupy Wall Street in 2011 and moved right over the following decade. Runs the Timcast shows from a studio compound in West Virginia.",
+    "spectrum": {
+      "score": 3.5,
+      "faction": "Populist, anti-war right",
+      "rationale": "Anti-establishment and anti-interventionist, with an audience drawn from the online right rather than the churchgoing one."
+    },
+    "platforms": [
+      {
+        "outlet": "timcast",
+        "show": "Timcast IRL",
+        "role": "Host",
+        "reach": [
+          {
+            "metric": "YouTube subscribers",
+            "value": 1470000,
+            "asOf": "2026-11-12",
+            "youtube": "Timcast",
+            "source": {
+              "title": "Tim Pool on YouTube",
+              "publisher": "YouTube",
+              "url": "https://www.youtube.com/@Timcast",
+              "date": "2026-11-12"
+            }
+          }
+        ]
+      }
+    ],
+    "stances": [
+      {
+        "date": "2026-11-05",
+        "candidate": "jd-vance",
+        "subject": null,
+        "position": "skeptical",
+        "quote": "I don't think Vance has got it.",
+        "context": "Wrote off all three leading Republicans in one segment.",
+        "venue": "Timcast, YouTube",
+        "source": {
+          "title": "Right-wing media figures set the stage for who they want on the GOP ticket in 2028",
+          "publisher": "Media Matters for America",
+          "url": "https://www.mediamatters.org/jd-vance/right-wing-media-figures-set-stage-who-they-want-gop-ticket-2028",
+          "date": "2026-11-10"
+        }
+      },
+      {
+        "date": "2026-11-05",
+        "candidate": "marco-rubio",
+        "subject": null,
+        "position": "skeptical",
+        "quote": "I don't think Marco Rubio's got it. Not anymore.",
+        "context": "Wrote off all three leading Republicans in one segment.",
+        "venue": "Timcast, YouTube",
+        "source": {
+          "title": "Right-wing media figures set the stage for who they want on the GOP ticket in 2028",
+          "publisher": "Media Matters for America",
+          "url": "https://www.mediamatters.org/jd-vance/right-wing-media-figures-set-stage-who-they-want-gop-ticket-2028",
+          "date": "2026-11-10"
+        }
+      },
+      {
+        "date": "2026-11-05",
+        "candidate": "ron-desantis",
+        "subject": null,
+        "position": "skeptical",
+        "quote": "I don't know that Ron DeSantis actually has what it takes",
+        "context": "Wrote off all three leading Republicans in one segment.",
+        "venue": "Timcast, YouTube",
+        "source": {
+          "title": "Right-wing media figures set the stage for who they want on the GOP ticket in 2028",
+          "publisher": "Media Matters for America",
+          "url": "https://www.mediamatters.org/jd-vance/right-wing-media-figures-set-stage-who-they-want-gop-ticket-2028",
+          "date": "2026-11-10"
+        }
+      }
+    ]
+  },
+  {
+    "id": "nick-fuentes",
+    "name": "Nick Fuentes",
+    "side": "right",
+    "wikipedia": "Nick Fuentes",
+    "portrait": {
+      "file": "nick-fuentes.png",
+      "credit": "Modern-Day Debate",
+      "license": "CC BY 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Nick_Fuentes_virtual_debate,_August_2022.png"
+    },
+    "bio": "Livestreamer and leader of the \"Groyper\" movement, widely described as a white nationalist and Holocaust denier. Banned from most major platforms and now broadcasts on Rumble. His following among young men on the right has made him a problem the party's candidates are asked about.",
+    "spectrum": {
+      "score": 5,
+      "faction": "Far right",
+      "rationale": "Explicitly white nationalist and antisemitic. He attacks the rest of the right, including Vance, as insufficiently radical."
+    },
+    "platforms": [
+      {
+        "outlet": "rumble",
+        "show": "America First with Nick Fuentes",
+        "role": "Host",
+        "reach": []
+      }
+    ],
+    "stances": [
+      {
+        "date": "2026-11-05",
+        "candidate": "jd-vance",
+        "subject": null,
+        "position": "oppose",
+        "quote": "Convenient.",
+        "context": "Sneered at Vance's post-midterm turn against the war.",
+        "venue": "America First, Rumble",
+        "source": {
+          "title": "Right-wing media figures set the stage for who they want on the GOP ticket in 2028",
+          "publisher": "Media Matters for America",
+          "url": "https://www.mediamatters.org/jd-vance/right-wing-media-figures-set-stage-who-they-want-gop-ticket-2028",
+          "date": "2026-11-10"
+        }
+      },
+      {
+        "date": "2026-11-03",
+        "candidate": "jd-vance",
+        "subject": null,
+        "position": "oppose",
+        "quote": "he should be disqualified from running in '28 and so should Rubio.",
+        "context": "Said on election night that both men own the war.",
+        "venue": "America First, Rumble",
+        "source": {
+          "title": "Right-wing media figures set the stage for who they want on the GOP ticket in 2028",
+          "publisher": "Media Matters for America",
+          "url": "https://www.mediamatters.org/jd-vance/right-wing-media-figures-set-stage-who-they-want-gop-ticket-2028",
+          "date": "2026-11-10"
+        }
+      },
+      {
+        "date": "2026-11-03",
+        "candidate": "marco-rubio",
+        "subject": null,
+        "position": "oppose",
+        "quote": "he should be disqualified from running in '28 and so should Rubio.",
+        "context": "Said on election night that both men own the war.",
+        "venue": "America First, Rumble",
+        "source": {
+          "title": "Right-wing media figures set the stage for who they want on the GOP ticket in 2028",
+          "publisher": "Media Matters for America",
+          "url": "https://www.mediamatters.org/jd-vance/right-wing-media-figures-set-stage-who-they-want-gop-ticket-2028",
+          "date": "2026-11-10"
+        }
+      }
+    ]
+  },
+  {
+    "id": "erick-erickson",
+    "name": "Erick Erickson",
+    "side": "right",
+    "wikipedia": "Erick Erickson",
+    "portrait": {
+      "file": "erick-erickson.jpg",
+      "credit": "Gage Skidmore",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Erick_Erickson_by_Gage_Skidmore.jpg"
+    },
+    "bio": "Former editor of RedState and one-time Never Trump voice who made his peace with the party. Hosts a syndicated radio show from Atlanta.",
+    "spectrum": {
+      "score": 2.5,
+      "faction": "Traditional conservative",
+      "rationale": "An evangelical, pre-Trump conservative. Closest of the right-wing hosts here to the old Republican establishment."
+    },
+    "platforms": [
+      {
+        "outlet": "cox-media",
+        "show": "The Erick Erickson Show",
+        "role": "Host",
+        "reach": []
+      }
+    ],
+    "stances": [
+      {
+        "date": "2026-11-04",
+        "candidate": "jd-vance",
+        "subject": null,
+        "position": "skeptical",
+        "quote": "that dude is so hyper-online",
+        "context": "Questioned whether Vance can appeal beyond the internet right.",
+        "venue": "The Erick Erickson Show",
+        "source": {
+          "title": "Right-wing media figures set the stage for who they want on the GOP ticket in 2028",
+          "publisher": "Media Matters for America",
+          "url": "https://www.mediamatters.org/jd-vance/right-wing-media-figures-set-stage-who-they-want-gop-ticket-2028",
+          "date": "2026-11-10"
+        }
+      }
+    ]
+  },
+  {
+    "id": "mark-levin",
+    "name": "Mark Levin",
+    "side": "right",
+    "wikipedia": "Mark Levin",
+    "portrait": {
+      "file": "mark-levin.jpg",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America",
+      "license": "CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Mark_Levin_(49270613228)_(cropped).jpg"
+    },
+    "bio": "Reagan administration lawyer turned radio host, with a weekend show on Fox News. The most forceful advocate of the Iran war in talk radio and a frequent target of the anti-war right.",
+    "spectrum": {
+      "score": 3.5,
+      "faction": "Hawkish conservative",
+      "rationale": "A constitutional conservative and uncompromising hawk who has stayed loyal to Trump while fighting the party's anti-interventionists."
+    },
+    "platforms": [
+      {
+        "outlet": "westwood-one",
+        "show": "The Mark Levin Show",
+        "role": "Host",
+        "reach": [
+          {
+            "metric": "YouTube subscribers",
+            "value": 104000,
+            "asOf": "2026-11-12",
+            "youtube": "marklevinshow",
+            "source": {
+              "title": "The Mark Levin Show on YouTube",
+              "publisher": "YouTube",
+              "url": "https://www.youtube.com/@marklevinshow",
+              "date": "2026-11-12"
+            }
+          }
+        ]
+      },
+      {
+        "outlet": "fox-news",
+        "show": "Life, Liberty & Levin",
+        "role": "Host",
+        "reach": []
+      }
+    ],
+    "stances": [
+      {
+        "date": "2026-11-11",
+        "candidate": "jd-vance",
+        "subject": null,
+        "position": "skeptical",
+        "quote": "While J.D. Vance has launched the 2028 campaign for the presidency in the Republican Party",
+        "context": "Drew a contrast with Vance's break over the war, saying he is \"happy to support the President of the United States.\" He names no candidate of his own.",
+        "venue": "The Mark Levin Show",
+        "source": {
+          "title": "Levin: Time to Engage in the 2028 Battle for the Future of America",
+          "publisher": "The Mark Levin Show",
+          "url": "https://marklevinshow.com/2026/11/11/levin-time-to-engage-in-the-2028-battle-for-the-future-of-america",
+          "date": "2026-11-11"
+        }
+      }
+    ]
+  },
+  {
+    "id": "candace-owens",
+    "name": "Candace Owens",
+    "side": "right",
+    "wikipedia": "Candace Owens",
+    "portrait": {
+      "file": "candace-owens.jpg",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America",
+      "license": "CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Candace_Owens_(53805331465)_(cropped).jpg"
+    },
+    "bio": "Former Turning Point USA and Daily Wire personality who left the latter in 2024 after a dispute over her comments on Israel and Jews. Her independent show is among the most watched political podcasts on YouTube.",
+    "spectrum": {
+      "score": 4.5,
+      "faction": "Populist, anti-war right",
+      "rationale": "Hostile to Israel and to the Republican establishment, with a record of promoting conspiracy theories. She sits outside the party's institutions entirely."
+    },
+    "platforms": [
+      {
+        "outlet": "independent",
+        "show": "Candace",
+        "role": "Host",
+        "reach": [
+          {
+            "metric": "YouTube subscribers",
+            "value": 6070000,
+            "asOf": "2026-11-12",
+            "youtube": "RealCandaceO",
+            "source": {
+              "title": "Candace Owens on YouTube",
+              "publisher": "YouTube",
+              "url": "https://www.youtube.com/@RealCandaceO",
+              "date": "2026-11-12"
+            }
+          }
+        ]
+      }
+    ],
+    "stances": [
+      {
+        "date": "2026-06",
+        "candidate": null,
+        "subject": "A Tucker Carlson candidacy",
+        "position": "support",
+        "quote": null,
+        "context": "Said she would love for Tucker Carlson to run and would help get him elected. Carlson has since ruled it out.",
+        "venue": "Candace",
+        "source": {
+          "title": "Candace Owens pitches Tucker Carlson to be president",
+          "publisher": "AOL",
+          "url": "https://www.aol.com/articles/candace-owens-pitches-tucker-carlson-213553000.html",
+          "date": "2026-06"
+        }
+      }
+    ]
+  },
+  {
+    "id": "patrick-bet-david",
+    "name": "Patrick Bet-David",
+    "side": "right",
+    "wikipedia": "Patrick Bet-David",
+    "portrait": {
+      "file": "patrick-bet-david.jpg",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America",
+      "license": "CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Patrick_Bet-David_(54234423976)_(cropped).jpg"
+    },
+    "bio": "Iranian-born entrepreneur who built Valuetainment from business videos into a political talk network. His panel show is a regular stop for Republican candidates.",
+    "spectrum": {
+      "score": 3,
+      "faction": "Business populist",
+      "rationale": "Pro-Trump and pro-market, less ideological than the movement hosts and more interested in who can win."
+    },
+    "platforms": [
+      {
+        "outlet": "valuetainment",
+        "show": "PBD Podcast",
+        "role": "Host",
+        "reach": [
+          {
+            "metric": "YouTube subscribers",
+            "value": 3000000,
+            "asOf": "2026-11-12",
+            "youtube": "PBDPodcast",
+            "source": {
+              "title": "PBD Podcast on YouTube",
+              "publisher": "YouTube",
+              "url": "https://www.youtube.com/@PBDPodcast",
+              "date": "2026-11-12"
+            }
+          }
+        ]
+      }
+    ],
+    "stances": [
+      {
+        "date": "2026-11-05",
+        "candidate": "marco-rubio",
+        "subject": null,
+        "position": "skeptical",
+        "quote": "tied to Iran",
+        "context": "Said the war hangs on Rubio.",
+        "venue": "PBD Podcast, Valuetainment",
+        "source": {
+          "title": "Right-wing media figures set the stage for who they want on the GOP ticket in 2028",
+          "publisher": "Media Matters for America",
+          "url": "https://www.mediamatters.org/jd-vance/right-wing-media-figures-set-stage-who-they-want-gop-ticket-2028",
+          "date": "2026-11-10"
+        }
+      }
+    ]
+  },
+  {
+    "id": "jon-favreau",
+    "name": "Jon Favreau",
+    "side": "left",
+    "wikipedia": "Jon Favreau (speechwriter)",
+    "portrait": {
+      "file": "jon-favreau.jpg",
+      "credit": "Gage Skidmore",
+      "license": "CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Jon_Favreau_Canvassing_(cropped).jpg"
+    },
+    "bio": "Barack Obama's chief speechwriter from 2009 to 2013 and co-founder of Crooked Media. Co-hosts Pod Save America, a near-mandatory stop for Democratic presidential hopefuls.",
+    "spectrum": {
+      "score": -2.5,
+      "faction": "Liberal establishment",
+      "rationale": "Mainstream Democratic politics with a sharper edge since 2024. Speaks for the party's professional class more than its left flank."
+    },
+    "platforms": [
+      {
+        "outlet": "crooked-media",
+        "show": "Pod Save America",
+        "role": "Co-host",
+        "reach": [
+          {
+            "metric": "YouTube subscribers",
+            "value": 1330000,
+            "asOf": "2026-11-12",
+            "youtube": "PodSaveAmerica",
+            "source": {
+              "title": "Pod Save America on YouTube",
+              "publisher": "YouTube",
+              "url": "https://www.youtube.com/@PodSaveAmerica",
+              "date": "2026-11-12"
+            }
+          }
+        ]
+      }
+    ],
+    "stances": [
+      {
+        "date": "2026-11-07",
+        "candidate": "jon-ossoff",
+        "subject": null,
+        "position": "neutral",
+        "quote": null,
+        "context": "His company's convention straw poll put Ossoff first with 38.4%, ahead of Ocasio-Cortez and Buttigieg. The hosts have handicapped the field on air without naming a pick.",
+        "venue": "Crooked Con, Washington",
+        "source": {
+          "title": "Ossoff And AOC Tipped As Favorites For The 2028 Democratic Presidential Nomination At Progressive Convention",
+          "publisher": "International Business Times",
+          "url": "https://www.yahoo.com/news/politics/articles/ossoff-aoc-tipped-favorites-2028-125653038.html",
+          "date": "2026-11-08"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ezra-klein",
+    "name": "Ezra Klein",
+    "side": "left",
+    "wikipedia": "Ezra Klein",
+    "portrait": {
+      "file": "ezra-klein.jpg",
+      "credit": "SWinxy",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ezra_Klein_2026-01-28.jpg"
+    },
+    "bio": "Co-founder of Vox, now a New York Times columnist and podcast host. Co-wrote Abundance, the 2025 book that became a blueprint for Democrats who want the party to build more.",
+    "spectrum": {
+      "score": -2,
+      "faction": "Liberal establishment",
+      "rationale": "A liberal whose \"abundance\" argument puts him at odds with the party's left on regulation and growth."
+    },
+    "platforms": [
+      {
+        "outlet": "new-york-times",
+        "show": "The Ezra Klein Show",
+        "role": "Host and columnist",
+        "reach": [
+          {
+            "metric": "YouTube subscribers",
+            "value": 604000,
+            "asOf": "2026-11-12",
+            "youtube": "EzraKleinShow",
+            "source": {
+              "title": "The Ezra Klein Show on YouTube",
+              "publisher": "YouTube",
+              "url": "https://www.youtube.com/@EzraKleinShow",
+              "date": "2026-11-12"
+            }
+          }
+        ]
+      }
+    ],
+    "stances": [
+      {
+        "date": "2025-11",
+        "candidate": null,
+        "subject": "The Democratic field",
+        "position": "neutral",
+        "quote": null,
+        "context": "Axios reported he has privately briefed potential candidates including Harris, Newsom and Wes Moore. He has not named a preference.",
+        "venue": "Private meetings",
+        "source": {
+          "title": "Ezra Klein's power play",
+          "publisher": "Axios",
+          "url": "https://www.axios.com/2025/11/17/ezra-klein-s-power-play-2028",
+          "date": "2025-11-17"
+        }
+      }
+    ]
+  },
+  {
+    "id": "rachel-maddow",
+    "name": "Rachel Maddow",
+    "side": "left",
+    "wikipedia": "Rachel Maddow",
+    "portrait": {
+      "file": "rachel-maddow.jpg",
+      "credit": "PhilipRomanoPhoto",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:RachelMaddow-byPhilipRomano.jpg"
+    },
+    "bio": "Rhodes scholar and former radio host who has anchored MS NOW's prime time since 2008. Her show draws the largest audience of any liberal program on television.",
+    "spectrum": {
+      "score": -3,
+      "faction": "Liberal establishment",
+      "rationale": "Solidly liberal and focused on Trump and democratic institutions more than on fights inside the Democratic Party."
+    },
+    "platforms": [
+      {
+        "outlet": "ms-now",
+        "show": "The Rachel Maddow Show",
+        "role": "Host",
+        "reach": [
+          {
+            "metric": "The Rachel Maddow Show, average viewers, October 2026",
+            "value": 1720000,
+            "asOf": "2026-10",
+            "source": {
+              "title": "Here Are the Cable News Ratings for October 2026",
+              "publisher": "Adweek TVNewser",
+              "url": "https://www.adweek.com/tvnewser/cable-news-ratings-october-2026/",
+              "date": "2026-11"
+            }
+          }
+        ]
+      }
+    ],
+    "stances": []
+  },
+  {
+    "id": "jon-stewart",
+    "name": "Jon Stewart",
+    "side": "left",
+    "wikipedia": "Jon Stewart",
+    "portrait": {
+      "file": "jon-stewart.jpg",
+      "credit": "PhilipRomanoPhoto",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:JonStewart-byPhilipRomano.jpg"
+    },
+    "bio": "Hosted The Daily Show from 1999 to 2015 and returned as its Monday host in 2024. The subject of a recurring draft effort, which he has neither encouraged nor shut down.",
+    "spectrum": {
+      "score": -2.5,
+      "faction": "Liberal satirist",
+      "rationale": "Liberal, with a populist streak and a habit of criticizing Democratic leaders as hard as Republican ones."
+    },
+    "platforms": [
+      {
+        "outlet": "comedy-central",
+        "show": "The Daily Show",
+        "role": "Monday host",
+        "reach": [
+          {
+            "metric": "YouTube subscribers",
+            "value": 14200000,
+            "asOf": "2026-11-12",
+            "youtube": "TheDailyShow",
+            "source": {
+              "title": "The Daily Show on YouTube",
+              "publisher": "YouTube",
+              "url": "https://www.youtube.com/@TheDailyShow",
+              "date": "2026-11-12"
+            }
+          }
+        ]
+      },
+      {
+        "outlet": "independent",
+        "show": "The Weekly Show with Jon Stewart",
+        "role": "Host",
+        "reach": [
+          {
+            "metric": "YouTube subscribers",
+            "value": 936000,
+            "asOf": "2026-11-12",
+            "youtube": "WeeklyShowPodcast",
+            "source": {
+              "title": "The Weekly Show with Jon Stewart on YouTube",
+              "publisher": "YouTube",
+              "url": "https://www.youtube.com/@WeeklyShowPodcast",
+              "date": "2026-11-12"
+            }
+          }
+        ]
+      }
+    ],
+    "stances": [
+      {
+        "date": "2026-01",
+        "candidate": null,
+        "subject": "His own candidacy",
+        "position": "neutral",
+        "quote": null,
+        "context": "Mehdi Hasan notes that Stewart never rules out a run when asked, including when Hasan asked him directly.",
+        "venue": "Public appearances",
+        "source": {
+          "title": "Mehdi Hasan on Jon Stewart and 2028",
+          "publisher": "X",
+          "url": "https://x.com/mehdirhasan/status/2012977586494657005",
+          "date": "2026-01"
+        }
+      }
+    ]
+  },
+  {
+    "id": "hasan-piker",
+    "name": "Hasan Piker",
+    "side": "left",
+    "wikipedia": "Hasan Piker",
+    "portrait": {
+      "file": "hasan-piker.jpg",
+      "credit": "Poisonwithahawkseye",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:HasanStLouis-20260501-234558761_(cropped).jpg"
+    },
+    "bio": "Socialist commentator who streams for hours a day on Twitch and is the left's most watched voice among young men. Democrats are split over whether to court him or disown him over his comments on Israel.",
+    "spectrum": {
+      "score": -4.5,
+      "faction": "Socialist left",
+      "rationale": "A democratic socialist who says his job is not to make the Democratic Party look good."
+    },
+    "platforms": [
+      {
+        "outlet": "twitch",
+        "show": "HasanAbi",
+        "role": "Streamer",
+        "reach": [
+          {
+            "metric": "YouTube subscribers",
+            "value": 2040000,
+            "asOf": "2026-11-12",
+            "youtube": "HasanAbi",
+            "source": {
+              "title": "HasanAbi on YouTube",
+              "publisher": "YouTube",
+              "url": "https://www.youtube.com/@HasanAbi",
+              "date": "2026-11-12"
+            }
+          }
+        ]
+      }
+    ],
+    "stances": [
+      {
+        "date": "2026-07",
+        "candidate": "alexandria-ocasio-cortez",
+        "subject": null,
+        "position": "support",
+        "quote": null,
+        "context": "Named Ocasio-Cortez as his preferred nominee in a July interview and repeated it in September. The available reports are from partisan outlets.",
+        "venue": "Interview",
+        "source": {
+          "title": "Hasan Piker Shrugs Off Democrat Backlash, Crowns AOC His 2028 Favorite",
+          "publisher": "LifeZette",
+          "url": "https://www.lifezette.com/2026/09/hasan-piker-shrugs-off-democrat-backlash-crowns-aoc-his-2028-favorite/",
+          "date": "2026-09"
+        }
+      }
+    ]
+  },
+  {
+    "id": "mehdi-hasan",
+    "name": "Mehdi Hasan",
+    "side": "left",
+    "wikipedia": "Mehdi Hasan",
+    "portrait": {
+      "file": "mehdi-hasan.jpg",
+      "credit": "SWinxy",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Mehdi_Hasan_-_2026_Status_Summit_215_(cropped).jpg"
+    },
+    "bio": "British-American journalist known for combative interviews. Left MSNBC when it canceled his show and founded the subscriber-funded Zeteo in 2024.",
+    "spectrum": {
+      "score": -3.5,
+      "faction": "Progressive left",
+      "rationale": "To the left of the Democratic leadership, above all on Gaza, and openly critical of the party's establishment."
+    },
+    "platforms": [
+      {
+        "outlet": "zeteo",
+        "show": "Mehdi Unfiltered",
+        "role": "Founder and host",
+        "reach": []
+      }
+    ],
+    "stances": [
+      {
+        "date": "2025-08",
+        "candidate": null,
+        "subject": "A Jon Stewart candidacy",
+        "position": "leaning",
+        "quote": "I was skeptical about a Stewart candidacy, but maybe 'The Daily Show' host is the right person to shake up the Democratic presidential primaries.",
+        "context": "Made the case for Jon Stewart entering the primary.",
+        "venue": "Zeteo",
+        "source": {
+          "title": "Should Jon Stewart Run for President in 2028?",
+          "publisher": "Zeteo",
+          "url": "https://zeteo.com/p/should-jon-stewart-run-for-president",
+          "date": "2025-08"
+        }
+      }
+    ]
+  },
+  {
+    "id": "james-carville",
+    "name": "James Carville",
+    "side": "left",
+    "wikipedia": "James Carville",
+    "portrait": {
+      "file": "james-carville.jpg",
+      "credit": "JD Lasica from Pleasanton, CA, US",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:James_Carville_(5817022049)_(cropped).jpg"
+    },
+    "bio": "Strategist behind Bill Clinton's 1992 win and a fixture of political television since. Uses his podcast to warn Democrats off the party's left.",
+    "spectrum": {
+      "score": -1.5,
+      "faction": "Centrist Democrat",
+      "rationale": "A Clinton-era moderate who argues the party wins by nominating someone Southern Black voters and working-class voters are comfortable with."
+    },
+    "platforms": [
+      {
+        "outlet": "independent",
+        "show": "Politics War Room",
+        "role": "Co-host",
+        "reach": []
+      }
+    ],
+    "stances": [
+      {
+        "date": "2026-10",
+        "candidate": "alexandria-ocasio-cortez",
+        "subject": null,
+        "position": "skeptical",
+        "quote": null,
+        "context": "Predicts primary voters will reject socialist-aligned candidates, saying Democrats have never nominated their most liberal option. He did not name her.",
+        "venue": "Interview",
+        "source": {
+          "title": "Carville says the GOP is better than Democrats at one key skill the 2028 Dem nominee will need",
+          "publisher": "Fox News",
+          "url": "https://www.foxnews.com/media/carville-gop-better-democrats-key-skill-2028-dem-nominee-need",
+          "date": "2026-10"
+        }
+      },
+      {
+        "date": "2026-01",
+        "candidate": "jb-pritzker",
+        "subject": null,
+        "position": "support",
+        "quote": null,
+        "context": "Named Pritzker as the party's strongest option for 2028.",
+        "venue": "Interview",
+        "source": {
+          "title": "Legendary Democratic strategist names the one person to watch for 2028",
+          "publisher": "Fox News",
+          "url": "https://www.foxnews.com/politics/democrat-james-carville-thinks-worth-watching-2028-surprise-you",
+          "date": "2026-01"
+        }
+      },
+      {
+        "date": "2026-01",
+        "candidate": "kamala-harris",
+        "subject": null,
+        "position": "oppose",
+        "quote": "has no chance",
+        "context": "Said Harris cannot win the primary.",
+        "venue": "Interview",
+        "source": {
+          "title": "Legendary Democratic strategist names the one person to watch for 2028",
+          "publisher": "Fox News",
+          "url": "https://www.foxnews.com/politics/democrat-james-carville-thinks-worth-watching-2028-surprise-you",
+          "date": "2026-01"
+        }
+      }
+    ]
+  },
+  {
+    "id": "tim-miller",
+    "name": "Tim Miller",
+    "side": "left",
+    "wikipedia": "Tim Miller (political strategist)",
+    "portrait": {
+      "file": "tim-miller.jpg",
+      "credit": "Aunger67",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Tim_Miller_at_Politics_%26_Prose.jpg"
+    },
+    "bio": "Former Republican National Committee spokesman and communications director for Jeb Bush's 2016 campaign. Left the party over Trump and now hosts The Bulwark's daily podcast.",
+    "spectrum": {
+      "score": -1,
+      "faction": "Never Trump",
+      "rationale": "An ex-Republican who now votes and argues with Democrats, while keeping a moderate's impatience with the party's left."
+    },
+    "platforms": [
+      {
+        "outlet": "the-bulwark",
+        "show": "The Bulwark Podcast",
+        "role": "Host",
+        "reach": []
+      }
+    ],
+    "stances": [
+      {
+        "date": "2026-10",
+        "candidate": "jd-vance",
+        "subject": null,
+        "position": "neutral",
+        "quote": null,
+        "context": "Argued before the midterms that Republicans were treating Vance as the presumptive nominee and that Vance was \"pre-fighting 2028.\" He has not named a Democrat he prefers.",
+        "venue": "The Powers That Be, Puck",
+        "source": {
+          "title": "Tim Miller Predicts a \"Blue Tsunami\" in the Midterms",
+          "publisher": "Puck",
+          "url": "https://puck.news/washington/2026/10/is-jd-vance-unbeatable-in-2028",
+          "date": "2026-10"
+        }
+      }
+    ]
+  },
+  {
+    "id": "nate-silver",
+    "name": "Nate Silver",
+    "side": "center",
+    "wikipedia": "Nate Silver",
+    "portrait": {
+      "file": "nate-silver.jpg",
+      "credit": "Nikita Sokolsky",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Nate_silver_poker_(cropped).jpg"
+    },
+    "bio": "Founder of FiveThirtyEight and the best-known election forecaster in the country. Now publishes the Silver Bulletin newsletter and argues with Democrats as often as for them.",
+    "spectrum": {
+      "score": -0.5,
+      "faction": "Heterodox center",
+      "rationale": "Votes Democratic by his own account but defines himself against the party's activist and institutional wings."
+    },
+    "platforms": [
+      {
+        "outlet": "silver-bulletin",
+        "show": "Silver Bulletin",
+        "role": "Founder",
+        "reach": []
+      }
+    ],
+    "stances": [
+      {
+        "date": "2026-11-07",
+        "candidate": "jon-ossoff",
+        "subject": null,
+        "position": "support",
+        "quote": "He's such a slam dunk number one pick",
+        "context": "Called Ossoff the compromise candidate between the party's progressive and centrist factions.",
+        "venue": "Crooked Con, Washington",
+        "source": {
+          "title": "Nate Silver Reveals His 2028 'Slam Dunk' Favorite for President",
+          "publisher": "The Daily Beast",
+          "url": "https://www.thedailybeast.com/nate-silver-reveals-his-2028-slam-dunk-favorite-for-president",
+          "date": "2026-11-07"
+        }
+      }
+    ]
+  },
+  {
+    "id": "stephen-a-smith",
+    "name": "Stephen A. Smith",
+    "side": "center",
+    "wikipedia": "Stephen A. Smith",
+    "portrait": {
+      "file": "stephen-a-smith.jpg",
+      "credit": "Moody College of Communication",
+      "license": "CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Stephen_A._Smith_in_January_2023_(3x4_cropped_c).jpg"
+    },
+    "bio": "ESPN's highest-paid personality, who spent a year floating his own presidential run before ruling it out in March. Now uses a SiriusXM politics show to tell Democrats to rein in their left.",
+    "spectrum": {
+      "score": 0,
+      "faction": "Independent centrist",
+      "rationale": "Calls himself an independent, criticizes both parties and has been a friendly guest on Fox News as well as on liberal shows."
+    },
+    "platforms": [
+      {
+        "outlet": "espn",
+        "show": "First Take",
+        "role": "Host",
+        "reach": []
+      },
+      {
+        "outlet": "siriusxm",
+        "show": "Straight Shooter with Stephen A.",
+        "role": "Host",
+        "reach": []
+      }
+    ],
+    "stances": [
+      {
+        "date": "2026-03",
+        "candidate": null,
+        "subject": "His own candidacy",
+        "position": "oppose",
+        "quote": "The minute I announce that I'm running, I would be taken off the air.",
+        "context": "Ruled out a 2028 run, citing what it would cost him. He left 2032 open.",
+        "venue": "Hannity podcast and Politico",
+        "source": {
+          "title": "Stephen A. Smith Officially Not Running For White House In 2028",
+          "publisher": "Deadline",
+          "url": "https://deadline.com/2026/03/stephen-a-smith-president-not-running-1236748216/",
+          "date": "2026-03"
+        }
+      }
+    ]
+  }
+]

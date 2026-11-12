@@ -1,0 +1,16 @@
+{
+  "name": "us-election-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "2028 Watch: a static tracker for the 2028 US presidential election",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "build": "node scripts/build.mjs",
+    "portraits": "node scripts/portraits.mjs",
+    "reach": "node scripts/reach.mjs"
+  }
+}

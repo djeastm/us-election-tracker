@@ -1,0 +1,15 @@
+# Build output
+dist/
+
+# Dependencies (none today, but keep them out if added)
+node_modules/
+npm-debug.log*
+
+# OS and editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+.vscode/
+.idea/

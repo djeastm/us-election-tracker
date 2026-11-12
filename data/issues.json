@@ -1,0 +1,9 @@
+[
+  { "id": "iran-war", "name": "Iran war", "question": "Was the war that began Feb. 28, 2026 right, and should it continue?", "low": "End it", "high": "Defends it" },
+  { "id": "tariffs", "name": "Tariffs and prices", "question": "Keep the Trump tariffs, and what to do about the cost of living?", "low": "Against tariffs", "high": "For tariffs" },
+  { "id": "immigration", "name": "Immigration", "question": "How hard should enforcement and deportation go?", "low": "Curb enforcement", "high": "Maximum enforcement" },
+  { "id": "ai", "name": "AI and data centers", "question": "Restrain the AI build-out or clear the way for it?", "low": "Restrain it", "high": "Let it build" },
+  { "id": "health-care", "name": "Health care", "question": "How much of health coverage should government provide?", "low": "Medicare for All", "high": "Roll coverage back" },
+  { "id": "israel", "name": "Israel and Gaza", "question": "Should US military aid to Israel carry conditions?", "low": "Cut or condition aid", "high": "Unconditional support" },
+  { "id": "abortion", "name": "Abortion", "question": "Federal protection, state choice, or restriction?", "low": "Federal protection", "high": "Restrict" }
+]
