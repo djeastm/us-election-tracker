@@ -25,13 +25,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 5790000,
-            "asOf": "2026-11-12",
+            "asOf": "2026-11-13",
             "youtube": "TuckerCarlson",
             "source": {
               "title": "Tucker Carlson on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@TuckerCarlson",
-              "date": "2026-11-12"
+              "date": "2026-11-13"
             }
           }
         ]
@@ -141,13 +141,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 6960000,
-            "asOf": "2026-11-12",
+            "asOf": "2026-11-13",
             "youtube": "BenShapiro",
             "source": {
               "title": "Ben Shapiro on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@BenShapiro",
-              "date": "2026-11-12"
+              "date": "2026-11-13"
             }
           }
         ]
@@ -197,13 +197,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 4190000,
-            "asOf": "2026-11-12",
+            "asOf": "2026-11-13",
             "youtube": "MegynKelly",
             "source": {
               "title": "Megyn Kelly on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@MegynKelly",
-              "date": "2026-11-12"
+              "date": "2026-11-13"
             }
           }
         ]
@@ -612,13 +612,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 2620000,
-            "asOf": "2026-11-12",
+            "asOf": "2026-11-13",
             "youtube": "MichaelKnowles",
             "source": {
               "title": "Michael Knowles on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@MichaelKnowles",
-              "date": "2026-11-12"
+              "date": "2026-11-13"
             }
           }
         ]
@@ -668,13 +668,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 1470000,
-            "asOf": "2026-11-12",
+            "asOf": "2026-11-13",
             "youtube": "Timcast",
             "source": {
               "title": "Tim Pool on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@Timcast",
-              "date": "2026-11-12"
+              "date": "2026-11-13"
             }
           }
         ]
@@ -828,6 +828,21 @@
     ],
     "stances": [
       {
+        "date": "2026-11-05",
+        "candidate": "jd-vance",
+        "subject": null,
+        "position": "skeptical",
+        "quote": "Mr. Vance, for his part, has cultivated the weirdo right rather than confront it.",
+        "context": "In a post-midterm New York Times op-ed, argued that the party's 2028 nominee must reject what he calls the \"weirdo right,\" said Vance has embraced it instead, and held up Ron DeSantis as an example of governing on competence. Read via a republished copy; the original nytimes.com page could not be retrieved.",
+        "venue": "The New York Times opinion section",
+        "source": {
+          "title": "I'm a Republican. We Have Let Too Many Weirdos Into Our Party.",
+          "publisher": "The New York Times (republished by DNyuz)",
+          "url": "https://dnyuz.com/?p=323003",
+          "date": "2026-11-05"
+        }
+      },
+      {
         "date": "2026-11-04",
         "candidate": "jd-vance",
         "subject": null,
@@ -870,13 +885,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 104000,
-            "asOf": "2026-11-12",
+            "asOf": "2026-11-13",
             "youtube": "marklevinshow",
             "source": {
               "title": "The Mark Levin Show on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@marklevinshow",
-              "date": "2026-11-12"
+              "date": "2026-11-13"
             }
           }
         ]
@@ -932,13 +947,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 6070000,
-            "asOf": "2026-11-12",
+            "asOf": "2026-11-13",
             "youtube": "RealCandaceO",
             "source": {
               "title": "Candace Owens on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@RealCandaceO",
-              "date": "2026-11-12"
+              "date": "2026-11-13"
             }
           }
         ]
@@ -988,13 +1003,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 3000000,
-            "asOf": "2026-11-12",
+            "asOf": "2026-11-13",
             "youtube": "PBDPodcast",
             "source": {
               "title": "PBD Podcast on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@PBDPodcast",
-              "date": "2026-11-12"
+              "date": "2026-11-13"
             }
           }
         ]
@@ -1044,13 +1059,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 1330000,
-            "asOf": "2026-11-12",
+            "asOf": "2026-11-13",
             "youtube": "PodSaveAmerica",
             "source": {
               "title": "Pod Save America on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@PodSaveAmerica",
-              "date": "2026-11-12"
+              "date": "2026-11-13"
             }
           }
         ]
@@ -1099,14 +1114,14 @@
         "reach": [
           {
             "metric": "YouTube subscribers",
-            "value": 604000,
-            "asOf": "2026-11-12",
+            "value": 605000,
+            "asOf": "2026-11-13",
             "youtube": "EzraKleinShow",
             "source": {
               "title": "The Ezra Klein Show on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@EzraKleinShow",
-              "date": "2026-11-12"
+              "date": "2026-11-13"
             }
           }
         ]
@@ -1195,13 +1210,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 14200000,
-            "asOf": "2026-11-12",
+            "asOf": "2026-11-13",
             "youtube": "TheDailyShow",
             "source": {
               "title": "The Daily Show on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@TheDailyShow",
-              "date": "2026-11-12"
+              "date": "2026-11-13"
             }
           }
         ]
@@ -1213,14 +1228,14 @@
         "reach": [
           {
             "metric": "YouTube subscribers",
-            "value": 936000,
-            "asOf": "2026-11-12",
+            "value": 938000,
+            "asOf": "2026-11-13",
             "youtube": "WeeklyShowPodcast",
             "source": {
               "title": "The Weekly Show with Jon Stewart on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@WeeklyShowPodcast",
-              "date": "2026-11-12"
+              "date": "2026-11-13"
             }
           }
         ]
@@ -1270,13 +1285,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 2040000,
-            "asOf": "2026-11-12",
+            "asOf": "2026-11-13",
             "youtube": "HasanAbi",
             "source": {
               "title": "HasanAbi on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@HasanAbi",
-              "date": "2026-11-12"
+              "date": "2026-11-13"
             }
           }
         ]
@@ -1534,6 +1549,36 @@
       }
     ],
     "stances": [
+      {
+        "date": "2026-03-09",
+        "candidate": "josh-shapiro",
+        "subject": null,
+        "position": "leaning",
+        "quote": null,
+        "context": "Named Shapiro, along with Maryland Gov. Wes Moore, as a Democrat he would vote for in 2028, according to Fox News's account of the interview.",
+        "venue": "Hang Out with Sean Hannity",
+        "source": {
+          "title": "Stephen A. Smith rules out 2028 presidential run on new Hannity podcast",
+          "publisher": "Fox News",
+          "url": "https://www.foxnews.com/media/stephen-a-smith-rules-out-white-house-bid-says-hed-back-rubio-over-some-top-democrats",
+          "date": "2026-03-09"
+        }
+      },
+      {
+        "date": "2026-03-09",
+        "candidate": "marco-rubio",
+        "subject": null,
+        "position": "leaning",
+        "quote": "He's an adult in the room. There is no questioning his qualifications for the job.",
+        "context": "Said he would back Rubio over Gavin Newsom or Kamala Harris, while also naming Democrats he could vote for.",
+        "venue": "Hang Out with Sean Hannity",
+        "source": {
+          "title": "Stephen A. Smith rules out 2028 presidential run on new Hannity podcast",
+          "publisher": "Fox News",
+          "url": "https://www.foxnews.com/media/stephen-a-smith-rules-out-white-house-bid-says-hed-back-rubio-over-some-top-democrats",
+          "date": "2026-03-09"
+        }
+      },
       {
         "date": "2026-03",
         "candidate": null,
