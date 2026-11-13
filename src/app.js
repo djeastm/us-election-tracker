@@ -911,6 +911,35 @@
         h('ol', null, (m.updates || []).map(function (u) { return h('li', null, dateEl(u.date), h('span', null, u.summary)); })))));
   }
 
+  /* ----------------------------------------------------------------- theme */
+
+  // No saved choice: follow the system setting, live. A click saves an explicit choice.
+  function initTheme() {
+    var btn = document.getElementById('theme-toggle');
+    var root = document.documentElement;
+    var mq = window.matchMedia ? window.matchMedia('(prefers-color-scheme: dark)') : null;
+    function isDark() {
+      var t = root.getAttribute('data-theme');
+      return t ? t === 'dark' : !!(mq && mq.matches);
+    }
+    function sync() {
+      var dark = isDark();
+      if (btn) btn.setAttribute('aria-pressed', dark ? 'true' : 'false');
+      var meta = document.querySelector('meta[name="theme-color"]');
+      if (meta) meta.setAttribute('content', dark ? '#121821' : '#EEF1EC');   // --paper, both themes
+    }
+    if (btn) btn.addEventListener('click', function () {
+      var next = isDark() ? 'light' : 'dark';
+      root.setAttribute('data-theme', next);
+      try { localStorage.setItem('theme', next); } catch (e) {}
+      sync();
+    });
+    if (mq) {
+      if (mq.addEventListener) mq.addEventListener('change', sync); else if (mq.addListener) mq.addListener(sync);
+    }
+    sync();
+  }
+
   /* --------------------------------------------------------------- routing */
 
   function route() {
@@ -959,6 +988,7 @@
   }
 
   function start() {
+    initTheme();
     initDrawer();
     loadData().then(function (d) {
       DATA = d;
