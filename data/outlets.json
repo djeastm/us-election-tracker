@@ -19,13 +19,13 @@
       {
         "metric": "YouTube subscribers",
         "value": 15600000,
-        "asOf": "2026-11-13",
+        "asOf": "2026-11-14",
         "youtube": "FoxNews",
         "source": {
           "title": "Fox News on YouTube",
           "publisher": "YouTube",
           "url": "https://www.youtube.com/@FoxNews",
-          "date": "2026-11-13"
+          "date": "2026-11-14"
         }
       }
     ]
@@ -50,13 +50,13 @@
       {
         "metric": "YouTube subscribers",
         "value": 10100000,
-        "asOf": "2026-11-13",
+        "asOf": "2026-11-14",
         "youtube": "MSNOW",
         "source": {
           "title": "MS NOW on YouTube",
           "publisher": "YouTube",
           "url": "https://www.youtube.com/@MSNOW",
-          "date": "2026-11-13"
+          "date": "2026-11-14"
         }
       }
     ]
@@ -70,13 +70,13 @@
       {
         "metric": "YouTube subscribers",
         "value": 3230000,
-        "asOf": "2026-11-13",
+        "asOf": "2026-11-14",
         "youtube": "DailyWire",
         "source": {
           "title": "The Daily Wire on YouTube",
           "publisher": "YouTube",
           "url": "https://www.youtube.com/@DailyWire",
-          "date": "2026-11-13"
+          "date": "2026-11-14"
         }
       }
     ]
@@ -124,14 +124,14 @@
     "reach": [
       {
         "metric": "YouTube subscribers",
-        "value": 336000,
-        "asOf": "2026-11-13",
+        "value": 337000,
+        "asOf": "2026-11-14",
         "youtube": "RealAmericasVoice",
         "source": {
           "title": "Real America's Voice on YouTube",
           "publisher": "YouTube",
           "url": "https://www.youtube.com/@RealAmericasVoice",
-          "date": "2026-11-13"
+          "date": "2026-11-14"
         }
       }
     ]
@@ -201,13 +201,13 @@
       {
         "metric": "YouTube subscribers",
         "value": 2310000,
-        "asOf": "2026-11-13",
+        "asOf": "2026-11-14",
         "youtube": "Zeteo",
         "source": {
           "title": "Zeteo on YouTube",
           "publisher": "YouTube",
           "url": "https://www.youtube.com/@Zeteo",
-          "date": "2026-11-13"
+          "date": "2026-11-14"
         }
       }
     ]
@@ -221,13 +221,13 @@
       {
         "metric": "YouTube subscribers",
         "value": 1830000,
-        "asOf": "2026-11-13",
+        "asOf": "2026-11-14",
         "youtube": "BulwarkMedia",
         "source": {
           "title": "The Bulwark on YouTube",
           "publisher": "YouTube",
           "url": "https://www.youtube.com/@BulwarkMedia",
-          "date": "2026-11-13"
+          "date": "2026-11-14"
         }
       }
     ]

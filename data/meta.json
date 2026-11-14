@@ -1,8 +1,8 @@
 {
   "title": "2028 Watch",
   "electionDate": "2028-11-07",
-  "lastUpdated": "2026-11-13",
-  "previousUpdate": "2026-11-12",
+  "lastUpdated": "2026-11-14",
+  "previousUpdate": "2026-11-13",
   "raceSummary": {
     "asOf": "2026-11-12",
     "headline": "Nobody major has declared, and the midterms reopened both primaries.",
@@ -19,6 +19,7 @@
     ]
   },
   "updates": [
+    { "date": "2026-11-14", "summary": "Pundits: added Charlamagne tha God (backs a Jon Stewart run, doubts a Harris run), Hasan Piker's September pledge to campaign for AOC, and Steve Bannon's January denial that he is running. No new stances since Nov. 13; November cable ratings are not out yet." },
     { "date": "2026-11-13", "summary": "Pundits: added Erick Erickson's Nov. 5 New York Times op-ed criticizing Vance, and Stephen A. Smith's March 2026 leanings toward Marco Rubio and Josh Shapiro. No new stances from the past day; November cable ratings are not out yet." },
     { "date": "2026-11-12", "summary": "First edition. 13 candidates, 25 pundits, 7 issues. Right-wing pundit stances seeded from the Media Matters roundup of Nov. 10." }
   ]

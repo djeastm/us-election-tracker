@@ -25,13 +25,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 5790000,
-            "asOf": "2026-11-13",
+            "asOf": "2026-11-14",
             "youtube": "TuckerCarlson",
             "source": {
               "title": "Tucker Carlson on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@TuckerCarlson",
-              "date": "2026-11-13"
+              "date": "2026-11-14"
             }
           }
         ]
@@ -141,13 +141,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 6960000,
-            "asOf": "2026-11-13",
+            "asOf": "2026-11-14",
             "youtube": "BenShapiro",
             "source": {
               "title": "Ben Shapiro on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@BenShapiro",
-              "date": "2026-11-13"
+              "date": "2026-11-14"
             }
           }
         ]
@@ -197,13 +197,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 4190000,
-            "asOf": "2026-11-13",
+            "asOf": "2026-11-14",
             "youtube": "MegynKelly",
             "source": {
               "title": "Megyn Kelly on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@MegynKelly",
-              "date": "2026-11-13"
+              "date": "2026-11-14"
             }
           }
         ]
@@ -497,6 +497,21 @@
     ],
     "stances": [
       {
+        "date": "2026-01-10",
+        "candidate": null,
+        "subject": "His own candidacy",
+        "position": "oppose",
+        "quote": null,
+        "context": "Denied to Axios that he is preparing a 2028 run and said his focus is a third Trump term; Axios, citing two unnamed people familiar with his thinking, reported he had explored a PAC and talked with possible staff.",
+        "venue": "Statement to Axios",
+        "source": {
+          "title": "Scoop: Bannon quietly making moves toward 2028 run",
+          "publisher": "Axios",
+          "url": "https://www.axios.com/2026/01/10/steve-bannon-2028-campaign-maga",
+          "date": "2026-01-10"
+        }
+      },
+      {
         "date": "2025-08",
         "candidate": "jd-vance",
         "subject": null,
@@ -612,13 +627,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 2620000,
-            "asOf": "2026-11-13",
+            "asOf": "2026-11-14",
             "youtube": "MichaelKnowles",
             "source": {
               "title": "Michael Knowles on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@MichaelKnowles",
-              "date": "2026-11-13"
+              "date": "2026-11-14"
             }
           }
         ]
@@ -668,13 +683,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 1470000,
-            "asOf": "2026-11-13",
+            "asOf": "2026-11-14",
             "youtube": "Timcast",
             "source": {
               "title": "Tim Pool on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@Timcast",
-              "date": "2026-11-13"
+              "date": "2026-11-14"
             }
           }
         ]
@@ -885,13 +900,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 104000,
-            "asOf": "2026-11-13",
+            "asOf": "2026-11-14",
             "youtube": "marklevinshow",
             "source": {
               "title": "The Mark Levin Show on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@marklevinshow",
-              "date": "2026-11-13"
+              "date": "2026-11-14"
             }
           }
         ]
@@ -947,13 +962,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 6070000,
-            "asOf": "2026-11-13",
+            "asOf": "2026-11-14",
             "youtube": "RealCandaceO",
             "source": {
               "title": "Candace Owens on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@RealCandaceO",
-              "date": "2026-11-13"
+              "date": "2026-11-14"
             }
           }
         ]
@@ -1003,13 +1018,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 3000000,
-            "asOf": "2026-11-13",
+            "asOf": "2026-11-14",
             "youtube": "PBDPodcast",
             "source": {
               "title": "PBD Podcast on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@PBDPodcast",
-              "date": "2026-11-13"
+              "date": "2026-11-14"
             }
           }
         ]
@@ -1059,13 +1074,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 1330000,
-            "asOf": "2026-11-13",
+            "asOf": "2026-11-14",
             "youtube": "PodSaveAmerica",
             "source": {
               "title": "Pod Save America on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@PodSaveAmerica",
-              "date": "2026-11-13"
+              "date": "2026-11-14"
             }
           }
         ]
@@ -1114,14 +1129,14 @@
         "reach": [
           {
             "metric": "YouTube subscribers",
-            "value": 605000,
-            "asOf": "2026-11-13",
+            "value": 606000,
+            "asOf": "2026-11-14",
             "youtube": "EzraKleinShow",
             "source": {
               "title": "The Ezra Klein Show on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@EzraKleinShow",
-              "date": "2026-11-13"
+              "date": "2026-11-14"
             }
           }
         ]
@@ -1210,13 +1225,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 14200000,
-            "asOf": "2026-11-13",
+            "asOf": "2026-11-14",
             "youtube": "TheDailyShow",
             "source": {
               "title": "The Daily Show on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@TheDailyShow",
-              "date": "2026-11-13"
+              "date": "2026-11-14"
             }
           }
         ]
@@ -1228,14 +1243,14 @@
         "reach": [
           {
             "metric": "YouTube subscribers",
-            "value": 938000,
-            "asOf": "2026-11-13",
+            "value": 939000,
+            "asOf": "2026-11-14",
             "youtube": "WeeklyShowPodcast",
             "source": {
               "title": "The Weekly Show with Jon Stewart on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@WeeklyShowPodcast",
-              "date": "2026-11-13"
+              "date": "2026-11-14"
             }
           }
         ]
@@ -1285,19 +1300,34 @@
           {
             "metric": "YouTube subscribers",
             "value": 2040000,
-            "asOf": "2026-11-13",
+            "asOf": "2026-11-14",
             "youtube": "HasanAbi",
             "source": {
               "title": "HasanAbi on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@HasanAbi",
-              "date": "2026-11-13"
+              "date": "2026-11-14"
             }
           }
         ]
       }
     ],
     "stances": [
+      {
+        "date": "2026-09",
+        "candidate": "alexandria-ocasio-cortez",
+        "subject": null,
+        "position": "support",
+        "quote": "Oh, absolutely. Yes.",
+        "context": "Asked on The Axios Show whether he would campaign for Ocasio-Cortez if she runs in 2028, he said he would; Fox News reported the exchange the next day.",
+        "venue": "The Axios Show",
+        "source": {
+          "title": "Hasan Piker says he'd 'absolutely' campaign for AOC in 2028 as El-Sayed distances himself",
+          "publisher": "Fox News",
+          "url": "https://www.foxnews.com/media/hasan-piker-says-hed-absolutely-campaign-aoc-2028-el-sayed-distances-himself",
+          "date": "2026-09-19"
+        }
+      },
       {
         "date": "2026-07",
         "candidate": "alexandria-ocasio-cortez",
@@ -1592,6 +1622,77 @@
           "publisher": "Deadline",
           "url": "https://deadline.com/2026/03/stephen-a-smith-president-not-running-1236748216/",
           "date": "2026-03"
+        }
+      }
+    ]
+  },
+  {
+    "id": "charlamagne-tha-god",
+    "name": "Charlamagne tha God",
+    "side": "center",
+    "wikipedia": "Charlamagne tha God",
+    "portrait": {
+      "file": "charlamagne-tha-god.jpg",
+      "credit": "Dave Hubelbank",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Charlamagne_tha_God_crop.jpg"
+    },
+    "bio": "Co-host of The Breakfast Club, a nationally syndicated morning radio show that is a regular stop for Democratic and Republican politicians. He also founded iHeartMedia's Black Effect Podcast Network.",
+    "spectrum": {
+      "score": -1,
+      "faction": "Democratic-leaning independent",
+      "rationale": "Said in 2024 he would endorse Kamala Harris and has called Donald Trump a threat to democracy, but he regularly attacks Democratic leaders and appears on Fox News as a friendly guest."
+    },
+    "platforms": [
+      {
+        "outlet": "premiere-networks",
+        "show": "The Breakfast Club",
+        "role": "Co-host",
+        "reach": [
+          {
+            "metric": "YouTube subscribers",
+            "value": 6040000,
+            "asOf": "2026-11-14",
+            "youtube": "BreakfastClubPower1051FM",
+            "source": {
+              "title": "Breakfast Club Power 105.1 FM on YouTube",
+              "publisher": "YouTube",
+              "url": "https://www.youtube.com/@BreakfastClubPower1051FM",
+              "date": "2026-11-14"
+            }
+          }
+        ]
+      }
+    ],
+    "stances": [
+      {
+        "date": "2025-08-02",
+        "candidate": null,
+        "subject": "A Jon Stewart candidacy",
+        "position": "support",
+        "quote": "I would love to see Jon Stewart run in 2028.",
+        "context": "Called Stewart an outsider who would shake up the Democratic primary and floated Stephen Colbert as his running mate.",
+        "venue": "My View with Lara Trump (Fox News)",
+        "source": {
+          "title": "Charlamagne tha God names surprising 2028 presidential suggestion",
+          "publisher": "Fox News",
+          "url": "https://www.foxnews.com/media/charlamagne-tha-god-names-surprising-2028-presidential-suggestion",
+          "date": "2025-08-02"
+        }
+      },
+      {
+        "date": "2025-08-02",
+        "candidate": "kamala-harris",
+        "subject": null,
+        "position": "skeptical",
+        "quote": "I don't personally know if I would run for president, if I was her",
+        "context": "Questioned whether Harris should run again and said she first needs to build a real connection with voters; he had said on his own show that he would rather see her write a book.",
+        "venue": "My View with Lara Trump (Fox News)",
+        "source": {
+          "title": "Charlamagne tha God casts doubt on potential Harris 2028 run, urges Dems to throw 'old regime' under the bus",
+          "publisher": "Fox News",
+          "url": "https://www.foxnews.com/media/charlamange-tha-god-reacts-potential-harris-2028-run-urges-democrats-throw-old-regime-under-bus",
+          "date": "2025-08-03"
         }
       }
     ]
