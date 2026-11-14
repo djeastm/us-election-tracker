@@ -14,7 +14,7 @@
       "source": "https://commons.wikimedia.org/wiki/File:March_2026_Official_Vice_Presidential_Portrait_of_JD_Vance_(medium_crop)_(2).jpg"
     },
     "status": "undecided",
-    "statusNote": "Said he would decide after the midterms. No announcement yet, and Trump says he does not know Vance's plans.",
+    "statusNote": "Has not decided. CNN reported on Nov. 13, citing allies and advisers, that he has seriously weighed skipping the race after the midterms but is still more likely than not to run.",
     "bio": "Marine veteran, Yale Law graduate and author of Hillbilly Elegy. Served two years as a senator from Ohio before becoming vice president in 2025. Led the US delegation to the Islamabad talks with Iran in April 2026.",
     "standing": {
       "text": "38.6% in the RealClearPolling Republican average, first",
@@ -130,6 +130,24 @@
       }
     },
     "moves": [
+      {
+        "date": "2026-11-13",
+        "text": "CNN, citing about a dozen unnamed allies and advisers, reported that he is weighing whether to run at all, with the Iran war, his growing family and a split MAGA movement named as factors. Several still expect him to run.",
+        "sources": [
+          {
+            "title": "Once Trump's presumed heir, Vance is wrestling with his political future",
+            "publisher": "CNN",
+            "url": "https://www.cnn.com/2026/11/13/politics/jd-vance-2028-presidential-campaign",
+            "date": "2026-11-13"
+          },
+          {
+            "title": "JD Vance Considering Not Running for President In 2028 After Midterm Election Results",
+            "publisher": "Globe, via Yahoo News",
+            "url": "https://www.yahoo.com/news/politics/articles/jd-vance-considering-not-running-172743584.html",
+            "date": "2026-11-13"
+          }
+        ]
+      },
       {
         "date": "2026-11-04",
         "text": "Posted that Republicans lost because of the Iran war and that defections from the 2024 coalition, not turnout, drove the collapse. Trump called the post \"fine.\"",
@@ -285,6 +303,18 @@
     },
     "moves": [
       {
+        "date": "2026-11-13",
+        "text": "Gave his first major speech since the midterms, to the Federalist Society, defending the Iran war: \"It had to be addressed, and I know it's unpopular.\" One person familiar with his thinking told MS NOW he has not decided on 2028 and is keeping his options open.",
+        "sources": [
+          {
+            "title": "Marco Rubio may be flashing his most glaring 2028 signal yet",
+            "publisher": "MS NOW",
+            "url": "https://www.ms.now/news/marco-rubio-federalist-society-presidential-race2028",
+            "date": "2026-11-13"
+          }
+        ]
+      },
+      {
         "date": "2026-11",
         "text": "A growing group of congressional Republicans wants to draft him. Several say people close to him suggest he is not interested.",
         "sources": [
@@ -325,7 +355,7 @@
       "source": "https://commons.wikimedia.org/wiki/File:Ron_DeSantis_official_photo.jpg"
     },
     "status": "interested",
-    "statusNote": "Has not said he is running. Moved within hours of the midterms to present Florida as the one place Republicans held.",
+    "statusNote": "Called a Nov. 6 Washington Post report that he is preparing a 2028 bid \"fabricating this out of whole cloth.\" Has previously answered \"We'll see\" when asked about running again.",
     "bio": "Navy lawyer and three-term congressman, governor of Florida since 2019 and term-limited out in January 2027. Lost the 2024 nomination to Trump.",
     "standing": {
       "text": "7.5% in the RealClearPolling Republican average, fourth",
@@ -426,6 +456,18 @@
       }
     },
     "moves": [
+      {
+        "date": "2026-11-06",
+        "text": "The Washington Post, citing three people briefed on his plans, reported that he is preparing a 2028 run and has contacted at least one national consultant. He denied it on X: \"I have not reached out to anybody about running for anything.\"",
+        "sources": [
+          {
+            "title": "DeSantis blasts Washington Post over report he's preparing 2028 presidential bid",
+            "publisher": "Fox News",
+            "url": "https://www.foxnews.com/politics/desantis-blasts-washington-post-report-preparing-2028-presidential-bid",
+            "date": "2026-11-07"
+          }
+        ]
+      },
       {
         "date": "2026-11-04",
         "text": "Called the midterms \"close to an extinction-level event for Republicans\" and said the party was \"fighting yesterday's battle.\" Questioned the hundreds of millions spent on ads about transgender issues.",
@@ -873,7 +915,7 @@
       "source": "https://commons.wikimedia.org/wiki/File:Governor_of_California_Gavin_Newsom_(cropped_3x4).jpg"
     },
     "status": "interested",
-    "statusNote": "Said he would decide after the midterms, and in September said he would not run if Harris does: \"I wouldn't waste everyone's time.\"",
+    "statusNote": "Said on Nov. 13 he will \"make a decision early January\" after talking it over with his family. Has said he would not run if Harris does.",
     "bio": "Former mayor of San Francisco and lieutenant governor, governor of California since 2019 and term-limited out in January 2027. Spent the closing weeks of the midterms in New Hampshire, South Carolina, North Carolina and Alabama.",
     "standing": {
       "text": "14.2% in the RealClearPolling Democratic average, second",
@@ -991,6 +1033,18 @@
     },
     "moves": [
       {
+        "date": "2026-11-13",
+        "text": "Told Anadolu at the COP31 climate summit in Antalya, Turkey, that he would spend the next few weeks with his family \"and make a decision early January.\"",
+        "sources": [
+          {
+            "title": "Newsom reveals when he'll decide on 2028 White House bid amid growing speculation",
+            "publisher": "Fox News",
+            "url": "https://www.foxnews.com/politics/newsom-reveals-when-decide-2028-white-house-bid-growing-speculation",
+            "date": "2026-11-13"
+          }
+        ]
+      },
+      {
         "date": "2026-11-07",
         "text": "Finished under 5% in the Crooked Con straw poll.",
         "sources": [
@@ -1103,6 +1157,18 @@
             "publisher": "Reuters",
             "url": "https://www.yahoo.com/news/politics/articles/midterms-over-democrats-plunge-wide-111023616.html",
             "date": "2026-11-05"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-11",
+        "text": "Announced a book, NEXT, about American politics and what needs to change, due from Simon & Schuster on Jan. 26, 2027. \"I've been thinking a lot about what comes next,\" he wrote.",
+        "sources": [
+          {
+            "title": "Pete Buttigieg to launch new book. His next move could be a presidential run",
+            "publisher": "ThePrint",
+            "url": "https://theprint.in/feature/pete-buttigieg-new-book-next-presidential/3096231/",
+            "date": "2026-11-11"
           }
         ]
       },
@@ -1717,6 +1783,69 @@
             "publisher": "Reuters",
             "url": "https://www.yahoo.com/news/politics/articles/midterms-over-democrats-plunge-wide-111023616.html",
             "date": "2026-11-05"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gregory-bovino",
+    "name": "Gregory Bovino",
+    "party": "R",
+    "role": "Former Border Patrol commander-at-large",
+    "born": "1970-03-27",
+    "home": "California",
+    "wikipedia": "Gregory Bovino",
+    "portrait": {
+      "file": "gregory-bovino.jpg",
+      "credit": "CBP Photography",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:2026_Gregory_Bovino_of_U.S._Immigration_and_Customs_Enforcement_(ICE)_Enforcement_and_Removal_Operations%27_(ERO)_(cropped).jpg"
+    },
+    "status": "exploring",
+    "statusNote": "Told NewsNation in June he had formed an exploratory committee and would launch a campaign \"if it all comes together.\" Has not filed or announced since.",
+    "bio": "A Border Patrol agent from 1996 who led the 2025 immigration operations in Los Angeles, Chicago and Minneapolis as commander-at-large. He was removed from the Minneapolis operation in January 2026 after a fatal shooting by federal agents and retired in March.",
+    "standing": null,
+    "positions": {
+      "immigration": {
+        "label": "Mass deportation, his only priority",
+        "lean": 2,
+        "summary": "Says his \"one and only priority is deporting the 106 million illegals who are here\" and that running for president may be what it takes to do it.",
+        "asOf": "2026-06-09",
+        "basis": "statement",
+        "sources": [
+          {
+            "title": "Greg Bovino launches a committee to explore a 2028 presidential run",
+            "publisher": "Sinclair (KUTV)",
+            "url": "https://kutv.com/news/nation-world/greg-bovino-launches-a-committee-to-explore-a-2028-presidential-run-trump-administration-border-patrol-minneapolis",
+            "date": "2026-06-09"
+          }
+        ],
+        "history": []
+      }
+    },
+    "moves": [
+      {
+        "date": "2026-06-08",
+        "text": "Told NewsNation he had formed an exploratory committee for a 2028 run and launched a Bovino 2028 website. A supporter later said the push \"lasted only 120 hours,\" and Bovino called it an exploratory test.",
+        "sources": [
+          {
+            "title": "Greg Bovino launches a committee to explore a 2028 presidential run",
+            "publisher": "Sinclair (KUTV)",
+            "url": "https://kutv.com/news/nation-world/greg-bovino-launches-a-committee-to-explore-a-2028-presidential-run-trump-administration-border-patrol-minneapolis",
+            "date": "2026-06-09"
+          },
+          {
+            "title": "Ex-Border Patrol official Bovino not ruling out 2028 run if that's 'what it takes'",
+            "publisher": "Washington Examiner",
+            "url": "https://www.washingtonexaminer.com/news/campaigns/presidential/4599700/gregory-bovino-2028-president-bid/",
+            "date": "2026-06-08"
+          },
+          {
+            "title": "Gregory Bovino",
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Gregory_Bovino",
+            "date": "2026-11"
           }
         ]
       }

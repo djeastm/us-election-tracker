@@ -4,23 +4,80 @@
   "lastUpdated": "2026-11-14",
   "previousUpdate": "2026-11-13",
   "raceSummary": {
-    "asOf": "2026-11-12",
-    "headline": "Nobody major has declared, and the midterms reopened both primaries.",
+    "asOf": "2026-11-14",
+    "headline": "Still no major declarations. Vance is reported to be weighing a pass, and Newsom will decide in early January.",
     "paragraphs": [
-      "Democrats won both chambers of Congress on Nov. 3, with at least 54 Senate seats and 254 House seats and some races still uncalled. They flipped Senate seats in Texas, Ohio, Iowa, Kansas, North Carolina, Maine, South Carolina and Mississippi.",
-      "Republicans are arguing over the cause. JD Vance blames the Iran war, Marco Rubio defends it, Ron DeSantis says the party fought yesterday's battle, and Ted Cruz blames tariffs and the length of the war. Donald Trump said he may stay out of the primary.",
-      "On the Democratic side Kamala Harris leads national polls but drew 0.6% in the Crooked Con straw poll. Jon Ossoff, who says he has zero interest in running, won it with 38.4%."
+      "Democrats won both chambers of Congress on Nov. 3, with at least 54 Senate seats and 254 House seats. Republicans are arguing over the cause, with JD Vance blaming the Iran war and Marco Rubio defending it.",
+      "CNN reported on Nov. 13 that Vance has seriously weighed not running, though allies still think a run is more likely than not. Rubio gave his first major post-midterm speech to the Federalist Society the same day, and a person familiar with his thinking said he is keeping his options open. Ron DeSantis denied a Washington Post report that he is preparing a bid. Former Border Patrol commander Gregory Bovino has had an exploratory committee since June.",
+      "On the Democratic side Kamala Harris leads national polls but has not decided. Gavin Newsom, who says he would not run against her, said he will decide in early January. Jon Ossoff, who says he has zero interest in running, won the Crooked Con straw poll with 38.4%."
     ],
     "sources": [
-      { "title": "2026 midterm election results: Who won the key House and Senate races?", "publisher": "Northeastern Global News", "url": "https://news.northeastern.edu/2026/11/03/midterm-election-results-analysis-2026/", "date": "2026-11-03" },
-      { "title": "Trump's 2028 successors are already fighting over who to blame for GOP midterm wipeout", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/11/10/trump-vance-rubio-republican-desantis-midterms.html", "date": "2026-11-10" },
-      { "title": "Ossoff And AOC Tipped As Favorites For The 2028 Democratic Presidential Nomination At Progressive Convention", "publisher": "International Business Times", "url": "https://www.yahoo.com/news/politics/articles/ossoff-aoc-tipped-favorites-2028-125653038.html", "date": "2026-11-08" },
-      { "title": "Presidential Power Ranking For 2028: Frontrunners Assessed After Midterms", "publisher": "Newsweek", "url": "https://www.newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279", "date": "2026-11-04" }
+      {
+        "title": "Once Trump’s presumed heir, Vance is wrestling with his political future",
+        "publisher": "CNN",
+        "url": "https://www.cnn.com/2026/11/13/politics/jd-vance-2028-presidential-campaign",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "Marco Rubio may be flashing his most glaring 2028 signal yet",
+        "publisher": "MS NOW",
+        "url": "https://www.ms.now/news/marco-rubio-federalist-society-presidential-race2028",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "Newsom reveals when he'll decide on 2028 White House bid amid growing speculation",
+        "publisher": "Fox News",
+        "url": "https://www.foxnews.com/politics/newsom-reveals-when-decide-2028-white-house-bid-growing-speculation",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "DeSantis blasts Washington Post over report he's preparing 2028 presidential bid",
+        "publisher": "Fox News",
+        "url": "https://www.foxnews.com/politics/desantis-blasts-washington-post-report-preparing-2028-presidential-bid",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "2026 midterm election results: Who won the key House and Senate races?",
+        "publisher": "Northeastern Global News",
+        "url": "https://news.northeastern.edu/2026/11/03/midterm-election-results-analysis-2026/",
+        "date": "2026-11-03"
+      },
+      {
+        "title": "Trump's 2028 successors are already fighting over who to blame for GOP midterm wipeout",
+        "publisher": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/10/trump-vance-rubio-republican-desantis-midterms.html",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "Ossoff And AOC Tipped As Favorites For The 2028 Democratic Presidential Nomination At Progressive Convention",
+        "publisher": "International Business Times",
+        "url": "https://www.yahoo.com/news/politics/articles/ossoff-aoc-tipped-favorites-2028-125653038.html",
+        "date": "2026-11-08"
+      },
+      {
+        "title": "Presidential Power Ranking For 2028: Frontrunners Assessed After Midterms",
+        "publisher": "Newsweek",
+        "url": "https://www.newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
+        "date": "2026-11-04"
+      }
     ]
   },
   "updates": [
-    { "date": "2026-11-14", "summary": "Pundits: added Charlamagne tha God (backs a Jon Stewart run, doubts a Harris run), Hasan Piker's September pledge to campaign for AOC, and Steve Bannon's January denial that he is running. No new stances since Nov. 13; November cable ratings are not out yet." },
-    { "date": "2026-11-13", "summary": "Pundits: added Erick Erickson's Nov. 5 New York Times op-ed criticizing Vance, and Stephen A. Smith's March 2026 leanings toward Marco Rubio and Josh Shapiro. No new stances from the past day; November cable ratings are not out yet." },
-    { "date": "2026-11-12", "summary": "First edition. 13 candidates, 25 pundits, 7 issues. Right-wing pundit stances seeded from the Media Matters roundup of Nov. 10." }
+    {
+      "date": "2026-11-14",
+      "summary": "Candidates: added Gregory Bovino (exploratory committee since June). Vance reported weighing a pass, Newsom set an early-January decision, DeSantis denied a Post report that he is preparing a run, plus new Rubio and Buttigieg moves and a refreshed race summary. No newer RealClearPolling averages."
+    },
+    {
+      "date": "2026-11-14",
+      "summary": "Pundits: added Charlamagne tha God (backs a Jon Stewart run, doubts a Harris run), Hasan Piker's September pledge to campaign for AOC, and Steve Bannon's January denial that he is running. No new stances since Nov. 13; November cable ratings are not out yet."
+    },
+    {
+      "date": "2026-11-13",
+      "summary": "Pundits: added Erick Erickson's Nov. 5 New York Times op-ed criticizing Vance, and Stephen A. Smith's March 2026 leanings toward Marco Rubio and Josh Shapiro. No new stances from the past day; November cable ratings are not out yet."
+    },
+    {
+      "date": "2026-11-12",
+      "summary": "First edition. 13 candidates, 25 pundits, 7 issues. Right-wing pundit stances seeded from the Media Matters roundup of Nov. 10."
+    }
   ]
 }
