@@ -25,13 +25,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 5790000,
-            "asOf": "2026-11-14",
+            "asOf": "2026-11-15",
             "youtube": "TuckerCarlson",
             "source": {
               "title": "Tucker Carlson on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@TuckerCarlson",
-              "date": "2026-11-14"
+              "date": "2026-11-15"
             }
           }
         ]
@@ -141,13 +141,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 6960000,
-            "asOf": "2026-11-14",
+            "asOf": "2026-11-15",
             "youtube": "BenShapiro",
             "source": {
               "title": "Ben Shapiro on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@BenShapiro",
-              "date": "2026-11-14"
+              "date": "2026-11-15"
             }
           }
         ]
@@ -197,13 +197,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 4190000,
-            "asOf": "2026-11-14",
+            "asOf": "2026-11-15",
             "youtube": "MegynKelly",
             "source": {
               "title": "Megyn Kelly on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@MegynKelly",
-              "date": "2026-11-14"
+              "date": "2026-11-15"
             }
           }
         ]
@@ -627,13 +627,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 2620000,
-            "asOf": "2026-11-14",
+            "asOf": "2026-11-15",
             "youtube": "MichaelKnowles",
             "source": {
               "title": "Michael Knowles on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@MichaelKnowles",
-              "date": "2026-11-14"
+              "date": "2026-11-15"
             }
           }
         ]
@@ -683,13 +683,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 1470000,
-            "asOf": "2026-11-14",
+            "asOf": "2026-11-15",
             "youtube": "Timcast",
             "source": {
               "title": "Tim Pool on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@Timcast",
-              "date": "2026-11-14"
+              "date": "2026-11-15"
             }
           }
         ]
@@ -900,13 +900,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 104000,
-            "asOf": "2026-11-14",
+            "asOf": "2026-11-15",
             "youtube": "marklevinshow",
             "source": {
               "title": "The Mark Levin Show on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@marklevinshow",
-              "date": "2026-11-14"
+              "date": "2026-11-15"
             }
           }
         ]
@@ -962,13 +962,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 6070000,
-            "asOf": "2026-11-14",
+            "asOf": "2026-11-15",
             "youtube": "RealCandaceO",
             "source": {
               "title": "Candace Owens on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@RealCandaceO",
-              "date": "2026-11-14"
+              "date": "2026-11-15"
             }
           }
         ]
@@ -1018,13 +1018,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 3000000,
-            "asOf": "2026-11-14",
+            "asOf": "2026-11-15",
             "youtube": "PBDPodcast",
             "source": {
               "title": "PBD Podcast on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@PBDPodcast",
-              "date": "2026-11-14"
+              "date": "2026-11-15"
             }
           }
         ]
@@ -1074,13 +1074,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 1330000,
-            "asOf": "2026-11-14",
+            "asOf": "2026-11-15",
             "youtube": "PodSaveAmerica",
             "source": {
               "title": "Pod Save America on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@PodSaveAmerica",
-              "date": "2026-11-14"
+              "date": "2026-11-15"
             }
           }
         ]
@@ -1129,14 +1129,14 @@
         "reach": [
           {
             "metric": "YouTube subscribers",
-            "value": 606000,
-            "asOf": "2026-11-14",
+            "value": 607000,
+            "asOf": "2026-11-15",
             "youtube": "EzraKleinShow",
             "source": {
               "title": "The Ezra Klein Show on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@EzraKleinShow",
-              "date": "2026-11-14"
+              "date": "2026-11-15"
             }
           }
         ]
@@ -1225,13 +1225,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 14200000,
-            "asOf": "2026-11-14",
+            "asOf": "2026-11-15",
             "youtube": "TheDailyShow",
             "source": {
               "title": "The Daily Show on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@TheDailyShow",
-              "date": "2026-11-14"
+              "date": "2026-11-15"
             }
           }
         ]
@@ -1243,14 +1243,14 @@
         "reach": [
           {
             "metric": "YouTube subscribers",
-            "value": 939000,
-            "asOf": "2026-11-14",
+            "value": 940000,
+            "asOf": "2026-11-15",
             "youtube": "WeeklyShowPodcast",
             "source": {
               "title": "The Weekly Show with Jon Stewart on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@WeeklyShowPodcast",
-              "date": "2026-11-14"
+              "date": "2026-11-15"
             }
           }
         ]
@@ -1299,14 +1299,14 @@
         "reach": [
           {
             "metric": "YouTube subscribers",
-            "value": 2040000,
-            "asOf": "2026-11-14",
+            "value": 2050000,
+            "asOf": "2026-11-15",
             "youtube": "HasanAbi",
             "source": {
               "title": "HasanAbi on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@HasanAbi",
-              "date": "2026-11-14"
+              "date": "2026-11-15"
             }
           }
         ]
@@ -1580,6 +1580,21 @@
     ],
     "stances": [
       {
+        "date": "2026-09-03",
+        "candidate": "jd-vance",
+        "subject": null,
+        "position": "skeptical",
+        "quote": "an individual that tries to be too like Trump",
+        "context": "Said Marco Rubio would be a stronger 2028 candidate than Vance, according to Newsmax’s account of the Politico interview; the full episode was not reviewed.",
+        "venue": "The Conversation with Dasha Burns (Politico)",
+        "source": {
+          "title": "Stephen A. Smith Rejects 2028 Run, Urges Dems to Rein in Left",
+          "publisher": "Newsmax",
+          "url": "https://www.yahoo.com/news/politics/articles/stephen-smith-rejects-2028-run-203529148.html",
+          "date": "2026-09-03"
+        }
+      },
+      {
         "date": "2026-03-09",
         "candidate": "josh-shapiro",
         "subject": null,
@@ -1652,13 +1667,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 6040000,
-            "asOf": "2026-11-14",
+            "asOf": "2026-11-15",
             "youtube": "BreakfastClubPower1051FM",
             "source": {
               "title": "Breakfast Club Power 105.1 FM on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@BreakfastClubPower1051FM",
-              "date": "2026-11-14"
+              "date": "2026-11-15"
             }
           }
         ]
@@ -1693,6 +1708,96 @@
           "publisher": "Fox News",
           "url": "https://www.foxnews.com/media/charlamange-tha-god-reacts-potential-harris-2028-run-urges-democrats-throw-old-regime-under-bus",
           "date": "2025-08-03"
+        }
+      }
+    ]
+  },
+  {
+    "id": "bill-maher",
+    "name": "Bill Maher",
+    "side": "center",
+    "wikipedia": "Bill Maher",
+    "portrait": {
+      "file": "bill-maher.jpg",
+      "credit": "Angela George at https://www.flickr.com/photos/sharongraphics/",
+      "license": "CC BY 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:BillMaherSept10.jpg"
+    },
+    "bio": "Comedian and political commentator who has hosted HBO’s Real Time with Bill Maher since 2003 and the Club Random podcast since 2022. Often described as a moderate liberal, he regularly criticizes both Donald Trump and the Democratic Party’s left wing.",
+    "spectrum": {
+      "score": -1,
+      "faction": "Moderate liberal",
+      "rationale": "Usually described as a moderate liberal and a longtime critic of Donald Trump, but he has made criticism of the left a staple of Real Time and told JD Vance in June 2026 that his 2028 vote is in play if Democrats keep moving toward socialism."
+    },
+    "platforms": [
+      {
+        "outlet": "hbo",
+        "show": "Real Time with Bill Maher",
+        "role": "Host",
+        "reach": [
+          {
+            "metric": "YouTube subscribers",
+            "value": 2990000,
+            "asOf": "2026-11-15",
+            "youtube": "RealTime",
+            "source": {
+              "title": "Real Time with Bill Maher on YouTube",
+              "publisher": "YouTube",
+              "url": "https://www.youtube.com/@RealTime",
+              "date": "2026-11-15"
+            }
+          }
+        ]
+      },
+      {
+        "outlet": "independent",
+        "show": "Club Random",
+        "role": "Host",
+        "reach": [
+          {
+            "metric": "YouTube subscribers",
+            "value": 896000,
+            "asOf": "2026-11-15",
+            "youtube": "ClubRandomPodcast",
+            "source": {
+              "title": "Club Random Podcast on YouTube",
+              "publisher": "YouTube",
+              "url": "https://www.youtube.com/@ClubRandomPodcast",
+              "date": "2026-11-15"
+            }
+          }
+        ]
+      }
+    ],
+    "stances": [
+      {
+        "date": "2026-06-26",
+        "candidate": "jd-vance",
+        "subject": null,
+        "position": "neutral",
+        "quote": "If this is where they're going, my vote is in play",
+        "context": "Told Vance, his guest, that he could vote Republican in 2028 if Democrats keep moving toward socialism, and predicted the Republican nominee will be either Vance or Marco Rubio.",
+        "venue": "Real Time with Bill Maher (HBO)",
+        "source": {
+          "title": "Bill Maher tells Vance his 2028 vote is ‘in play’ as he rips key Dems for refusing to appear on his show",
+          "publisher": "New York Post",
+          "url": "https://www.aol.com/articles/bill-maher-tells-vance-2028-084534049.html",
+          "date": "2026-06-27"
+        }
+      },
+      {
+        "date": "2025-04-18",
+        "candidate": "alexandria-ocasio-cortez",
+        "subject": null,
+        "position": "oppose",
+        "quote": "it shouldn't be her. It shouldn't be her.",
+        "context": "Argued on his panel that Ocasio-Cortez should not be the 2028 Democratic nominee, saying the crowds at her rallies with Bernie Sanders do not decide elections.",
+        "venue": "Real Time with Bill Maher (HBO)",
+        "source": {
+          "title": "Bill Maher says AOC shouldn’t be Democratic nominee in 2028 despite recent hype",
+          "publisher": "Fox News",
+          "url": "https://www.foxnews.com/media/bill-maher-says-aoc-shouldnt-democratic-nominee-2028-despite-recent-hype",
+          "date": "2025-04-19"
         }
       }
     ]
