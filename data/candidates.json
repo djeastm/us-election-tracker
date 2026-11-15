@@ -529,7 +529,16 @@
     "status": "interested",
     "statusNote": "Has not ruled out another run and, per Fox News, makes no secret that he may try again.",
     "bio": "Former Texas solicitor general, senator since 2013 and runner-up for the 2016 Republican nomination. Chairs the Senate Commerce Committee.",
-    "standing": null,
+    "standing": {
+      "text": "2.5% in the RealClearPolling Republican average, sixth",
+      "asOf": "2026-11-03",
+      "source": {
+        "title": "Nationwide opinion polling for the 2028 Republican Party presidential primaries",
+        "publisher": "Wikipedia, citing RealClearPolling",
+        "url": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries",
+        "date": "2026-11-03"
+      }
+    },
     "positions": {
       "iran-war": {
         "label": "Hawk, says it ran long",
@@ -782,13 +791,13 @@
     "statusNote": "\"I go back and forth. I honestly go back and forth,\" she told reporters while campaigning in six states before the midterms.",
     "bio": "Former San Francisco district attorney, California attorney general and senator. Vice president from 2021 to 2025 and the 2024 Democratic nominee. Passed on a 2026 run for governor of California.",
     "standing": {
-      "text": "24.2% in the RealClearPolling Democratic average, first",
-      "asOf": "2026-11-01",
+      "text": "21.8% in the RealClearPolling Democratic average, first",
+      "asOf": "2026-11-06",
       "source": {
-        "title": "Presidential Power Ranking For 2028: Frontrunners Assessed After Midterms",
-        "publisher": "Newsweek",
-        "url": "https://www.newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
-        "date": "2026-11-04"
+        "title": "Nationwide opinion polling for the 2028 Democratic Party presidential primaries",
+        "publisher": "Wikipedia, citing RealClearPolling",
+        "url": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
+        "date": "2026-11-06"
       }
     },
     "positions": {
@@ -918,13 +927,13 @@
     "statusNote": "Said on Nov. 13 he will \"make a decision early January\" after talking it over with his family. Has said he would not run if Harris does.",
     "bio": "Former mayor of San Francisco and lieutenant governor, governor of California since 2019 and term-limited out in January 2027. Spent the closing weeks of the midterms in New Hampshire, South Carolina, North Carolina and Alabama.",
     "standing": {
-      "text": "14.2% in the RealClearPolling Democratic average, second",
-      "asOf": "2026-11-01",
+      "text": "13.5% in the RealClearPolling Democratic average, third",
+      "asOf": "2026-11-06",
       "source": {
-        "title": "Presidential Power Ranking For 2028: Frontrunners Assessed After Midterms",
-        "publisher": "Newsweek",
-        "url": "https://www.newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
-        "date": "2026-11-04"
+        "title": "Nationwide opinion polling for the 2028 Democratic Party presidential primaries",
+        "publisher": "Wikipedia, citing RealClearPolling",
+        "url": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
+        "date": "2026-11-06"
       }
     },
     "positions": {
@@ -1088,13 +1097,13 @@
     "statusNote": "Mostly avoids the question, but has said he would consider what he brings to the table. Passed on Michigan's 2026 Senate and governor races.",
     "bio": "Navy Reserve veteran and former mayor of South Bend, Indiana. Won the 2020 Iowa caucuses, then served as transportation secretary from 2021 to 2025. Ran a seven-state closing tour before the midterms.",
     "standing": {
-      "text": "13.1% in the RealClearPolling Democratic average, third",
-      "asOf": "2026-11-01",
+      "text": "14% in the RealClearPolling Democratic average, second",
+      "asOf": "2026-11-06",
       "source": {
-        "title": "Presidential Power Ranking For 2028: Frontrunners Assessed After Midterms",
-        "publisher": "Newsweek",
-        "url": "https://www.newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
-        "date": "2026-11-04"
+        "title": "Nationwide opinion polling for the 2028 Democratic Party presidential primaries",
+        "publisher": "Wikipedia, citing RealClearPolling",
+        "url": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
+        "date": "2026-11-06"
       }
     },
     "positions": {
@@ -1148,6 +1157,18 @@
       }
     },
     "moves": [
+      {
+        "date": "2026-11-13",
+        "text": "Told reporters at the Majority Democrats conference in Denver that he would not have news about a 2028 run anytime soon. He has not ruled one out.",
+        "sources": [
+          {
+            "title": "Dems descend on Denver to size up 2028; we asked who wants in the race",
+            "publisher": "Fox News",
+            "url": "https://www.foxnews.com/politics/dems-descend-denver-size-2028-who-wants-race",
+            "date": "2026-11-14"
+          }
+        ]
+      },
       {
         "date": "2026-11-12",
         "text": "Due at a Denver gathering of the Majority Democrats group, along with Ro Khanna.",
@@ -1204,13 +1225,13 @@
     "statusNote": "Said in September she is considering a presidential run. She is also weighing a Senate bid in New York.",
     "bio": "Bronx-born organizer who unseated a ten-term incumbent in 2018 and became the most prominent progressive in the House. Campaigned in Maine, Michigan, Nevada and California before the midterms.",
     "standing": {
-      "text": "11.8% in the RealClearPolling Democratic average, fourth",
-      "asOf": "2026-11-01",
+      "text": "12.5% in the RealClearPolling Democratic average, fourth",
+      "asOf": "2026-11-06",
       "source": {
-        "title": "Presidential Power Ranking For 2028: Frontrunners Assessed After Midterms",
-        "publisher": "Newsweek",
-        "url": "https://www.newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
-        "date": "2026-11-04"
+        "title": "Nationwide opinion polling for the 2028 Democratic Party presidential primaries",
+        "publisher": "Wikipedia, citing RealClearPolling",
+        "url": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
+        "date": "2026-11-06"
       }
     },
     "positions": {
@@ -1303,6 +1324,18 @@
     },
     "moves": [
       {
+        "date": "2026-11-14",
+        "text": "The New York City chapter of the Democratic Socialists of America voted 291 to 123 at its convention to urge her to run for president. It is not a formal endorsement, and Al Jazeera reported no response from her.",
+        "sources": [
+          {
+            "title": "New York Democratic Socialists urge Ocasio-Cortez to run for US president",
+            "publisher": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/11/15/new-york-democratic-socialists-urge-ocasio-cortez-to-run-for-us-president",
+            "date": "2026-11-15"
+          }
+        ]
+      },
+      {
         "date": "2026-11-07",
         "text": "Came second in the Crooked Con straw poll with 16.6%.",
         "sources": [
@@ -1346,13 +1379,13 @@
     "statusNote": "Said in an October Senate debate he has \"zero interest in running for president.\" Activists and prediction markets keep naming him anyway.",
     "bio": "Former investigative documentary producer, elected to the Senate in the January 2021 runoff. Won re-election on Nov. 3 by 59% to 41% in a state Trump carried in 2024.",
     "standing": {
-      "text": "9.6% in the RealClearPolling Democratic average, fifth",
-      "asOf": "2026-11-01",
+      "text": "10.8% in the RealClearPolling Democratic average, fifth",
+      "asOf": "2026-11-06",
       "source": {
-        "title": "Presidential Power Ranking For 2028: Frontrunners Assessed After Midterms",
-        "publisher": "Newsweek",
-        "url": "https://www.newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
-        "date": "2026-11-04"
+        "title": "Nationwide opinion polling for the 2028 Democratic Party presidential primaries",
+        "publisher": "Wikipedia, citing RealClearPolling",
+        "url": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
+        "date": "2026-11-06"
       }
     },
     "positions": {},
@@ -1416,16 +1449,16 @@
       "source": "https://commons.wikimedia.org/wiki/File:Gov._Shapiro.jpg"
     },
     "status": "speculated",
-    "statusNote": "Has said nothing about 2028. Won a second term on Nov. 3 by about 22 points in the largest swing state.",
+    "statusNote": "Asked in Denver on Nov. 13 when he would announce a decision, said \"When we're ready to say something, we'll let you know,\" and called it a family matter.",
     "bio": "Former state legislator and two-term Pennsylvania attorney general, governor since 2023. Was on the shortlist to be Harris's running mate in 2024.",
     "standing": {
-      "text": "5.5% in the RealClearPolling Democratic average",
-      "asOf": "2026-11-01",
+      "text": "5.2% in the RealClearPolling Democratic average, seventh",
+      "asOf": "2026-11-06",
       "source": {
-        "title": "Presidential Power Ranking For 2028: Frontrunners Assessed After Midterms",
-        "publisher": "Newsweek",
-        "url": "https://www.newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
-        "date": "2026-11-04"
+        "title": "Nationwide opinion polling for the 2028 Democratic Party presidential primaries",
+        "publisher": "Wikipedia, citing RealClearPolling",
+        "url": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
+        "date": "2026-11-06"
       }
     },
     "positions": {
@@ -1527,6 +1560,24 @@
     },
     "moves": [
       {
+        "date": "2026-11-13",
+        "text": "Spoke at the Majority Democrats \"What's Next\" conference in Denver, saying \"I've decided to be a loud voice in this process that we're going through right now as a party.\" Gave no timeline for a 2028 decision.",
+        "sources": [
+          {
+            "title": "Dems descend on Denver to size up 2028; we asked who wants in the race",
+            "publisher": "Fox News",
+            "url": "https://www.foxnews.com/politics/dems-descend-denver-size-2028-who-wants-race",
+            "date": "2026-11-14"
+          },
+          {
+            "title": "Money, ideas and presidential ambitions converge at a Democratic gathering in Denver",
+            "publisher": "The Boston Globe",
+            "url": "https://www.bostonglobe.com/2026/11/14/nation/democrats-jake-auchincloss-2028/",
+            "date": "2026-11-14"
+          }
+        ]
+      },
+      {
         "date": "2026-11-03",
         "text": "Re-elected 60.3% to 38.4% with 98% counted, a swing of more than 23 points toward Democrats from 2024.",
         "sources": [
@@ -1558,13 +1609,13 @@
     "statusNote": "Has not said he is running. Headlined the New Hampshire Democratic Party's gala and won a third term on Nov. 3.",
     "bio": "Heir to the Hyatt fortune and a venture investor, governor of Illinois since 2019. One of the most confrontational Democratic governors toward the Trump administration.",
     "standing": {
-      "text": "3% in the RealClearPolling Democratic average",
-      "asOf": "2026-11-01",
+      "text": "3% in the RealClearPolling Democratic average, ninth",
+      "asOf": "2026-11-06",
       "source": {
-        "title": "Presidential Power Ranking For 2028: Frontrunners Assessed After Midterms",
-        "publisher": "Newsweek",
-        "url": "https://www.newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
-        "date": "2026-11-04"
+        "title": "Nationwide opinion polling for the 2028 Democratic Party presidential primaries",
+        "publisher": "Wikipedia, citing RealClearPolling",
+        "url": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
+        "date": "2026-11-06"
       }
     },
     "positions": {
@@ -1698,13 +1749,13 @@
     "statusNote": "Has said openly that he would consider a run. Spent the last weeks of the midterms campaigning in early primary states.",
     "bio": "Former Kentucky attorney general and the son of a governor. Elected governor in 2019 and re-elected in 2023 in a state Trump won by 30 points. Term-limited out in 2027.",
     "standing": {
-      "text": "4% in the RealClearPolling Democratic average",
-      "asOf": "2026-11-01",
+      "text": "3.3% in the RealClearPolling Democratic average, eighth",
+      "asOf": "2026-11-06",
       "source": {
-        "title": "Presidential Power Ranking For 2028: Frontrunners Assessed After Midterms",
-        "publisher": "Newsweek",
-        "url": "https://www.newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
-        "date": "2026-11-04"
+        "title": "Nationwide opinion polling for the 2028 Democratic Party presidential primaries",
+        "publisher": "Wikipedia, citing RealClearPolling",
+        "url": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
+        "date": "2026-11-06"
       }
     },
     "positions": {
@@ -1846,6 +1897,183 @@
             "publisher": "Wikipedia",
             "url": "https://en.wikipedia.org/wiki/Gregory_Bovino",
             "date": "2026-11"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mark-kelly",
+    "name": "Mark Kelly",
+    "party": "D",
+    "role": "Senator from Arizona",
+    "born": "1964-02-21",
+    "home": "Arizona",
+    "wikipedia": "Mark Kelly",
+    "portrait": {
+      "file": "mark-kelly.jpg",
+      "credit": "John Shinkle, U.S. Senate Photographic Services",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Mark_Kelly_Official_Portrait_119th.jpg"
+    },
+    "status": "interested",
+    "statusNote": "Told supporters in Maine on Oct. 28, \"I am thinking about it, I'm considering it,\" and said he would decide after the midterms.",
+    "bio": "Retired Navy combat pilot and NASA astronaut who flew four Space Shuttle missions. Won a 2020 special election for the Senate in Arizona and a full term in 2022, and his seat is next up in 2028.",
+    "standing": {
+      "text": "6.5% in the RealClearPolling Democratic average, sixth",
+      "asOf": "2026-11-06",
+      "source": {
+        "title": "Nationwide opinion polling for the 2028 Democratic Party presidential primaries",
+        "publisher": "Wikipedia, citing RealClearPolling",
+        "url": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
+        "date": "2026-11-06"
+      }
+    },
+    "positions": {
+      "iran-war": {
+        "label": "Pushing votes to end it",
+        "lean": -2,
+        "summary": "Co-sponsored an April war powers resolution to stop the war, saying \"The American people are poorer and less safe because of this president.\" In July he said the president \"got into this without a strategic goal.\"",
+        "asOf": "2026-07-26",
+        "basis": "record",
+        "sources": [
+          {
+            "title": "Kelly, Colleagues Join War Powers Push to Stop Iran War",
+            "publisher": "Office of Sen. Mark Kelly",
+            "url": "https://www.kelly.senate.gov/newsroom/press-releases/kelly-colleagues-join-war-powers-push-to-stop-iran-war/",
+            "date": "2026-04-13"
+          },
+          {
+            "title": "Arizona's Sen. Kelly joins Democrats trying to force vote to end Iran war",
+            "publisher": "KJZZ",
+            "url": "https://www.kjzz.org/politics/2026-04-13/arizonas-sen-kelly-joins-democrats-trying-to-force-vote-to-end-iran-war",
+            "date": "2026-04-13"
+          },
+          {
+            "title": "Is Mark Kelly considering 2028 presidential run?",
+            "publisher": "KTAR News",
+            "url": "https://ktar.com/arizona-politics-news/mark-kelly-iran-hegseth-president",
+            "date": "2026-07-26"
+          }
+        ],
+        "history": []
+      },
+      "israel": {
+        "label": "Voted to block some arms sales",
+        "lean": -1,
+        "summary": "Voted in April for Bernie Sanders' resolutions to block certain arms sales to Israel, after opposing some earlier ones. Says he decides each vote on the situation at the time and is \"always going to be looking out for Israel.\"",
+        "asOf": "2026-04-22",
+        "basis": "record",
+        "sources": [
+          {
+            "title": "Adam Schiff, Mark Kelly say future votes on Israel arms sales will be case-by-case",
+            "publisher": "Jewish Insider",
+            "url": "https://jewishinsider.com/2026/04/adam-schiff-mark-kelly-israel-arms-sales-vote-bernie-sanders/",
+            "date": "2026-04-22"
+          }
+        ],
+        "history": []
+      },
+      "ai": {
+        "label": "Make AI companies fund workers",
+        "lean": 0,
+        "summary": "Wants AI companies to pay into an \"AI Horizon Fund\" for retraining and supporting workers who lose jobs to AI, and announced a bill in September to require it. The plan puts costs on the industry rather than limiting the build-out, so it sits mid-scale.",
+        "asOf": "2026-09-22",
+        "basis": "statement",
+        "sources": [
+          {
+            "title": "Sen. Kelly to introduce bill to force tech companies to help workers displaced by AI",
+            "publisher": "KJZZ",
+            "url": "https://www.kjzz.org/politics/2026-09-22/sen-kelly-to-introduce-bill-to-force-tech-companies-to-help-workers-displaced-by-ai",
+            "date": "2026-09-22"
+          }
+        ],
+        "history": []
+      }
+    },
+    "moves": [
+      {
+        "date": "2026-10-28",
+        "text": "Campaigned in Maine for Senate candidate Troy Jackson and told supporters pressing him about 2028 that he would decide after the midterms.",
+        "sources": [
+          {
+            "title": "Mark Kelly says he'll make decision on 2028 presidential run after midterms",
+            "publisher": "Deseret News",
+            "url": "https://www.deseret.com/politics/2026/10/28/mark-kelly-make-decision-on-presidential-run/",
+            "date": "2026-10-28"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-22",
+        "text": "Announced the Make AI Work for Americans Act, which would require tech companies to fund retraining for workers displaced by AI.",
+        "sources": [
+          {
+            "title": "Sen. Kelly to introduce bill to force tech companies to help workers displaced by AI",
+            "publisher": "KJZZ",
+            "url": "https://www.kjzz.org/politics/2026-09-22/sen-kelly-to-introduce-bill-to-force-tech-companies-to-help-workers-displaced-by-ai",
+            "date": "2026-09-22"
+          }
+        ]
+      },
+      {
+        "date": "2026-04-13",
+        "text": "Joined other Senate Democrats in filing a war powers resolution to stop the Iran war.",
+        "sources": [
+          {
+            "title": "Kelly, Colleagues Join War Powers Push to Stop Iran War",
+            "publisher": "Office of Sen. Mark Kelly",
+            "url": "https://www.kelly.senate.gov/newsroom/press-releases/kelly-colleagues-join-war-powers-push-to-stop-iran-war/",
+            "date": "2026-04-13"
+          },
+          {
+            "title": "Arizona's Sen. Kelly joins Democrats trying to force vote to end Iran war",
+            "publisher": "KJZZ",
+            "url": "https://www.kjzz.org/politics/2026-04-13/arizonas-sen-kelly-joins-democrats-trying-to-force-vote-to-end-iran-war",
+            "date": "2026-04-13"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "robert-f-kennedy-jr",
+    "name": "Robert F. Kennedy Jr.",
+    "party": "I",
+    "role": "Secretary of Health and Human Services",
+    "born": "1954-01-17",
+    "home": "California",
+    "wikipedia": "Robert F. Kennedy Jr.",
+    "portrait": {
+      "file": "robert-f-kennedy-jr.jpg",
+      "credit": "U.S. Department of Health and Human Services",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Jr.,_official_portrait_(2025)_(cropped_3-4)_(b).jpg"
+    },
+    "status": "declined",
+    "statusNote": "Told KFF Health News on May 7, \"No, I'm not going to run,\" when asked about a 2028 run as a Republican. Pollsters still include him in Republican primary surveys.",
+    "bio": "Environmental lawyer and longtime vaccine skeptic who ran for president in 2024, first as a Democrat and then as an independent, before endorsing Donald Trump. Has led the Department of Health and Human Services since February 2025 under the Make America Healthy Again banner.",
+    "standing": {
+      "text": "4.4% in the RealClearPolling Republican average, fifth",
+      "asOf": "2026-11-03",
+      "source": {
+        "title": "Nationwide opinion polling for the 2028 Republican Party presidential primaries",
+        "publisher": "Wikipedia, citing RealClearPolling",
+        "url": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries",
+        "date": "2026-11-03"
+      }
+    },
+    "positions": {},
+    "moves": [
+      {
+        "date": "2026-05-07",
+        "text": "Told KFF Health News he would not run for president in 2028.",
+        "sources": [
+          {
+            "title": "Kennedy, balancing MAHA and White House, says he won't run for president in 2028",
+            "publisher": "KFF Health News, via CBS News",
+            "url": "https://www.cbsnews.com/news/robert-f-kennedy-rfk-jr-says-not-running-president-2028/",
+            "date": "2026-05-15"
           }
         ]
       }

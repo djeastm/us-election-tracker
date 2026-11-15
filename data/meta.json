@@ -1,8 +1,8 @@
 {
   "title": "2028 Watch",
   "electionDate": "2028-11-07",
-  "lastUpdated": "2026-11-14",
-  "previousUpdate": "2026-11-13",
+  "lastUpdated": "2026-11-15",
+  "previousUpdate": "2026-11-14",
   "raceSummary": {
     "asOf": "2026-11-14",
     "headline": "Still no major declarations. Vance is reported to be weighing a pass, and Newsom will decide in early January.",
@@ -63,6 +63,10 @@
     ]
   },
   "updates": [
+    {
+      "date": "2026-11-15",
+      "summary": "Candidates: added Mark Kelly (6.5% in the RealClearPolling Democratic average) and Robert F. Kennedy Jr. (4.4% among Republicans, has ruled out a run). Newer Democratic averages put Buttigieg second; Shapiro and Buttigieg comments from the Denver conference; NYC-DSA urged AOC to run."
+    },
     {
       "date": "2026-11-14",
       "summary": "Candidates: added Gregory Bovino (exploratory committee since June). Vance reported weighing a pass, Newsom set an early-January decision, DeSantis denied a Post report that he is preparing a run, plus new Rubio and Buttigieg moves and a refreshed race summary. No newer RealClearPolling averages."
