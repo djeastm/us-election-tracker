@@ -1,17 +1,23 @@
 {
   "title": "2028 Watch",
   "electionDate": "2028-11-07",
-  "lastUpdated": "2026-11-15",
-  "previousUpdate": "2026-11-14",
+  "lastUpdated": "2026-11-16",
+  "previousUpdate": "2026-11-15",
   "raceSummary": {
-    "asOf": "2026-11-14",
-    "headline": "Still no major declarations. Vance is reported to be weighing a pass, and Newsom will decide in early January.",
+    "asOf": "2026-11-16",
+    "headline": "Still no major declarations. Vance will decide after the new year and may not announce until late spring, and Newsom will decide in early January.",
     "paragraphs": [
       "Democrats won both chambers of Congress on Nov. 3, with at least 54 Senate seats and 254 House seats. Republicans are arguing over the cause, with JD Vance blaming the Iran war and Marco Rubio defending it.",
-      "CNN reported on Nov. 13 that Vance has seriously weighed not running, though allies still think a run is more likely than not. Rubio gave his first major post-midterm speech to the Federalist Society the same day, and a person familiar with his thinking said he is keeping his options open. Ron DeSantis denied a Washington Post report that he is preparing a bid. Former Border Patrol commander Gregory Bovino has had an exploratory committee since June.",
-      "On the Democratic side Kamala Harris leads national polls but has not decided. Gavin Newsom, who says he would not run against her, said he will decide in early January. Jon Ossoff, who says he has zero interest in running, won the Crooked Con straw poll with 38.4%."
+      "Axios reported on Nov. 15 that Vance will not make a final decision until after the new year and may wait until late spring to announce, and that his closest advisers expect him to run. That followed a CNN report on Nov. 13 that he has seriously weighed not running. Rubio gave his first major post-midterm speech to the Federalist Society the same day, and a person familiar with his thinking said he is keeping his options open. Ron DeSantis denied a Washington Post report that he is preparing a bid. Former Border Patrol commander Gregory Bovino has had an exploratory committee since June.",
+      "On the Democratic side Kamala Harris leads national polls but has not decided. Gavin Newsom, who says he would not run against her, said he will decide in early January. Jon Ossoff, who says he has zero interest in running, won the Crooked Con straw poll with 38.4%. At a Denver conference on Nov. 13, Cory Booker said he is giving a run \"a lot of hard thought\" and Pete Buttigieg said he has no news coming soon."
     ],
     "sources": [
+      {
+        "title": "Vance may wait until late spring to reveal 2028 plans",
+        "publisher": "Axios",
+        "url": "https://www.axios.com/2026/11/15/vance-2028-campaign-president-announce",
+        "date": "2026-11-15"
+      },
       {
         "title": "Once Trump’s presumed heir, Vance is wrestling with his political future",
         "publisher": "CNN",
@@ -29,6 +35,12 @@
         "publisher": "Fox News",
         "url": "https://www.foxnews.com/politics/newsom-reveals-when-decide-2028-white-house-bid-growing-speculation",
         "date": "2026-11-13"
+      },
+      {
+        "title": "Dems descend on Denver to size up 2028. We asked who wants in the race",
+        "publisher": "Fox News",
+        "url": "https://www.foxnews.com/politics/dems-descend-denver-size-2028-who-wants-race",
+        "date": "2026-11-14"
       },
       {
         "title": "DeSantis blasts Washington Post over report he's preparing 2028 presidential bid",
@@ -63,6 +75,10 @@
     ]
   },
   "updates": [
+    {
+      "date": "2026-11-16",
+      "summary": "Candidates: added Cory Booker (2.5% in the RealClearPolling Democratic average, 3.5% in 270toWin; giving a run \"a lot of hard thought\"). Axios reported Vance will decide after the new year and may not announce until late spring. No newer RealClearPolling averages."
+    },
     {
       "date": "2026-11-15",
       "summary": "Pundits: added Bill Maher (told Vance in June his 2028 vote is in play; said in 2025 that Ocasio-Cortez should not be the nominee) and Stephen A. Smith’s September criticism of Vance as “too like Trump.” No new stances found from Nov. 14–15; November cable ratings are not out yet."

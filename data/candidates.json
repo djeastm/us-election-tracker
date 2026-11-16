@@ -14,7 +14,7 @@
       "source": "https://commons.wikimedia.org/wiki/File:March_2026_Official_Vice_Presidential_Portrait_of_JD_Vance_(medium_crop)_(2).jpg"
     },
     "status": "undecided",
-    "statusNote": "Has not decided. CNN reported on Nov. 13, citing allies and advisers, that he has seriously weighed skipping the race after the midterms but is still more likely than not to run.",
+    "statusNote": "Has not decided. Axios reported on Nov. 15 that he will not make a final decision until after the new year, may not announce until late spring, and that his closest advisers expect him to run.",
     "bio": "Marine veteran, Yale Law graduate and author of Hillbilly Elegy. Served two years as a senator from Ohio before becoming vice president in 2025. Led the US delegation to the Islamabad talks with Iran in April 2026.",
     "standing": {
       "text": "38.6% in the RealClearPolling Republican average, first",
@@ -130,6 +130,24 @@
       }
     },
     "moves": [
+      {
+        "date": "2026-11-15",
+        "text": "Axios reported that he will not make a final decision on running until after the new year and may wait until late spring to announce, partly to avoid pulling attention from Trump. A person close to him said his closest advisers believe he should run and is likely to; his spokesperson declined to comment.",
+        "sources": [
+          {
+            "title": "Vance may wait until late spring to reveal 2028 plans",
+            "publisher": "Axios",
+            "url": "https://www.axios.com/2026/11/15/vance-2028-campaign-president-announce",
+            "date": "2026-11-15"
+          },
+          {
+            "title": "Vance Won’t Make Decision on 2028 Until Next Year — Inner Circle Thinks He’ll Run: Report",
+            "publisher": "Mediaite",
+            "url": "https://www.mediaite.com/politics/election-2028/vance-wont-make-decision-on-2028-until-next-year-inner-circle-thinks-hell-run-report/",
+            "date": "2026-11-15"
+          }
+        ]
+      },
       {
         "date": "2026-11-13",
         "text": "CNN, citing about a dozen unnamed allies and advisers, reported that he is weighing whether to run at all, with the Iran war, his growing family and a split MAGA movement named as factors. Several still expect him to run.",
@@ -2074,6 +2092,204 @@
             "publisher": "KFF Health News, via CBS News",
             "url": "https://www.cbsnews.com/news/robert-f-kennedy-rfk-jr-says-not-running-president-2028/",
             "date": "2026-05-15"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cory-booker",
+    "name": "Cory Booker",
+    "party": "D",
+    "role": "Senator from New Jersey",
+    "born": "1969-04-27",
+    "home": "New Jersey",
+    "wikipedia": "Cory Booker",
+    "portrait": {
+      "file": "cory-booker.jpg",
+      "credit": "U.S. Senate",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Cory_Booker,_official_portrait_(119th_Congress).jpg"
+    },
+    "status": "interested",
+    "statusNote": "Said in Denver on Nov. 13 that he is giving \"a lot of hard thought\" to a 2028 run, while focusing on what he calls an \"American renewal.\"",
+    "bio": "Former mayor of Newark who has represented New Jersey in the Senate since a 2013 special election, and won a third full term on Nov. 3, 2026. He sought the 2020 Democratic nomination and withdrew in January 2020. In 2025 he gave the longest speech in Senate history, at 25 hours and five minutes.",
+    "standing": {
+      "text": "2.5% in the RealClearPolling Democratic average, tenth; 3.5% in the 270toWin average",
+      "asOf": "2026-11-06",
+      "source": {
+        "title": "Nationwide opinion polling for the 2028 Democratic Party presidential primaries",
+        "publisher": "Wikipedia, citing RealClearPolling and 270toWin",
+        "url": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
+        "date": "2026-11-06"
+      }
+    },
+    "positions": {
+      "iran-war": {
+        "label": "Led votes to end it",
+        "lean": -2,
+        "summary": "Led a war powers resolution, defeated 47 to 53 in March, that would have directed the president to remove US forces from hostilities against Iran unless Congress authorized them. In April he said \"I am using every tool available to me to stop this war.\"",
+        "asOf": "2026-04-17",
+        "basis": "record",
+        "sources": [
+          {
+            "title": "Senate votes down effort to restrict Trump's Iran war powers",
+            "publisher": "CBS News",
+            "url": "https://www.cbsnews.com/news/senate-defeats-trump-iran-war-powers-vote-booker/",
+            "date": "2026-03-18"
+          },
+          {
+            "title": "Booker reverses on weapons to Israel, vows 'every tool' to stop war",
+            "publisher": "NJ Spotlight News",
+            "url": "https://www.njspotlightnews.org/2026/04/booker-reverses-on-weapons-to-israel-vows-every-tool-to-stop-war/",
+            "date": "2026-04-17"
+          }
+        ],
+        "history": []
+      },
+      "israel": {
+        "label": "Voted to block some arms sales",
+        "lean": -1,
+        "summary": "Voted in April for Bernie Sanders' resolutions to block a bulldozer sale and 1,000-pound bombs for Israel, a reversal after backing seven arms packages since October 2023. He tied the vote to opposing the Iran war rather than to ending aid outright.",
+        "asOf": "2026-04-17",
+        "basis": "record",
+        "sources": [
+          {
+            "title": "Booker reverses on weapons to Israel, vows 'every tool' to stop war",
+            "publisher": "NJ Spotlight News",
+            "url": "https://www.njspotlightnews.org/2026/04/booker-reverses-on-weapons-to-israel-vows-every-tool-to-stop-war/",
+            "date": "2026-04-17"
+          }
+        ],
+        "history": []
+      },
+      "immigration": {
+        "label": "Stop funding ICE",
+        "lean": -2,
+        "summary": "Called the Delaney Hall detention center in Newark \"a moral stain on our nation\" and demanded it be closed, saying \"We should not be giving another dollar to ICE, a lawless and out-of-control agency that has forfeited the public trust.\"",
+        "asOf": "2026-05-27",
+        "basis": "statement",
+        "sources": [
+          {
+            "title": "Booker Demands DHS Shut Down Delaney Hall Following Second Congressional Oversight Visit This Year",
+            "publisher": "Office of Sen. Cory Booker",
+            "url": "https://www.booker.senate.gov/news/press/booker-demands-dhs-shut-down-delaney-hall-following-second-congressional-oversight-visit-this-year",
+            "date": "2026-05-27"
+          }
+        ],
+        "history": []
+      },
+      "tariffs": {
+        "label": "Refund tariffs to consumers",
+        "lean": -2,
+        "summary": "Joined Elizabeth Warren and Peter Welch after the Supreme Court struck down the IEEPA tariffs in demanding that Trump send refunds directly to consumers and small businesses, calling the tariffs illegal.",
+        "asOf": "2026-02-24",
+        "basis": "statement",
+        "sources": [
+          {
+            "title": "Warren, Booker, Welch Slam Trump on Illegal Tariff Theft From the Middle Class, Demand Plan for Refunds Directly to Consumers and Small Businesses",
+            "publisher": "Office of Sen. Elizabeth Warren",
+            "url": "https://www.warren.senate.gov/newsroom/press-releases/warren-booker-welch-slam-trump-on-illegal-tariff-theft-from-the-middle-class-demand-plan-for-refunds-directly-to-consumers-and-small-businesses",
+            "date": "2026-02-24"
+          }
+        ],
+        "history": []
+      },
+      "ai": {
+        "label": "Make data centers pay power costs",
+        "lean": 0,
+        "summary": "Cosponsored the Power for the People Act, which would make data centers cover their own energy costs instead of passing them to ratepayers, saying the benefits of AI \"must be broadly shared.\" It puts costs on the industry rather than limiting the build-out, so it sits mid-scale.",
+        "asOf": "2026-01-15",
+        "basis": "record",
+        "sources": [
+          {
+            "title": "Van Hollen Leads New Bill to Ensure Americans Aren't Footing the Bill for Big Data Centers",
+            "publisher": "Office of Sen. Chris Van Hollen",
+            "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-leads-new-bill-to-ensure-americans-arent-footing-the-bill-for-big-data-centers",
+            "date": "2026-01-15"
+          }
+        ],
+        "history": []
+      },
+      "health-care": {
+        "label": "Medicare for All cosponsor",
+        "lean": -2,
+        "summary": "Original cosponsor of Bernie Sanders' Medicare for All Act of 2025.",
+        "asOf": "2025-04-29",
+        "basis": "record",
+        "sources": [
+          {
+            "title": "S.1506 - Medicare for All Act: Cosponsors",
+            "publisher": "Congress.gov",
+            "url": "https://www.congress.gov/bill/119th-congress/senate-bill/1506/cosponsors",
+            "date": "2025-04-29"
+          }
+        ],
+        "history": []
+      },
+      "abortion": {
+        "label": "Federal abortion protection",
+        "lean": -2,
+        "summary": "Original cosponsor of the Women's Health Protection Act of 2025, which would guarantee a nationwide right to obtain and provide abortion care.",
+        "asOf": "2025-06-24",
+        "basis": "record",
+        "sources": [
+          {
+            "title": "S.2150 - Women’s Health Protection Act of 2025: Cosponsors",
+            "publisher": "Congress.gov",
+            "url": "https://www.congress.gov/bill/119th-congress/senate-bill/2150/cosponsors",
+            "date": "2025-06-24"
+          }
+        ],
+        "history": []
+      }
+    },
+    "moves": [
+      {
+        "date": "2026-11-13",
+        "text": "Told Fox News at the Majority Democrats conference in Denver that he is giving \"a lot of hard thought\" to a 2028 campaign, with his focus on an \"American renewal.\"",
+        "sources": [
+          {
+            "title": "Dems descend on Denver to size up 2028. We asked who wants in the race",
+            "publisher": "Fox News",
+            "url": "https://www.foxnews.com/politics/dems-descend-denver-size-2028-who-wants-race",
+            "date": "2026-11-14"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-03",
+        "text": "Won a third full Senate term, defeating Republican Justin Murphy. The AP called the race at 8 p.m.",
+        "sources": [
+          {
+            "title": "Democrat Cory Booker wins reelection to U.S. Senate from New Jersey",
+            "publisher": "ABC7 New York",
+            "url": "https://abc7ny.com/post/democrat-cory-booker-wins-reelection-us-senate-new-jersey/20014807/",
+            "date": "2026-11-04"
+          }
+        ]
+      },
+      {
+        "date": "2026-03-18",
+        "text": "His war powers resolution to stop the Iran war failed 47 to 53, with Rand Paul the only Republican in favor and John Fetterman the only Democrat against.",
+        "sources": [
+          {
+            "title": "Senate votes down effort to restrict Trump's Iran war powers",
+            "publisher": "CBS News",
+            "url": "https://www.cbsnews.com/news/senate-defeats-trump-iran-war-powers-vote-booker/",
+            "date": "2026-03-18"
+          }
+        ]
+      },
+      {
+        "date": "2026-02-17",
+        "text": "Said on a podcast hosted by Jaime Harrison, \"I have not dismissed the idea of running for president again in '28.\"",
+        "sources": [
+          {
+            "title": "Major Trump critic has 'not dismissed' another presidential run ahead of 2028 election",
+            "publisher": "Fox News",
+            "url": "https://www.foxnews.com/media/major-trump-critic-has-not-dismissed-another-presidential-run-ahead-2028-election",
+            "date": "2026-02-17"
           }
         ]
       }
