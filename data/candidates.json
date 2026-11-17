@@ -14,7 +14,7 @@
       "source": "https://commons.wikimedia.org/wiki/File:March_2026_Official_Vice_Presidential_Portrait_of_JD_Vance_(medium_crop)_(2).jpg"
     },
     "status": "undecided",
-    "statusNote": "Has not decided. Axios reported on Nov. 15 that he will not make a final decision until after the new year, may not announce until late spring, and that his closest advisers expect him to run.",
+    "statusNote": "Told Fox News's Laura Ingraham on Nov. 16 that he has not made a decision and will \"figure it out sometime next year,\" after Axios reported he may not announce until late spring.",
     "bio": "Marine veteran, Yale Law graduate and author of Hillbilly Elegy. Served two years as a senator from Ohio before becoming vice president in 2025. Led the US delegation to the Islamabad talks with Iran in April 2026.",
     "standing": {
       "text": "38.6% in the RealClearPolling Republican average, first",
@@ -130,6 +130,24 @@
       }
     },
     "moves": [
+      {
+        "date": "2026-11-16",
+        "text": "Told Laura Ingraham on Fox News that he had not made a decision and would \"figure it out sometime next year,\" adding that \"you can't declare a month before the Iowa caucus\" and that he would be \"all in\" on whatever he decides. The same day Reuters, citing four people familiar with his thinking, reported that he appears likely to run.",
+        "sources": [
+          {
+            "title": "JD Vance says he'll decide 'sometime next year' about 2028 presidential run",
+            "publisher": "CNBC",
+            "url": "https://www.cnbc.com/2026/11/17/jd-vance-2028-presidential-run-decision.html",
+            "date": "2026-11-17"
+          },
+          {
+            "title": "Republican 2028 field takes shape after midterm drubbing",
+            "publisher": "Reuters",
+            "url": "https://www.usnews.com/news/politics/articles/2026-11-16/republican-2028-field-takes-shape-after-midterm-drubbing",
+            "date": "2026-11-16"
+          }
+        ]
+      },
       {
         "date": "2026-11-15",
         "text": "Axios reported that he will not make a final decision on running until after the new year and may wait until late spring to announce, partly to avoid pulling attention from Trump. A person close to him said his closest advisers believe he should run and is likely to; his spokesperson declined to comment.",
@@ -321,6 +339,18 @@
     },
     "moves": [
       {
+        "date": "2026-11-16",
+        "text": "Reuters reported that several people familiar with his thinking say a 2028 bid appears unlikely for now, with a former aide pointing to a possible 2032 run, though three Republican donors said they hope he enters. A Reuters/Ipsos poll found 45% of Republican voters rated him an \"excellent\" candidate, against 43% for Vance.",
+        "sources": [
+          {
+            "title": "Republican 2028 field takes shape after midterm drubbing",
+            "publisher": "Reuters",
+            "url": "https://www.usnews.com/news/politics/articles/2026-11-16/republican-2028-field-takes-shape-after-midterm-drubbing",
+            "date": "2026-11-16"
+          }
+        ]
+      },
+      {
         "date": "2026-11-13",
         "text": "Gave his first major speech since the midterms, to the Federalist Society, defending the Iran war: \"It had to be addressed, and I know it's unpopular.\" One person familiar with his thinking told MS NOW he has not decided on 2028 and is keeping his options open.",
         "sources": [
@@ -475,6 +505,18 @@
     },
     "moves": [
       {
+        "date": "2026-11-16",
+        "text": "Reuters reported that he is keeping his 2028 options open and considering waiting until 2032. The report rests on a single unnamed party operative.",
+        "sources": [
+          {
+            "title": "Republican 2028 field takes shape after midterm drubbing",
+            "publisher": "Reuters",
+            "url": "https://www.usnews.com/news/politics/articles/2026-11-16/republican-2028-field-takes-shape-after-midterm-drubbing",
+            "date": "2026-11-16"
+          }
+        ]
+      },
+      {
         "date": "2026-11-06",
         "text": "The Washington Post, citing three people briefed on his plans, reported that he is preparing a 2028 run and has contacted at least one national consultant. He denied it on X: \"I have not reached out to anybody about running for anything.\"",
         "sources": [
@@ -545,7 +587,7 @@
       "source": "https://commons.wikimedia.org/wiki/File:Ted_Cruz_official_116th_portrait_(3x4_cropped).jpg"
     },
     "status": "interested",
-    "statusNote": "Has not ruled out another run and, per Fox News, makes no secret that he may try again.",
+    "statusNote": "Has not formally said he is running, but said on a podcast in August, \"It's no secret that I want to be president,\" and Reuters reported on Nov. 16 that he has begun early preparations.",
     "bio": "Former Texas solicitor general, senator since 2013 and runner-up for the 2016 Republican nomination. Chairs the Senate Commerce Committee.",
     "standing": {
       "text": "2.5% in the RealClearPolling Republican average, sixth",
@@ -699,6 +741,18 @@
       }
     },
     "moves": [
+      {
+        "date": "2026-11-16",
+        "text": "Reuters, citing two people familiar with the activity, reported that he has spoken with associates about another run and begun early preparations. Economist Stephen Moore said Cruz told him over dinner before the midterms that he planned to launch a bid. His representatives did not respond to Reuters.",
+        "sources": [
+          {
+            "title": "Republican 2028 field takes shape after midterm drubbing",
+            "publisher": "Reuters",
+            "url": "https://www.usnews.com/news/politics/articles/2026-11-16/republican-2028-field-takes-shape-after-midterm-drubbing",
+            "date": "2026-11-16"
+          }
+        ]
+      },
       {
         "date": "2026-11-04",
         "text": "Called the midterms \"a Watergate-level repudiation\" after Republicans lost every statewide race in Texas. \"Texas is blue. That is a hard sentence to utter.\"",

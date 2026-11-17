@@ -1,17 +1,29 @@
 {
   "title": "2028 Watch",
   "electionDate": "2028-11-07",
-  "lastUpdated": "2026-11-16",
-  "previousUpdate": "2026-11-15",
+  "lastUpdated": "2026-11-17",
+  "previousUpdate": "2026-11-16",
   "raceSummary": {
-    "asOf": "2026-11-16",
-    "headline": "Still no major declarations. Vance will decide after the new year and may not announce until late spring, and Newsom will decide in early January.",
+    "asOf": "2026-11-17",
+    "headline": "Still no major declarations. Vance says he will decide \"sometime next year,\" Newsom will decide in early January, and Reuters reports Cruz has begun early preparations.",
     "paragraphs": [
       "Democrats won both chambers of Congress on Nov. 3, with at least 54 Senate seats and 254 House seats. Republicans are arguing over the cause, with JD Vance blaming the Iran war and Marco Rubio defending it.",
-      "Axios reported on Nov. 15 that Vance will not make a final decision until after the new year and may wait until late spring to announce, and that his closest advisers expect him to run. That followed a CNN report on Nov. 13 that he has seriously weighed not running. Rubio gave his first major post-midterm speech to the Federalist Society the same day, and a person familiar with his thinking said he is keeping his options open. Ron DeSantis denied a Washington Post report that he is preparing a bid. Former Border Patrol commander Gregory Bovino has had an exploratory committee since June.",
+      "Vance told Fox News on Nov. 16 that he has not decided and will \"figure it out sometime next year.\" Axios reported he may wait until late spring to announce, and Reuters, citing four people familiar with his thinking, said he appears likely to run. Reuters also reported that Ted Cruz has begun early preparations, that Glenn Youngkin is considering a bid, that Ron DeSantis is weighing waiting until 2032, and that people familiar with Marco Rubio's thinking see a 2028 bid as unlikely for now. Former Border Patrol commander Gregory Bovino has had an exploratory committee since June.",
       "On the Democratic side Kamala Harris leads national polls but has not decided. Gavin Newsom, who says he would not run against her, said he will decide in early January. Jon Ossoff, who says he has zero interest in running, won the Crooked Con straw poll with 38.4%. At a Denver conference on Nov. 13, Cory Booker said he is giving a run \"a lot of hard thought\" and Pete Buttigieg said he has no news coming soon."
     ],
     "sources": [
+      {
+        "title": "JD Vance says he'll decide 'sometime next year' about 2028 presidential run",
+        "publisher": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/17/jd-vance-2028-presidential-run-decision.html",
+        "date": "2026-11-17"
+      },
+      {
+        "title": "Republican 2028 field takes shape after midterm drubbing",
+        "publisher": "Reuters",
+        "url": "https://www.usnews.com/news/politics/articles/2026-11-16/republican-2028-field-takes-shape-after-midterm-drubbing",
+        "date": "2026-11-16"
+      },
       {
         "title": "Vance may wait until late spring to reveal 2028 plans",
         "publisher": "Axios",
@@ -75,6 +87,10 @@
     ]
   },
   "updates": [
+    {
+      "date": "2026-11-17",
+      "summary": "Candidates: Vance told Fox News he will decide \"sometime next year\"; Reuters reported Cruz has begun early 2028 preparations, DeSantis is weighing 2032, and Rubio sees a 2028 bid as unlikely for now. Race summary refreshed; no newer RealClearPolling averages could be confirmed."
+    },
     {
       "date": "2026-11-16",
       "summary": "Pundits: Stephen A. Smith told Trump in their Nov. 12 White House interview that he has not decided on a run, after ruling one out in March. No other new stances since Nov. 15; November cable ratings are not out yet."
