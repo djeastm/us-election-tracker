@@ -1,8 +1,8 @@
 {
   "title": "2028 Watch",
   "electionDate": "2028-11-07",
-  "lastUpdated": "2026-11-17",
-  "previousUpdate": "2026-11-16",
+  "lastUpdated": "2026-11-18",
+  "previousUpdate": "2026-11-17",
   "raceSummary": {
     "asOf": "2026-11-17",
     "headline": "Still no major declarations. Vance says he will decide \"sometime next year,\" Newsom will decide in early January, and Reuters reports Cruz has begun early preparations.",
@@ -87,6 +87,10 @@
     ]
   },
   "updates": [
+    {
+      "date": "2026-11-18",
+      "summary": "Candidates: no changes found. Coverage since Nov. 17 repeats items already tracked (Vance deciding next year, the Reuters report on the Republican field); no newer RealClearPolling averages could be confirmed."
+    },
     {
       "date": "2026-11-17",
       "summary": "Pundits: added Bill Maher’s September 2025 push for a Stephen A. Smith run (“the Democrats definitely need an outsider”). No new stances found from Nov. 16–17; November cable ratings are not out yet."
