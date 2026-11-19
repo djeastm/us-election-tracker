@@ -217,6 +217,14 @@ main:focus { outline: none; }
 .lede-text { grid-area: text; display: grid; gap: 12px; max-width: var(--measure); }
 .lede-sources { grid-area: src; align-self: end; max-width: 52ch; padding-top: 12px; border-top: 1px solid var(--rule); }
 .lede-sources .h-small { color: var(--muted); font-weight: 500; }
+.lede-sources > summary { cursor: pointer; list-style: none; display: flex; align-items: baseline; gap: 0 6px; flex-wrap: wrap; }
+.lede-sources > summary::-webkit-details-marker { display: none; }
+.lede-sources > summary::before { content: "▸"; display: inline-block; width: 1ch; color: var(--ink); transition: transform 120ms ease; }
+.lede-sources[open] > summary::before { transform: rotate(90deg); }
+.lede-sources > summary:hover { color: var(--ink); }
+.lede-sources .src-count { color: var(--ink); font-weight: 620; font-variant-numeric: tabular-nums lining-nums; }
+.lede-sources[open] > summary { margin-bottom: 8px; }
+@media (prefers-reduced-motion: reduce) { .lede-sources > summary::before { transition: none; } }
 
 /* ---------------------------------------------------------------- board */
 
