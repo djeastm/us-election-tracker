@@ -48,7 +48,7 @@ Array of `{ "id", "name", "question", "low", "high" }`. `low` and `high` name th
   "status": "declared" | "exploring" | "interested" | "undecided" | "speculated" | "declined",
   "statusNote",                                   // one sentence, what they last said about running
   "bio",                                          // two or three sentences
-  "standing": null | { "text", "asOf", "source": source },
+  "standing": null | { "text", "value"?, "asOf", "source": source },   // value: polling share in percent, when text cites one; used for ordering
   "positions": {
     "<issueId>": {
       "label",                                    // six words or fewer

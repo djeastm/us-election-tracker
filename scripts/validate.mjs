@@ -290,9 +290,12 @@ export function validate(opts = {}) {
     if (c.obj(cand, 'standing', { nullable: true })) {
       const s = cand.standing;
       c.str(s, 'text', { path: 'standing.text' });
+      if ('value' in s && (typeof s.value !== 'number' || !Number.isFinite(s.value) || s.value < 0 || s.value > 100)) {
+        r.error(file, id, 'standing.value', `${JSON.stringify(s.value)} must be a number from 0 to 100 (percent), or left out`);
+      }
       c.date(s, 'asOf', { path: 'standing.asOf' });
       if (c.obj(s, 'source', { path: 'standing.source' })) c.source(s.source, 'standing.source');
-      c.known(s, ['text', 'asOf', 'source'], 'standing');
+      c.known(s, ['text', 'value', 'asOf', 'source'], 'standing');
     }
     if (c.obj(cand, 'positions')) {
       for (const [key, pos] of Object.entries(cand.positions)) {

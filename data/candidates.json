@@ -18,6 +18,7 @@
     "bio": "Marine veteran, Yale Law graduate and author of Hillbilly Elegy. Served two years as a senator from Ohio before becoming vice president in 2025. Led the US delegation to the Islamabad talks with Iran in April 2026.",
     "standing": {
       "text": "38.6% in the RealClearPolling Republican average, first",
+      "value": 38.6,
       "asOf": "2026-11-01",
       "source": {
         "title": "Presidential Power Ranking For 2028: Frontrunners Assessed After Midterms",
@@ -247,6 +248,7 @@
     "bio": "Son of Cuban immigrants, senator from Florida from 2011 to 2025 and a 2016 presidential candidate. As secretary of state he has been the administration's main voice on the Iran war.",
     "standing": {
       "text": "26.4% in the RealClearPolling Republican average, second",
+      "value": 26.4,
       "asOf": "2026-11-01",
       "source": {
         "title": "Presidential Power Ranking For 2028: Frontrunners Assessed After Midterms",
@@ -419,6 +421,7 @@
     "bio": "Navy lawyer and three-term congressman, governor of Florida since 2019 and term-limited out in January 2027. Lost the 2024 nomination to Trump.",
     "standing": {
       "text": "7.5% in the RealClearPolling Republican average, fourth",
+      "value": 7.5,
       "asOf": "2026-11-01",
       "source": {
         "title": "Presidential Power Ranking For 2028: Frontrunners Assessed After Midterms",
@@ -603,6 +606,7 @@
     "bio": "Former Texas solicitor general, senator since 2013 and runner-up for the 2016 Republican nomination. Chairs the Senate Commerce Committee.",
     "standing": {
       "text": "2.5% in the RealClearPolling Republican average, sixth",
+      "value": 2.5,
       "asOf": "2026-11-03",
       "source": {
         "title": "Nationwide opinion polling for the 2028 Republican Party presidential primaries",
@@ -816,6 +820,7 @@
     "bio": "The president's eldest son, an executive at the Trump Organization and host of the podcast Triggered. Has never held office.",
     "standing": {
       "text": "9.8% in the RealClearPolling Republican average, third",
+      "value": 9.8,
       "asOf": "2026-11-01",
       "source": {
         "title": "Presidential Power Ranking For 2028: Frontrunners Assessed After Midterms",
@@ -876,6 +881,7 @@
     "bio": "Former San Francisco district attorney, California attorney general and senator. Vice president from 2021 to 2025 and the 2024 Democratic nominee. Passed on a 2026 run for governor of California.",
     "standing": {
       "text": "21.8% in the RealClearPolling Democratic average, first",
+      "value": 21.8,
       "asOf": "2026-11-06",
       "source": {
         "title": "Nationwide opinion polling for the 2028 Democratic Party presidential primaries",
@@ -1012,6 +1018,7 @@
     "bio": "Former mayor of San Francisco and lieutenant governor, governor of California since 2019 and term-limited out in January 2027. Spent the closing weeks of the midterms in New Hampshire, South Carolina, North Carolina and Alabama.",
     "standing": {
       "text": "13.5% in the RealClearPolling Democratic average, third",
+      "value": 13.5,
       "asOf": "2026-11-06",
       "source": {
         "title": "Nationwide opinion polling for the 2028 Democratic Party presidential primaries",
@@ -1182,6 +1189,7 @@
     "bio": "Navy Reserve veteran and former mayor of South Bend, Indiana. Won the 2020 Iowa caucuses, then served as transportation secretary from 2021 to 2025. Ran a seven-state closing tour before the midterms.",
     "standing": {
       "text": "14% in the RealClearPolling Democratic average, second",
+      "value": 14,
       "asOf": "2026-11-06",
       "source": {
         "title": "Nationwide opinion polling for the 2028 Democratic Party presidential primaries",
@@ -1338,6 +1346,7 @@
     "bio": "Bronx-born organizer who unseated a ten-term incumbent in 2018 and became the most prominent progressive in the House. Campaigned in Maine, Michigan, Nevada and California before the midterms.",
     "standing": {
       "text": "12.5% in the RealClearPolling Democratic average, fourth",
+      "value": 12.5,
       "asOf": "2026-11-06",
       "source": {
         "title": "Nationwide opinion polling for the 2028 Democratic Party presidential primaries",
@@ -1492,6 +1501,7 @@
     "bio": "Former investigative documentary producer, elected to the Senate in the January 2021 runoff. Won re-election on Nov. 3 by 59% to 41% in a state Trump carried in 2024.",
     "standing": {
       "text": "10.8% in the RealClearPolling Democratic average, fifth",
+      "value": 10.8,
       "asOf": "2026-11-06",
       "source": {
         "title": "Nationwide opinion polling for the 2028 Democratic Party presidential primaries",
@@ -1565,6 +1575,7 @@
     "bio": "Former state legislator and two-term Pennsylvania attorney general, governor since 2023. Was on the shortlist to be Harris's running mate in 2024.",
     "standing": {
       "text": "5.2% in the RealClearPolling Democratic average, seventh",
+      "value": 5.2,
       "asOf": "2026-11-06",
       "source": {
         "title": "Nationwide opinion polling for the 2028 Democratic Party presidential primaries",
@@ -1722,6 +1733,7 @@
     "bio": "Heir to the Hyatt fortune and a venture investor, governor of Illinois since 2019. One of the most confrontational Democratic governors toward the Trump administration.",
     "standing": {
       "text": "3% in the RealClearPolling Democratic average, ninth",
+      "value": 3,
       "asOf": "2026-11-06",
       "source": {
         "title": "Nationwide opinion polling for the 2028 Democratic Party presidential primaries",
@@ -1862,6 +1874,7 @@
     "bio": "Former Kentucky attorney general and the son of a governor. Elected governor in 2019 and re-elected in 2023 in a state Trump won by 30 points. Term-limited out in 2027.",
     "standing": {
       "text": "3.3% in the RealClearPolling Democratic average, eighth",
+      "value": 3.3,
       "asOf": "2026-11-06",
       "source": {
         "title": "Nationwide opinion polling for the 2028 Democratic Party presidential primaries",
@@ -2033,6 +2046,7 @@
     "bio": "Retired Navy combat pilot and NASA astronaut who flew four Space Shuttle missions. Won a 2020 special election for the Senate in Arizona and a full term in 2022, and his seat is next up in 2028.",
     "standing": {
       "text": "6.5% in the RealClearPolling Democratic average, sixth",
+      "value": 6.5,
       "asOf": "2026-11-06",
       "source": {
         "title": "Nationwide opinion polling for the 2028 Democratic Party presidential primaries",
@@ -2167,6 +2181,7 @@
     "bio": "Environmental lawyer and longtime vaccine skeptic who ran for president in 2024, first as a Democrat and then as an independent, before endorsing Donald Trump. Has led the Department of Health and Human Services since February 2025 under the Make America Healthy Again banner.",
     "standing": {
       "text": "4.4% in the RealClearPolling Republican average, fifth",
+      "value": 4.4,
       "asOf": "2026-11-03",
       "source": {
         "title": "Nationwide opinion polling for the 2028 Republican Party presidential primaries",
@@ -2210,6 +2225,7 @@
     "bio": "Former mayor of Newark who has represented New Jersey in the Senate since a 2013 special election, and won a third full term on Nov. 3, 2026. He sought the 2020 Democratic nomination and withdrew in January 2020. In 2025 he gave the longest speech in Senate history, at 25 hours and five minutes.",
     "standing": {
       "text": "2.5% in the RealClearPolling Democratic average, tenth; 3.5% in the 270toWin average",
+      "value": 2.5,
       "asOf": "2026-11-06",
       "source": {
         "title": "Nationwide opinion polling for the 2028 Democratic Party presidential primaries",

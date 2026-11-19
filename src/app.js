@@ -7,7 +7,7 @@
   var DATA = null;
   var BUILT = false;
   var IDX = {};
-  var state = { field: 'R', punditFilter: 'all', feedLimit: 12 };
+  var state = { punditFilter: 'all', feedLimit: 12 };
 
   function loadData() {
     if (window.TRACKER_DATA) {
@@ -374,10 +374,13 @@
 
   /* -------------------------------------------------------------- overview */
 
+  var PARTY_PLURAL = { D: 'Democrats', R: 'Republicans', I: 'Independents' };
+  // Parties appear in alphabetical order (D before R) so neither is given pride of place.
+  var FIELD_PARTIES = ['D', 'R'];
+
   function viewOverview() {
     var m = DATA.meta, rs = m.raceSummary || {};
-    var boardHost = h('div', { class: 'board-host' });
-    var el = h('div', { class: 'view view-overview' },
+    return h('div', { class: 'view view-overview' },
       h('section', { class: 'lede' },
         h('h1', { class: 'headline', tabindex: '-1' }, rs.headline || m.title),
         h('div', { class: 'lede-text' },
@@ -387,15 +390,110 @@
             h('span', { class: 'src-count' }, rs.sources.length + (rs.sources.length === 1 ? ' source' : ' sources')),
             ' for this summary, as of ' + fmtDate(rs.asOf || m.lastUpdated)),
           sourceList(rs.sources)) : null),
-      h('section', { class: 'board-section', 'aria-labelledby': 'board-h' },
-        h('div', { class: 'section-head' },
-          h('h2', { id: 'board-h', class: 'h2' }, 'Where the pundits stand'),
-          h('p', { class: 'dek' }, 'Each oval is a pundit’s latest stance on a candidate. Select one to read what they said and where.')),
-        boardHost),
-      offBoard(),
+      fieldSection(),
       latestMoves());
-    renderBoard(boardHost);
-    return el;
+  }
+
+  // Declared candidates first, then everyone by polling share, then file order.
+  // The softer statuses (exploring through speculated) don't rank against each other:
+  // a speculated frontrunner should not sit below an exploring long shot.
+  function fieldOrder(list) {
+    function val(c) { return c.standing && typeof c.standing.value === 'number' ? c.standing.value : -1; }
+    function rank(c) { return c.status === 'declared' ? 0 : 1; }
+    return list.map(function (c, i) { return { c: c, i: i }; })
+      .sort(function (a, b) { return rank(a.c) - rank(b.c) || val(b.c) - val(a.c) || a.i - b.i; })
+      .map(function (o) { return o.c; });
+  }
+
+  function fieldSection() {
+    var others = DATA.candidates.filter(function (c) { return FIELD_PARTIES.indexOf(c.party) < 0; });
+    var jump = h('nav', { class: 'field-jump', 'aria-label': 'Jump to a party' },
+      FIELD_PARTIES.map(function (p, i) {
+        return [i ? h('span', { class: 'sep', 'aria-hidden': 'true' }, ' · ') : null,
+          h('a', { href: '#/?section=field-' + p, class: 'party-link-' + p,
+            onclick: function (e) { var t = document.getElementById('field-' + p); if (t) { e.preventDefault(); focusSection(t); } } }, PARTY_PLURAL[p])];
+      }));
+    return h('section', { class: 'field', 'aria-labelledby': 'field-h' },
+      h('div', { class: 'section-head' },
+        h('h2', { id: 'field-h', class: 'h2' }, 'The field'),
+        h('p', { class: 'dek' }, 'Possible nominees in each party, ordered by how far they have gone toward running, then by their polling average.'),
+        h('p', { class: 'meta' }, 'Parties appear in alphabetical order, side by side on wide screens.')),
+      jump,
+      h('div', { class: 'field-cols' }, FIELD_PARTIES.map(function (p) {
+        return fieldColumn(p, DATA.candidates.filter(function (c) { return c.party === p; }));
+      })),
+      others.length ? fieldColumn('I', others, true) : null);
+  }
+
+  function fieldColumn(party, cands, minor) {
+    var active = fieldOrder(cands.filter(function (c) { return c.status !== 'declined'; }));
+    var out = cands.filter(function (c) { return c.status === 'declined'; });
+    var hid = 'field-' + party + '-h';
+    var count = [active.length ? active.length + (active.length === 1 ? ' possible candidate' : ' possible candidates') : null,
+      out.length ? out.length + ' ruled out' : null].filter(Boolean).join(', ');
+    return h('section', { class: 'field-col party-' + party + (minor ? ' field-minor' : ''), id: 'field-' + party, 'aria-labelledby': hid },
+      h('div', { class: 'field-col-head' },
+        h('h3', { id: hid, class: 'h3 field-col-h' }, PARTY_PLURAL[party] || party),
+        count ? h('p', { class: 'meta' }, count) : null),
+      active.length ? h('ul', { class: 'cand-cards' }, active.map(candCard)) : null,
+      out.length ? h('div', { class: 'ruled-out' },
+        h('h4', { class: 'h-small' }, 'Ruled out'),
+        h('ul', null, out.map(function (c) {
+          return h('li', null, h('a', { href: '#/candidates/' + c.id }, c.name), c.statusNote ? h('span', { class: 'muted' }, ' ' + c.statusNote) : null);
+        }))) : null);
+  }
+
+  function candCard(c) {
+    var mv = sortDesc(c.moves || [])[0];
+    var fresh = mv && isNew(mv.date);
+    return h('li', { class: 'cc' },
+      h('div', { class: 'cc-id' },
+        portrait(c, 'md'),
+        h('div', { class: 'cc-who' },
+          h('h4', { class: 'cc-name' }, h('a', { href: '#/candidates/' + c.id }, c.name)),
+          h('p', { class: 'cc-role' }, c.role)),
+        h('span', { class: 'status-chip' }, h('span', { class: 'sr-only' }, 'Status: '), STATUS[c.status] || c.status)),
+      c.standing ? h('p', { class: 'cc-standing' }, h('span', { class: 'num' }, c.standing.text), h('span', { class: 'muted' }, ' as of ' + fmtDate(c.standing.asOf))) : null,
+      c.statusNote ? h('p', { class: 'cc-note' }, c.statusNote) : null,
+      mv ? h('div', { class: 'cc-move' + (fresh ? ' is-new' : '') },
+        h('p', { class: 'cc-move-head' }, h('span', null, 'Latest move, '), dateEl(mv.date), fresh ? newMark() : null),
+        h('p', { class: 'cc-move-text' }, mv.text)) : null,
+      reception(c));
+  }
+
+  function stanceCounts(c, pundits) {
+    var n = {}, total = 0, fresh = false;
+    (pundits || DATA.pundits).forEach(function (p) {
+      var st = IDX.current[p.id][c.id];
+      if (!st) return;
+      n[st.position] = (n[st.position] || 0) + 1;
+      total++;
+      if (isNew(st.date)) fresh = true;
+    });
+    return { n: n, total: total, fresh: fresh, kinds: POS_ORDER.filter(function (k) { return n[k]; }) };
+  }
+  function countWords(n, k) { return n[k] + ' ' + (n[k] === 1 ? POS[k].one : POS[k].many); }
+
+  function reception(c) {
+    var t = stanceCounts(c);
+    if (!t.total) return h('p', { class: 'cc-pundits muted' }, 'No pundit stances yet');
+    return h('p', { class: 'cc-pundits' },
+      h('a', { href: '#/candidates/' + c.id + '?section=pundit-views' },
+        h('span', { class: 'cc-pundits-label' }, t.total + (t.total === 1 ? ' pundit: ' : ' pundits: ')),
+        t.kinds.map(function (k, i) {
+          return [i ? [h('span', { class: 'sep', 'aria-hidden': 'true' }, ' · '), h('span', { class: 'sr-only' }, ', ')] : null,
+            h('span', { class: 'rc' }, glyph(k, { label: false }), countWords(t.n, k))];
+        }),
+        h('span', { class: 'sr-only' }, '. Read what they say about ' + c.name)),
+      t.fresh ? newMark() : null);
+  }
+
+  // Scroll to a section (or heading) and move focus to its heading.
+  function focusSection(el) {
+    var t = /^H[1-6]$/.test(el.tagName) ? el : el.querySelector('h1, h2, h3, h4') || el;
+    if (!t.hasAttribute('tabindex')) t.setAttribute('tabindex', '-1');
+    el.scrollIntoView({ block: 'start' });
+    t.focus({ preventScroll: true });
   }
 
   function legend() {
@@ -405,9 +503,19 @@
       h('li', { class: 'legend-new' }, h('span', { class: 'swatch', 'aria-hidden': 'true' }), h('span', null, newLabel())));
   }
 
-  function renderBoard(host) {
-    host.textContent = '';
-    var field = state.field;
+  /* ----------------------------------------------------------------- board */
+
+  function boardSection() {
+    return h('section', { class: 'board-section', 'aria-labelledby': 'board-h' },
+      h('div', { class: 'section-head' },
+        h('h2', { id: 'board-h', class: 'h2' }, 'Where they stand on the candidates'),
+        h('p', { class: 'dek' }, 'Each oval is a pundit’s latest stance on a candidate. Select one to read what they said and where.'),
+        h('p', { class: 'meta' }, 'Fields are in alphabetical order by party.')),
+      h('div', { class: 'board-tools' }, legend()),
+      FIELD_PARTIES.map(board));
+  }
+
+  function board(field) {
     var cands = DATA.candidates.filter(function (c) { return c.party === field; });
     var ids = {};
     cands.forEach(function (c) { ids[c.id] = true; });
@@ -417,14 +525,7 @@
       var d = field === 'R' ? b.spectrum.score - a.spectrum.score : a.spectrum.score - b.spectrum.score;
       return d || a.spectrum.faction.localeCompare(b.spectrum.faction) || a.name.localeCompare(b.name);
     });
-
-    var switcher = h('div', { class: 'field-switch', role: 'group', 'aria-label': 'Which primary' },
-      ['R', 'D'].map(function (f) {
-        var n = DATA.candidates.filter(function (c) { return c.party === f; }).length;
-        return h('button', { type: 'button', class: 'seg seg-' + f, 'aria-pressed': f === field ? 'true' : 'false',
-          onclick: function () { if (state.field !== f) { state.field = f; renderBoard(host); host.querySelector('.seg-' + f).focus(); } } },
-          (f === 'R' ? 'Republican field' : 'Democratic field'), h('span', { class: 'seg-n' }, ' ' + n));
-      }));
+    var hid = 'board-' + field + '-h';
 
     var table = h('table', { class: 'board board-' + field, style: 'min-width:calc(var(--corner) + ' + cands.length + ' * var(--col))' },
       h('caption', { class: 'sr-only' }, 'Pundits by ' + PARTY[field] + ' candidate. Each cell is the pundit’s latest stance.'),
@@ -456,18 +557,15 @@
         h('th', { scope: 'row' }, 'Tally'),
         cands.map(function (c) { return h('td', null, tally(rows, c)); }))));
 
-    append(host, [
-      h('div', { class: 'board-tools' }, switcher, legend()),
-      h('div', { class: 'board-scroll', role: 'region', 'aria-label': PARTY[field] + ' board, scrolls sideways', tabindex: '0' }, table),
-      cands.length && !rows.length ? h('p', { class: 'nothing' }, 'No pundit stances on this field yet.') : null
-    ]);
+    return h('section', { class: 'board-field party-' + field, 'aria-labelledby': hid },
+      h('h3', { id: hid, class: 'h3 board-field-h' }, PARTY[field] + ' field', h('span', { class: 'seg-n' }, ' ' + cands.length + (cands.length === 1 ? ' candidate' : ' candidates'))),
+      !rows.length ? h('p', { class: 'nothing' }, cands.length ? 'No pundit stances on this field yet.' : 'No candidates in this field yet.') :
+        h('div', { class: 'board-scroll', role: 'region', 'aria-label': PARTY[field] + ' board, scrolls sideways', tabindex: '0' }, table));
   }
 
   function tally(rows, c) {
-    var n = {};
-    rows.forEach(function (p) { var st = IDX.current[p.id][c.id]; if (st) n[st.position] = (n[st.position] || 0) + 1; });
-    var out = POS_ORDER.filter(function (k) { return n[k]; }).map(function (k) { return n[k] + ' ' + (n[k] === 1 ? POS[k].one : POS[k].many); });
-    return out.length ? out.join(', ') : h('span', { class: 'muted' }, 'No stances yet');
+    var t = stanceCounts(c, rows);
+    return t.total ? t.kinds.map(function (k) { return countWords(t.n, k); }).join(', ') : h('span', { class: 'muted' }, 'No stances yet');
   }
 
   function offBoard() {
@@ -654,7 +752,7 @@
             h('p', { class: 'entry-head' }, dateEl(mv.date), isNew(mv.date) ? newMark() : null),
             h('p', { class: 'context' }, mv.text), sourceList(mv.sources));
         })) : h('p', { class: 'nothing' }, 'No moves on record yet.')),
-      h('section', { class: 'block', 'aria-labelledby': 'say-h' },
+      h('section', { class: 'block', id: 'pundit-views', 'aria-labelledby': 'say-h' },
         h('h2', { id: 'say-h', class: 'h2' }, 'What the pundits say'),
         supporters.length ? h('ul', { class: 'says' }, supporters.map(function (o) {
           var st = o.st;
@@ -798,7 +896,11 @@
         h('h2', { id: 'rail-h', class: 'h3' }, 'Where we place them, from −5 to +5'),
         h('p', { class: 'meta' }, 'This placement is our editorial judgment from each person’s record, not a measured score. Each pundit’s page explains it.'),
         r),
-      h('section', { class: 'block', 'aria-label': 'All pundits' }, bar, listHost));
+      boardSection(),
+      offBoard(),
+      h('section', { class: 'block', 'aria-labelledby': 'all-h' },
+        h('h2', { id: 'all-h', class: 'h2' }, 'All pundits'),
+        bar, listHost));
     return el;
   }
 
@@ -956,7 +1058,8 @@
     else if (seg[0] === 'polls' && seg.length === 1) view = viewPolls();
     else if (seg[0] === 'states' && seg.length === 1) view = viewStates();
     else { view = viewNotFound(); nav = null; }
-    return { view: view, nav: nav, seg: seg };
+    var q = /(?:^|[?&])section=([^&]*)/.exec(hash.split('?')[1] || '');
+    return { view: view, nav: nav, seg: seg, section: q ? q[1] : null };
   }
 
   var first = true;
@@ -973,7 +1076,10 @@
     var name = h1 ? h1.textContent : '';
     document.title = !r.seg.length ? DATA.meta.title : name + ', ' + DATA.meta.title;
     layoutRails();
-    if (!first) {
+    // #/candidates/<id>?section=<element id> opens the page at that section.
+    var target = r.section ? document.getElementById(r.section) : null;
+    if (target && main.contains(target)) focusSection(target);
+    else if (!first) {
       window.scrollTo(0, 0);
       if (h1) h1.focus({ preventScroll: true });
     }

@@ -46,7 +46,7 @@ A run that makes a handful of well-sourced changes is a good run. Do not pad it 
 - `lean` runs from -2 (the issue's `low` end) to 2 (its `high` end), or `null` when the position does not fit the scale. It is an editorial judgment; change it only when the evidence changes, and explain why in `summary`.
 - `basis` is `statement` (they said it), `record` (votes, actions in office) or `reported` (others report it).
 - If nothing is on record for an issue, leave that issue out of `positions`. Do not guess.
-- **Standing.** Replace `standing` with the latest polling average, for example "21.4% in the RealClearPolling Democratic average, second", with `asOf` set to the date of the average and a source. Use `null` only when no reputable average includes them.
+- **Standing.** Replace `standing` with the latest polling average, for example "21.4% in the RealClearPolling Democratic average, second", with `asOf` set to the date of the average and a source. When the text cites a percentage, also set `value` to that same number (for example `21.4`), copied from the same source; the overview orders candidates by it. Leave `value` out when there is no figure. Use `null` only when no reputable average includes them.
 - **Moves.** Add new moves at the top of `moves` (newest first). One or two sentences each.
 
 `data/issues.json`:
