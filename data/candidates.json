@@ -243,7 +243,7 @@
       "source": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Secretary_Marco_Rubio_(cropped)(2).jpg"
     },
     "status": "speculated",
-    "statusNote": "Told reporters on Nov. 9 he was \"just not going to talk about 2028 anymore.\" Has said he would defer to Vance, while House and Senate Republicans talk up a draft.",
+    "statusNote": "Told CNN at the G7 foreign ministers meeting that he is \"not going to discuss it in any form or fashion,\" and has recently stopped repeating his earlier pledge to back Vance.",
     "bio": "Son of Cuban immigrants, senator from Florida from 2011 to 2025 and a 2016 presidential candidate. As secretary of state he has been the administration's main voice on the Iran war.",
     "standing": {
       "text": "26.4% in the RealClearPolling Republican average, second",
@@ -338,6 +338,18 @@
       }
     },
     "moves": [
+      {
+        "date": "2026-11-19",
+        "text": "CNN reported, citing people close to him, that he is weighing a 2028 run more seriously and waiting to see how the race develops, and that he has stopped repeating his earlier pledge to support Vance. Allies say he would likely run only with Trump's endorsement. CNN also reported that Trump has signaled he may hold back his endorsement until later in the primary.",
+        "sources": [
+          {
+            "title": "Rubio is more seriously weighing a 2028 run, allies say",
+            "publisher": "CNN",
+            "url": "https://www.cnn.com/2026/11/19/politics/marco-rubio-2028-race-republicans",
+            "date": "2026-11-19"
+          }
+        ]
+      },
       {
         "date": "2026-11-16",
         "text": "Reuters reported that several people familiar with his thinking say a 2028 bid appears unlikely for now, with a former aide pointing to a possible 2032 run, though three Republican donors said they hope he enters. A Reuters/Ipsos poll found 45% of Republican voters rated him an \"excellent\" candidate, against 43% for Vance.",
@@ -1166,7 +1178,7 @@
       "source": "https://commons.wikimedia.org/wiki/File:Pete_Buttigieg,_Secretary_of_Transportation.jpg"
     },
     "status": "interested",
-    "statusNote": "Mostly avoids the question, but has said he would consider what he brings to the table. Passed on Michigan's 2026 Senate and governor races.",
+    "statusNote": "Still answers \"Not anytime soon\" when asked about a decision, but his advisers told CNN on Nov. 18 they expect that to become a yes within weeks or a few months.",
     "bio": "Navy Reserve veteran and former mayor of South Bend, Indiana. Won the 2020 Iowa caucuses, then served as transportation secretary from 2021 to 2025. Ran a seven-state closing tour before the midterms.",
     "standing": {
       "text": "14% in the RealClearPolling Democratic average, second",
@@ -1191,6 +1203,22 @@
             "publisher": "Fox News",
             "url": "https://www.foxnews.com/politics/dems-potential-2028-hopefuls-come-out-against-us-strikes-iran",
             "date": "2026-03"
+          }
+        ],
+        "history": []
+      },
+      "tariffs": {
+        "label": "Would reverse the tariffs",
+        "lean": -2,
+        "summary": "Told CNN that reversing Trump's tariffs is part of the agenda he wants to run on, along with a higher minimum wage, reversing Medicaid cuts, universal background checks and a ban on gerrymandering.",
+        "asOf": "2026-11-18",
+        "basis": "statement",
+        "sources": [
+          {
+            "title": "The midterm blitz that saved Pete Buttigieg from quitting politics",
+            "publisher": "CNN",
+            "url": "https://www.cnn.com/2026/11/18/politics/pete-buttigieg-midterms-blitz-2028",
+            "date": "2026-11-18"
           }
         ],
         "history": []
@@ -1229,6 +1257,18 @@
       }
     },
     "moves": [
+      {
+        "date": "2026-11-18",
+        "text": "Told CNN in a long interview that the midterms validated his approach. His advisers said they expect a decision to run within weeks or a few months, and his book \"Next\" comes out at the end of January. He also defended his record as transportation secretary after Trump officials blamed him for a national flight ground stop.",
+        "sources": [
+          {
+            "title": "The midterm blitz that saved Pete Buttigieg from quitting politics",
+            "publisher": "CNN",
+            "url": "https://www.cnn.com/2026/11/18/politics/pete-buttigieg-midterms-blitz-2028",
+            "date": "2026-11-18"
+          }
+        ]
+      },
       {
         "date": "2026-11-13",
         "text": "Told reporters at the Majority Democrats conference in Denver that he would not have news about a 2028 run anytime soon. He has not ruled one out.",

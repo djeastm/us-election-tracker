@@ -1,17 +1,29 @@
 {
   "title": "2028 Watch",
   "electionDate": "2028-11-07",
-  "lastUpdated": "2026-11-18",
-  "previousUpdate": "2026-11-17",
+  "lastUpdated": "2026-11-19",
+  "previousUpdate": "2026-11-18",
   "raceSummary": {
-    "asOf": "2026-11-17",
-    "headline": "Still no major declarations. Vance says he will decide \"sometime next year,\" Newsom will decide in early January, and Reuters reports Cruz has begun early preparations.",
+    "asOf": "2026-11-19",
+    "headline": "Still no major declarations. Vance says he will decide \"sometime next year,\" Newsom will decide in early January, and CNN reports Rubio is weighing a run more seriously.",
     "paragraphs": [
       "Democrats won both chambers of Congress on Nov. 3, with at least 54 Senate seats and 254 House seats. Republicans are arguing over the cause, with JD Vance blaming the Iran war and Marco Rubio defending it.",
-      "Vance told Fox News on Nov. 16 that he has not decided and will \"figure it out sometime next year.\" Axios reported he may wait until late spring to announce, and Reuters, citing four people familiar with his thinking, said he appears likely to run. Reuters also reported that Ted Cruz has begun early preparations, that Glenn Youngkin is considering a bid, that Ron DeSantis is weighing waiting until 2032, and that people familiar with Marco Rubio's thinking see a 2028 bid as unlikely for now. Former Border Patrol commander Gregory Bovino has had an exploratory committee since June.",
-      "On the Democratic side Kamala Harris leads national polls but has not decided. Gavin Newsom, who says he would not run against her, said he will decide in early January. Jon Ossoff, who says he has zero interest in running, won the Crooked Con straw poll with 38.4%. At a Denver conference on Nov. 13, Cory Booker said he is giving a run \"a lot of hard thought\" and Pete Buttigieg said he has no news coming soon."
+      "Vance told Fox News on Nov. 16 that he has not decided and will \"figure it out sometime next year.\" Axios reported he may wait until late spring to announce, and Reuters, citing four people familiar with his thinking, said he appears likely to run. Reuters also reported that Ted Cruz has begun early preparations, that Glenn Youngkin is considering a bid, and that Ron DeSantis is weighing waiting until 2032. Accounts of Marco Rubio differ: Reuters sources called a 2028 bid unlikely for now, but CNN reported on Nov. 19 that people close to him say he is weighing it more seriously and has stopped repeating his pledge to back Vance. Former Border Patrol commander Gregory Bovino has had an exploratory committee since June.",
+      "On the Democratic side Kamala Harris leads national polls but has not decided. Gavin Newsom, who says he would not run against her, said he will decide in early January. Jon Ossoff, who says he has zero interest in running, won the Crooked Con straw poll with 38.4%. Cory Booker said in Denver he is giving a run \"a lot of hard thought,\" and Pete Buttigieg's advisers told CNN they expect him to say yes within weeks or a few months."
     ],
     "sources": [
+      {
+        "title": "Rubio is more seriously weighing a 2028 run, allies say",
+        "publisher": "CNN",
+        "url": "https://www.cnn.com/2026/11/19/politics/marco-rubio-2028-race-republicans",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "The midterm blitz that saved Pete Buttigieg from quitting politics",
+        "publisher": "CNN",
+        "url": "https://www.cnn.com/2026/11/18/politics/pete-buttigieg-midterms-blitz-2028",
+        "date": "2026-11-18"
+      },
       {
         "title": "JD Vance says he'll decide 'sometime next year' about 2028 presidential run",
         "publisher": "CNBC",
@@ -87,6 +99,10 @@
     ]
   },
   "updates": [
+    {
+      "date": "2026-11-19",
+      "summary": "Candidates: CNN reported Rubio is weighing a 2028 run more seriously and has stopped repeating his pledge to back Vance; Buttigieg's advisers told CNN they expect a yes within weeks or months, and his tariff position was added. Race summary refreshed."
+    },
     {
       "date": "2026-11-18",
       "summary": "Pundits: no new stances found since Nov. 17; November cable ratings are not out yet. YouTube subscriber counts refreshed."
