@@ -132,6 +132,24 @@
     },
     "moves": [
       {
+        "date": "2026-11-19",
+        "text": "Trailed Rubio 24% to 44% among Republican voters in an Emerson College national poll taken Nov. 14–16. Other post-midterm polls are split: Echelon Insights had Vance ahead 40% to 26%, Verasight had Rubio ahead 33% to 27%. The RealClearPolling average, last updated Nov. 3, still has Vance first.",
+        "sources": [
+          {
+            "title": "National Poll: Rubio Leads 2028 GOP Nomination Contest, Ossoff Rises Among Democrats",
+            "publisher": "Emerson College Polling",
+            "url": "https://emersoncollegepolling.com/national-poll-rubio-leads-2028-gop-nomination-contest-ossoff-rises-among-democrats/",
+            "date": "2026-11-19"
+          },
+          {
+            "title": "Nationwide opinion polling for the 2028 Republican Party presidential primaries",
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries",
+            "date": "2026-11-20"
+          }
+        ]
+      },
+      {
         "date": "2026-11-16",
         "text": "Told Laura Ingraham on Fox News that he had not made a decision and would \"figure it out sometime next year,\" adding that \"you can't declare a month before the Iowa caucus\" and that he would be \"all in\" on whatever he decides. The same day Reuters, citing four people familiar with his thinking, reported that he appears likely to run.",
         "sources": [
@@ -340,6 +358,30 @@
       }
     },
     "moves": [
+      {
+        "date": "2026-11-19",
+        "text": "Led Vance 44% to 24% among Republican voters in an Emerson College national poll taken Nov. 14–16, and 36% to 20% when respondents named a candidate unprompted. A Verasight poll from Nov. 11–13 also had him ahead, 33% to 27%, while Echelon Insights (Nov. 12–16) had Vance ahead 40% to 26%.",
+        "sources": [
+          {
+            "title": "National Poll: Rubio Leads 2028 GOP Nomination Contest, Ossoff Rises Among Democrats",
+            "publisher": "Emerson College Polling",
+            "url": "https://emersoncollegepolling.com/national-poll-rubio-leads-2028-gop-nomination-contest-ossoff-rises-among-democrats/",
+            "date": "2026-11-19"
+          },
+          {
+            "title": "Rubio and Ossoff lead in 2028 polling: Survey",
+            "publisher": "Washington Examiner",
+            "url": "https://www.washingtonexaminer.com/news/campaigns/presidential/4808537/rubio-ossoff-lead-2028-poll/",
+            "date": "2026-11-19"
+          },
+          {
+            "title": "Nationwide opinion polling for the 2028 Republican Party presidential primaries",
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries",
+            "date": "2026-11-20"
+          }
+        ]
+      },
       {
         "date": "2026-11-19",
         "text": "CNN reported, citing people close to him, that he is weighing a 2028 run more seriously and waiting to see how the race develops, and that he has stopped repeating his earlier pledge to support Vance. Allies say he would likely run only with Trump's endorsement. CNN also reported that Trump has signaled he may hold back his endorsement until later in the primary.",
@@ -880,14 +922,14 @@
     "statusNote": "\"I go back and forth. I honestly go back and forth,\" she told reporters while campaigning in six states before the midterms.",
     "bio": "Former San Francisco district attorney, California attorney general and senator. Vice president from 2021 to 2025 and the 2024 Democratic nominee. Passed on a 2026 run for governor of California.",
     "standing": {
-      "text": "21.8% in the RealClearPolling Democratic average, first",
-      "value": 21.8,
-      "asOf": "2026-11-06",
+      "text": "16.5% in the RealClearPolling Democratic average, first",
+      "value": 16.5,
+      "asOf": "2026-11-20",
       "source": {
         "title": "Nationwide opinion polling for the 2028 Democratic Party presidential primaries",
         "publisher": "Wikipedia, citing RealClearPolling",
         "url": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
-        "date": "2026-11-06"
+        "date": "2026-11-20"
       }
     },
     "positions": {
@@ -974,6 +1016,18 @@
     },
     "moves": [
       {
+        "date": "2026-11-19",
+        "text": "A new grassroots group, Run Kamala Run PAC, launched to encourage a third presidential run. Its president says about 8,000 people have signed up. The group is not run by former Harris staff, and the only report so far is theGrio's.",
+        "sources": [
+          {
+            "title": "New 'Run Kamala Run PAC' launches grassroots push for Harris' 2028 presidential bid",
+            "publisher": "theGrio",
+            "url": "https://thegrio.com/2026/11/19/run-kamala-run-pac-harris-2028-presidential-bid/",
+            "date": "2026-11-19"
+          }
+        ]
+      },
+      {
         "date": "2026-11-07",
         "text": "Drew 0.6% in the Crooked Con straw poll of about 1,000 progressive activists.",
         "sources": [
@@ -1017,14 +1071,14 @@
     "statusNote": "Said on Nov. 13 he will \"make a decision early January\" after talking it over with his family. Has said he would not run if Harris does.",
     "bio": "Former mayor of San Francisco and lieutenant governor, governor of California since 2019 and term-limited out in January 2027. Spent the closing weeks of the midterms in New Hampshire, South Carolina, North Carolina and Alabama.",
     "standing": {
-      "text": "13.5% in the RealClearPolling Democratic average, third",
-      "value": 13.5,
-      "asOf": "2026-11-06",
+      "text": "11.3% in the RealClearPolling Democratic average, fifth",
+      "value": 11.3,
+      "asOf": "2026-11-20",
       "source": {
         "title": "Nationwide opinion polling for the 2028 Democratic Party presidential primaries",
         "publisher": "Wikipedia, citing RealClearPolling",
         "url": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
-        "date": "2026-11-06"
+        "date": "2026-11-20"
       }
     },
     "positions": {
@@ -1188,14 +1242,14 @@
     "statusNote": "Still answers \"Not anytime soon\" when asked about a decision, but his advisers told CNN on Nov. 18 they expect that to become a yes within weeks or a few months.",
     "bio": "Navy Reserve veteran and former mayor of South Bend, Indiana. Won the 2020 Iowa caucuses, then served as transportation secretary from 2021 to 2025. Ran a seven-state closing tour before the midterms.",
     "standing": {
-      "text": "14% in the RealClearPolling Democratic average, second",
+      "text": "14% in the RealClearPolling Democratic average, tied for third",
       "value": 14,
-      "asOf": "2026-11-06",
+      "asOf": "2026-11-20",
       "source": {
         "title": "Nationwide opinion polling for the 2028 Democratic Party presidential primaries",
         "publisher": "Wikipedia, citing RealClearPolling",
         "url": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
-        "date": "2026-11-06"
+        "date": "2026-11-20"
       }
     },
     "positions": {
@@ -1345,14 +1399,14 @@
     "statusNote": "Said in September she is considering a presidential run. She is also weighing a Senate bid in New York.",
     "bio": "Bronx-born organizer who unseated a ten-term incumbent in 2018 and became the most prominent progressive in the House. Campaigned in Maine, Michigan, Nevada and California before the midterms.",
     "standing": {
-      "text": "12.5% in the RealClearPolling Democratic average, fourth",
-      "value": 12.5,
-      "asOf": "2026-11-06",
+      "text": "14% in the RealClearPolling Democratic average, tied for third",
+      "value": 14,
+      "asOf": "2026-11-20",
       "source": {
         "title": "Nationwide opinion polling for the 2028 Democratic Party presidential primaries",
         "publisher": "Wikipedia, citing RealClearPolling",
         "url": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
-        "date": "2026-11-06"
+        "date": "2026-11-20"
       }
     },
     "positions": {
@@ -1445,6 +1499,18 @@
     },
     "moves": [
       {
+        "date": "2026-11-19",
+        "text": "Did not rule out a 2028 run in a Fox News Digital interview, saying \"this election just happened. We got to work on getting results for people.\" She said she hopes Trump will sign a congressional stock trading ban and work with Democrats on Medicaid.",
+        "sources": [
+          {
+            "title": "AOC leaves door open to 2028 presidential run, signals willingness to work with Trump",
+            "publisher": "Fox News",
+            "url": "https://www.foxnews.com/politics/aoc-leaves-door-open-2028-presidential-run-signals-willingness-work-trump",
+            "date": "2026-11-19"
+          }
+        ]
+      },
+      {
         "date": "2026-11-14",
         "text": "The New York City chapter of the Democratic Socialists of America voted 291 to 123 at its convention to urge her to run for president. It is not a formal endorsement, and Al Jazeera reported no response from her.",
         "sources": [
@@ -1500,18 +1566,36 @@
     "statusNote": "Said in an October Senate debate he has \"zero interest in running for president.\" Activists and prediction markets keep naming him anyway.",
     "bio": "Former investigative documentary producer, elected to the Senate in the January 2021 runoff. Won re-election on Nov. 3 by 59% to 41% in a state Trump carried in 2024.",
     "standing": {
-      "text": "10.8% in the RealClearPolling Democratic average, fifth",
-      "value": 10.8,
-      "asOf": "2026-11-06",
+      "text": "15% in the RealClearPolling Democratic average, second",
+      "value": 15,
+      "asOf": "2026-11-20",
       "source": {
         "title": "Nationwide opinion polling for the 2028 Democratic Party presidential primaries",
         "publisher": "Wikipedia, citing RealClearPolling",
         "url": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
-        "date": "2026-11-06"
+        "date": "2026-11-20"
       }
     },
     "positions": {},
     "moves": [
+      {
+        "date": "2026-11-20",
+        "text": "Moved into second place in the RealClearPolling Democratic average at 15%, 1.5 points behind Harris, after leading an Emerson College national poll (Nov. 14–16) with 17% both unprompted and from a list. He has said he has no interest in running.",
+        "sources": [
+          {
+            "title": "Nationwide opinion polling for the 2028 Democratic Party presidential primaries",
+            "publisher": "Wikipedia, citing RealClearPolling",
+            "url": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
+            "date": "2026-11-20"
+          },
+          {
+            "title": "National Poll: Rubio Leads 2028 GOP Nomination Contest, Ossoff Rises Among Democrats",
+            "publisher": "Emerson College Polling",
+            "url": "https://emersoncollegepolling.com/national-poll-rubio-leads-2028-gop-nomination-contest-ossoff-rises-among-democrats/",
+            "date": "2026-11-19"
+          }
+        ]
+      },
       {
         "date": "2026-11-07",
         "text": "Won the Crooked Con straw poll with 38.4%. Nate Silver called him \"such a slam dunk number one pick.\"",
@@ -1574,14 +1658,14 @@
     "statusNote": "Asked in Denver on Nov. 13 when he would announce a decision, said \"When we're ready to say something, we'll let you know,\" and called it a family matter.",
     "bio": "Former state legislator and two-term Pennsylvania attorney general, governor since 2023. Was on the shortlist to be Harris's running mate in 2024.",
     "standing": {
-      "text": "5.2% in the RealClearPolling Democratic average, seventh",
-      "value": 5.2,
-      "asOf": "2026-11-06",
+      "text": "3.5% in the RealClearPolling Democratic average, seventh",
+      "value": 3.5,
+      "asOf": "2026-11-20",
       "source": {
         "title": "Nationwide opinion polling for the 2028 Democratic Party presidential primaries",
         "publisher": "Wikipedia, citing RealClearPolling",
         "url": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
-        "date": "2026-11-06"
+        "date": "2026-11-20"
       }
     },
     "positions": {
@@ -1732,14 +1816,14 @@
     "statusNote": "Has not said he is running. Headlined the New Hampshire Democratic Party's gala and won a third term on Nov. 3.",
     "bio": "Heir to the Hyatt fortune and a venture investor, governor of Illinois since 2019. One of the most confrontational Democratic governors toward the Trump administration.",
     "standing": {
-      "text": "3% in the RealClearPolling Democratic average, ninth",
+      "text": "3% in the RealClearPolling Democratic average, eighth",
       "value": 3,
-      "asOf": "2026-11-06",
+      "asOf": "2026-11-20",
       "source": {
         "title": "Nationwide opinion polling for the 2028 Democratic Party presidential primaries",
         "publisher": "Wikipedia, citing RealClearPolling",
         "url": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
-        "date": "2026-11-06"
+        "date": "2026-11-20"
       }
     },
     "positions": {
@@ -2045,14 +2129,14 @@
     "statusNote": "Told supporters in Maine on Oct. 28, \"I am thinking about it, I'm considering it,\" and said he would decide after the midterms.",
     "bio": "Retired Navy combat pilot and NASA astronaut who flew four Space Shuttle missions. Won a 2020 special election for the Senate in Arizona and a full term in 2022, and his seat is next up in 2028.",
     "standing": {
-      "text": "6.5% in the RealClearPolling Democratic average, sixth",
-      "value": 6.5,
-      "asOf": "2026-11-06",
+      "text": "5.5% in the RealClearPolling Democratic average, sixth",
+      "value": 5.5,
+      "asOf": "2026-11-20",
       "source": {
         "title": "Nationwide opinion polling for the 2028 Democratic Party presidential primaries",
         "publisher": "Wikipedia, citing RealClearPolling",
         "url": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
-        "date": "2026-11-06"
+        "date": "2026-11-20"
       }
     },
     "positions": {
@@ -2224,14 +2308,14 @@
     "statusNote": "Said in Denver on Nov. 13 that he is giving \"a lot of hard thought\" to a 2028 run, while focusing on what he calls an \"American renewal.\"",
     "bio": "Former mayor of Newark who has represented New Jersey in the Senate since a 2013 special election, and won a third full term on Nov. 3, 2026. He sought the 2020 Democratic nomination and withdrew in January 2020. In 2025 he gave the longest speech in Senate history, at 25 hours and five minutes.",
     "standing": {
-      "text": "2.5% in the RealClearPolling Democratic average, tenth; 3.5% in the 270toWin average",
-      "value": 2.5,
-      "asOf": "2026-11-06",
+      "text": "2% in the RealClearPolling Democratic average, ninth",
+      "value": 2,
+      "asOf": "2026-11-20",
       "source": {
         "title": "Nationwide opinion polling for the 2028 Democratic Party presidential primaries",
-        "publisher": "Wikipedia, citing RealClearPolling and 270toWin",
+        "publisher": "Wikipedia, citing RealClearPolling",
         "url": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
-        "date": "2026-11-06"
+        "date": "2026-11-20"
       }
     },
     "positions": {

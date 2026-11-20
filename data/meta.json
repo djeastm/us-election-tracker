@@ -1,17 +1,35 @@
 {
   "title": "2028 Watch",
   "electionDate": "2028-11-07",
-  "lastUpdated": "2026-11-19",
-  "previousUpdate": "2026-11-18",
+  "lastUpdated": "2026-11-20",
+  "previousUpdate": "2026-11-19",
   "raceSummary": {
-    "asOf": "2026-11-19",
-    "headline": "Still no major declarations. Vance says he will decide \"sometime next year,\" Newsom will decide in early January, and CNN reports Rubio is weighing a run more seriously.",
+    "asOf": "2026-11-20",
+    "headline": "Still no major declarations, but post-midterm polls have scrambled both fields: Rubio leads Vance in two new surveys, and Ossoff is now second in the Democratic average.",
     "paragraphs": [
       "Democrats won both chambers of Congress on Nov. 3, with at least 54 Senate seats and 254 House seats. Republicans are arguing over the cause, with JD Vance blaming the Iran war and Marco Rubio defending it.",
-      "Vance told Fox News on Nov. 16 that he has not decided and will \"figure it out sometime next year.\" Axios reported he may wait until late spring to announce, and Reuters, citing four people familiar with his thinking, said he appears likely to run. Reuters also reported that Ted Cruz has begun early preparations, that Glenn Youngkin is considering a bid, and that Ron DeSantis is weighing waiting until 2032. Accounts of Marco Rubio differ: Reuters sources called a 2028 bid unlikely for now, but CNN reported on Nov. 19 that people close to him say he is weighing it more seriously and has stopped repeating his pledge to back Vance. Former Border Patrol commander Gregory Bovino has had an exploratory committee since June.",
-      "On the Democratic side Kamala Harris leads national polls but has not decided. Gavin Newsom, who says he would not run against her, said he will decide in early January. Jon Ossoff, who says he has zero interest in running, won the Crooked Con straw poll with 38.4%. Cory Booker said in Denver he is giving a run \"a lot of hard thought,\" and Pete Buttigieg's advisers told CNN they expect him to say yes within weeks or a few months."
+      "An Emerson College poll taken Nov. 14–16 had Rubio ahead of Vance 44% to 24% among Republican voters, and a Verasight poll had Rubio ahead 33% to 27%; Echelon Insights still had Vance ahead 40% to 26%. Vance says he will \"figure it out sometime next year.\" CNN reported on Nov. 19 that Rubio is weighing a run more seriously and has stopped repeating his pledge to back Vance. Reuters reported that Ted Cruz has begun early preparations and Glenn Youngkin is considering a bid. Gregory Bovino has had an exploratory committee since June.",
+      "On the Democratic side Kamala Harris leads the RealClearPolling average by only 1.5 points (16.5%) over Jon Ossoff (15%), who says he has no interest in running but led the Emerson poll. Buttigieg and Ocasio-Cortez are tied at 14%, and Newsom, who will decide in early January, has 11.3%. Buttigieg's advisers expect him to say yes within weeks or months, and Cory Booker is giving a run \"a lot of hard thought.\""
     ],
     "sources": [
+      {
+        "title": "National Poll: Rubio Leads 2028 GOP Nomination Contest, Ossoff Rises Among Democrats",
+        "publisher": "Emerson College Polling",
+        "url": "https://emersoncollegepolling.com/national-poll-rubio-leads-2028-gop-nomination-contest-ossoff-rises-among-democrats/",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "Nationwide opinion polling for the 2028 Democratic Party presidential primaries",
+        "publisher": "Wikipedia, citing RealClearPolling",
+        "url": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "Nationwide opinion polling for the 2028 Republican Party presidential primaries",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries",
+        "date": "2026-11-20"
+      },
       {
         "title": "Rubio is more seriously weighing a 2028 run, allies say",
         "publisher": "CNN",
@@ -99,6 +117,10 @@
     ]
   },
   "updates": [
+    {
+      "date": "2026-11-20",
+      "summary": "Candidates: Democratic standings refreshed from the Nov. 20 RealClearPolling average, where Ossoff is now second behind Harris; Emerson poll showing Rubio ahead of Vance added; Run Kamala Run PAC launch and Ocasio-Cortez's Fox interview added. Race summary refreshed."
+    },
     {
       "date": "2026-11-19",
       "summary": "Pundits: added Stephen A. Smith’s September remarks naming Josh Shapiro his favorite 2028 Democrat and saying Newsom’s deference to Harris “should disqualify him.” No new stances found from Nov. 18–19; November cable ratings are not out yet. YouTube subscriber counts refreshed."
