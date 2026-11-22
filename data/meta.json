@@ -1,14 +1,14 @@
 {
   "title": "2028 Watch",
   "electionDate": "2028-11-07",
-  "lastUpdated": "2026-11-20",
-  "previousUpdate": "2026-11-19",
+  "lastUpdated": "2026-11-22",
+  "previousUpdate": "2026-11-20",
   "raceSummary": {
-    "asOf": "2026-11-20",
-    "headline": "Still no major declarations, but post-midterm polls have scrambled both fields: Rubio leads Vance in two new surveys, and Ossoff is now second in the Democratic average.",
+    "asOf": "2026-11-22",
+    "headline": "Rubio now leads Vance in the RealClearPolling Republican average, and Harris leads the Democrats by just 1.5 points. No major candidate has declared.",
     "paragraphs": [
       "Democrats won both chambers of Congress on Nov. 3, with at least 54 Senate seats and 254 House seats. Republicans are arguing over the cause, with JD Vance blaming the Iran war and Marco Rubio defending it.",
-      "An Emerson College poll taken Nov. 14–16 had Rubio ahead of Vance 44% to 24% among Republican voters, and a Verasight poll had Rubio ahead 33% to 27%; Echelon Insights still had Vance ahead 40% to 26%. Vance says he will \"figure it out sometime next year.\" CNN reported on Nov. 19 that Rubio is weighing a run more seriously and has stopped repeating his pledge to back Vance. Reuters reported that Ted Cruz has begun early preparations and Glenn Youngkin is considering a bid. Gregory Bovino has had an exploratory committee since June.",
+      "Rubio moved ahead of Vance in the RealClearPolling Republican average on Nov. 20, 35.4% to 34%, with DeSantis third at 10.2%. The shift follows an Emerson College poll taken Nov. 14–16 that had Rubio ahead 44% to 24% and a Verasight poll that had him ahead 33% to 27%; Echelon Insights still had Vance ahead 40% to 26%. Vance says he will \"figure it out sometime next year,\" and CNN reported that Rubio is weighing a run more seriously. Trump, asked on Nov. 20 to choose between them, said \"the two of them are doing fantastically.\" Reuters reported that Ted Cruz has begun early preparations and Glenn Youngkin is considering a bid. Gregory Bovino has had an exploratory committee since June.",
       "On the Democratic side Kamala Harris leads the RealClearPolling average by only 1.5 points (16.5%) over Jon Ossoff (15%), who says he has no interest in running but led the Emerson poll. Buttigieg and Ocasio-Cortez are tied at 14%, and Newsom, who will decide in early January, has 11.3%. Buttigieg's advisers expect him to say yes within weeks or months, and Cory Booker is giving a run \"a lot of hard thought.\""
     ],
     "sources": [
@@ -35,6 +35,12 @@
         "publisher": "CNN",
         "url": "https://www.cnn.com/2026/11/19/politics/marco-rubio-2028-race-republicans",
         "date": "2026-11-19"
+      },
+      {
+        "title": "Trump says JD Vance, Marco Rubio both 'very popular' ahead of 2028 election",
+        "publisher": "Fox News",
+        "url": "https://www.foxnews.com/politics/trump-says-vance-rubio-doing-fantastically-ahead-2028-republican-presidential-primary",
+        "date": "2026-11-21"
       },
       {
         "title": "The midterm blitz that saved Pete Buttigieg from quitting politics",
@@ -117,6 +123,10 @@
     ]
   },
   "updates": [
+    {
+      "date": "2026-11-22",
+      "summary": "Candidates: Republican standings refreshed from the Nov. 20 RealClearPolling average, where Rubio (35.4%) now leads Vance (34%); race summary updated. No declarations or position changes found."
+    },
     {
       "date": "2026-11-20",
       "summary": "Pundits: Ben Shapiro told NPR that Vance's style is not how to win a national election and pointed to Rubio as having broader appeal. November cable ratings are not out yet. YouTube subscriber counts refreshed."
