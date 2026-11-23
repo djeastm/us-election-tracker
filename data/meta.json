@@ -1,17 +1,35 @@
 {
   "title": "2028 Watch",
   "electionDate": "2028-11-07",
-  "lastUpdated": "2026-11-22",
-  "previousUpdate": "2026-11-20",
+  "lastUpdated": "2026-11-23",
+  "previousUpdate": "2026-11-22",
   "raceSummary": {
-    "asOf": "2026-11-22",
-    "headline": "Rubio now leads Vance in the RealClearPolling Republican average, and Harris leads the Democrats by just 1.5 points. No major candidate has declared.",
+    "asOf": "2026-11-23",
+    "headline": "Rubio leads Vance narrowly in the RealClearPolling Republican average, Harris leads the Democrats by 1.5 points, and the DNC has set 12 primary debates starting in June 2027. No major candidate has declared.",
     "paragraphs": [
       "Democrats won both chambers of Congress on Nov. 3, with at least 54 Senate seats and 254 House seats. Republicans are arguing over the cause, with JD Vance blaming the Iran war and Marco Rubio defending it.",
       "Rubio moved ahead of Vance in the RealClearPolling Republican average on Nov. 20, 35.4% to 34%, with DeSantis third at 10.2%. The shift follows an Emerson College poll taken Nov. 14–16 that had Rubio ahead 44% to 24% and a Verasight poll that had him ahead 33% to 27%; Echelon Insights still had Vance ahead 40% to 26%. Vance says he will \"figure it out sometime next year,\" and CNN reported that Rubio is weighing a run more seriously. Trump, asked on Nov. 20 to choose between them, said \"the two of them are doing fantastically.\" Reuters reported that Ted Cruz has begun early preparations and Glenn Youngkin is considering a bid. Gregory Bovino has had an exploratory committee since June.",
-      "On the Democratic side Kamala Harris leads the RealClearPolling average by only 1.5 points (16.5%) over Jon Ossoff (15%), who says he has no interest in running but led the Emerson poll. Buttigieg and Ocasio-Cortez are tied at 14%, and Newsom, who will decide in early January, has 11.3%. Buttigieg's advisers expect him to say yes within weeks or months, and Cory Booker is giving a run \"a lot of hard thought.\""
+      "On the Democratic side Kamala Harris leads the RealClearPolling average by only 1.5 points (16.5%) over Jon Ossoff (15%), who says he has no interest in running but led the Emerson poll. Buttigieg and Ocasio-Cortez are tied at 14%, and Newsom, who will decide in early January, has 11.3%. Buttigieg's advisers expect him to say yes within weeks or months, and Cory Booker is giving a run \"a lot of hard thought.\" On Nov. 23 the DNC announced 12 primary debates, the first in June 2027 and the last in March 2028, with eligibility based on polling and grassroots fundraising and a required pledge to denounce dark-money spending. Most Democratic contenders are not expected to launch before January, though Beshear, Booker and Pritzker are already courting donors and early-state activists."
     ],
     "sources": [
+      {
+        "title": "Inside the Democrats’ 2028 shadow campaigns: Donors, staff and trips to early states",
+        "publisher": "MS NOW",
+        "url": "https://www.ms.now/news/2028-democratic-presidential-candidates-primary",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "DNC Announces Framework for the 2028 Democratic Presidential Primary Debates",
+        "publisher": "Democratic National Committee",
+        "url": "https://democrats.org/dnc-announces-framework-for-the-2028-democratic-presidential-primary-debates/",
+        "date": "2026-11-23"
+      },
+      {
+        "title": "Democratic National Committee sets broad rules for the party’s 2028 presidential debates",
+        "publisher": "NBC News",
+        "url": "https://www.nbcnews.com/politics/2028-election/democratic-national-committee-sets-broad-rules-partys-2028-presidentia-rcna610439",
+        "date": "2026-11-23"
+      },
       {
         "title": "National Poll: Rubio Leads 2028 GOP Nomination Contest, Ossoff Rises Among Democrats",
         "publisher": "Emerson College Polling",
@@ -123,6 +141,10 @@
     ]
   },
   "updates": [
+    {
+      "date": "2026-11-23",
+      "summary": "Candidates: the DNC set 12 primary debates from June 2027 (race summary updated); MS NOW reported Beshear's donor retreat, Booker's second South Carolina trip and Pritzker's South Carolina spending; Buttigieg's \"no rush\" remark and Cruz's Saving Texas HQ added. No new polling averages since Nov. 20."
+    },
     {
       "date": "2026-11-22",
       "summary": "Pundits: no new stances found since the Nov. 20 run; November cable ratings are not out yet. YouTube subscriber counts refreshed."
