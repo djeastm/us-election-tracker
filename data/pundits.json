@@ -25,13 +25,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 5800000,
-            "asOf": "2026-11-22",
+            "asOf": "2026-11-23",
             "youtube": "TuckerCarlson",
             "source": {
               "title": "Tucker Carlson on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@TuckerCarlson",
-              "date": "2026-11-22"
+              "date": "2026-11-23"
             }
           }
         ]
@@ -140,14 +140,14 @@
         "reach": [
           {
             "metric": "YouTube subscribers",
-            "value": 6960000,
-            "asOf": "2026-11-22",
+            "value": 6950000,
+            "asOf": "2026-11-23",
             "youtube": "BenShapiro",
             "source": {
               "title": "Ben Shapiro on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@BenShapiro",
-              "date": "2026-11-22"
+              "date": "2026-11-23"
             }
           }
         ]
@@ -227,13 +227,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 4200000,
-            "asOf": "2026-11-22",
+            "asOf": "2026-11-23",
             "youtube": "MegynKelly",
             "source": {
               "title": "Megyn Kelly on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@MegynKelly",
-              "date": "2026-11-22"
+              "date": "2026-11-23"
             }
           }
         ]
@@ -657,13 +657,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 2620000,
-            "asOf": "2026-11-22",
+            "asOf": "2026-11-23",
             "youtube": "MichaelKnowles",
             "source": {
               "title": "Michael Knowles on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@MichaelKnowles",
-              "date": "2026-11-22"
+              "date": "2026-11-23"
             }
           }
         ]
@@ -713,13 +713,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 1470000,
-            "asOf": "2026-11-22",
+            "asOf": "2026-11-23",
             "youtube": "Timcast",
             "source": {
               "title": "Tim Pool on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@Timcast",
-              "date": "2026-11-22"
+              "date": "2026-11-23"
             }
           }
         ]
@@ -930,13 +930,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 104000,
-            "asOf": "2026-11-22",
+            "asOf": "2026-11-23",
             "youtube": "marklevinshow",
             "source": {
               "title": "The Mark Levin Show on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@marklevinshow",
-              "date": "2026-11-22"
+              "date": "2026-11-23"
             }
           }
         ]
@@ -992,13 +992,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 6070000,
-            "asOf": "2026-11-22",
+            "asOf": "2026-11-23",
             "youtube": "RealCandaceO",
             "source": {
               "title": "Candace Owens on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@RealCandaceO",
-              "date": "2026-11-22"
+              "date": "2026-11-23"
             }
           }
         ]
@@ -1048,13 +1048,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 3000000,
-            "asOf": "2026-11-22",
+            "asOf": "2026-11-23",
             "youtube": "PBDPodcast",
             "source": {
               "title": "PBD Podcast on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@PBDPodcast",
-              "date": "2026-11-22"
+              "date": "2026-11-23"
             }
           }
         ]
@@ -1104,13 +1104,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 1330000,
-            "asOf": "2026-11-22",
+            "asOf": "2026-11-23",
             "youtube": "PodSaveAmerica",
             "source": {
               "title": "Pod Save America on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@PodSaveAmerica",
-              "date": "2026-11-22"
+              "date": "2026-11-23"
             }
           }
         ]
@@ -1159,14 +1159,14 @@
         "reach": [
           {
             "metric": "YouTube subscribers",
-            "value": 609000,
-            "asOf": "2026-11-22",
+            "value": 610000,
+            "asOf": "2026-11-23",
             "youtube": "EzraKleinShow",
             "source": {
               "title": "The Ezra Klein Show on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@EzraKleinShow",
-              "date": "2026-11-22"
+              "date": "2026-11-23"
             }
           }
         ]
@@ -1255,13 +1255,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 14200000,
-            "asOf": "2026-11-22",
+            "asOf": "2026-11-23",
             "youtube": "TheDailyShow",
             "source": {
               "title": "The Daily Show on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@TheDailyShow",
-              "date": "2026-11-22"
+              "date": "2026-11-23"
             }
           }
         ]
@@ -1273,14 +1273,14 @@
         "reach": [
           {
             "metric": "YouTube subscribers",
-            "value": 947000,
-            "asOf": "2026-11-22",
+            "value": 948000,
+            "asOf": "2026-11-23",
             "youtube": "WeeklyShowPodcast",
             "source": {
               "title": "The Weekly Show with Jon Stewart on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@WeeklyShowPodcast",
-              "date": "2026-11-22"
+              "date": "2026-11-23"
             }
           }
         ]
@@ -1330,13 +1330,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 2050000,
-            "asOf": "2026-11-22",
+            "asOf": "2026-11-23",
             "youtube": "HasanAbi",
             "source": {
               "title": "HasanAbi on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@HasanAbi",
-              "date": "2026-11-22"
+              "date": "2026-11-23"
             }
           }
         ]
@@ -1742,13 +1742,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 6040000,
-            "asOf": "2026-11-22",
+            "asOf": "2026-11-23",
             "youtube": "BreakfastClubPower1051FM",
             "source": {
               "title": "Breakfast Club Power 105.1 FM on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@BreakfastClubPower1051FM",
-              "date": "2026-11-22"
+              "date": "2026-11-23"
             }
           }
         ]
@@ -1813,13 +1813,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 2990000,
-            "asOf": "2026-11-22",
+            "asOf": "2026-11-23",
             "youtube": "RealTime",
             "source": {
               "title": "Real Time with Bill Maher on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@RealTime",
-              "date": "2026-11-22"
+              "date": "2026-11-23"
             }
           }
         ]
@@ -1832,13 +1832,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 897000,
-            "asOf": "2026-11-22",
+            "asOf": "2026-11-23",
             "youtube": "ClubRandomPodcast",
             "source": {
               "title": "Club Random Podcast on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@ClubRandomPodcast",
-              "date": "2026-11-22"
+              "date": "2026-11-23"
             }
           }
         ]
@@ -1888,6 +1888,79 @@
           "publisher": "Fox News",
           "url": "https://www.foxnews.com/media/bill-maher-says-aoc-shouldnt-democratic-nominee-2028-despite-recent-hype",
           "date": "2025-04-19"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ann-coulter",
+    "name": "Ann Coulter",
+    "side": "right",
+    "wikipedia": "Ann Coulter",
+    "portrait": {
+      "file": "ann-coulter.jpg",
+      "credit": "Gage Skidmore",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ann_Coulter_by_Gage_Skidmore.jpg"
+    },
+    "bio": "Conservative columnist, lawyer and author of more than a dozen bestselling political books. Writes a Substack newsletter and columns for The Spectator, and is best known for her hardline views on immigration.",
+    "spectrum": {
+      "score": 4,
+      "faction": "Immigration restrictionist",
+      "rationale": "An early backer of Trump's 2016 campaign on immigration who has since criticized him when she sees him softening on it. Places restriction above party loyalty, and opposes the hawkish foreign policy she associates with Rubio."
+    },
+    "platforms": [
+      {
+        "outlet": "independent",
+        "show": "Unsafe (Substack newsletter)",
+        "role": "Writer",
+        "reach": []
+      }
+    ],
+    "stances": [
+      {
+        "date": "2026-11-21",
+        "candidate": null,
+        "subject": "Stephen Miller for the 2028 nomination",
+        "position": "support",
+        "quote": "Instead of the JD/Rubio debate over our next presidential candidate, let's make it The People's Choice, Stephen Miller",
+        "context": "Replying on X to a clip of Trump saying Miller was better than Vance and Rubio, proposed the White House chief of staff as the 2028 nominee. Reported by the Daily Beast, which did not link the original post; it is unclear how seriously the post was meant.",
+        "venue": "X",
+        "source": {
+          "title": "Ann Coulter Floats Nightmare 'People's Choice' 2028 Candidate",
+          "publisher": "The Daily Beast",
+          "url": "https://www.thedailybeast.com/ann-coulter-floats-nightmare-peoples-choice-2028-candidate",
+          "date": "2026-11-21"
+        }
+      },
+      {
+        "date": "2026-05-20",
+        "candidate": "jd-vance",
+        "subject": null,
+        "position": "leaning",
+        "quote": "We've got to pick somebody, and I don't see anybody else I like as much.",
+        "context": "Said in an interview that she favors Vance for 2028 because she sees no one she prefers.",
+        "venue": "The American Conservative interview with Andrew Day",
+        "source": {
+          "title": "Why Out-of-Touch Donors Love Rubio",
+          "publisher": "The American Conservative",
+          "url": "https://www.theamericanconservative.com/why-out-of-touch-donors-love-rubio/",
+          "date": "2026-05-25"
+        }
+      },
+      {
+        "date": "2026-05-20",
+        "candidate": "marco-rubio",
+        "subject": null,
+        "position": "oppose",
+        "quote": "the half-wits like Rubio and his donors feel like big intellectual global strategists",
+        "context": "Described herself as \"Never Rubio\" and argued that donors' enthusiasm for him reflects poor political judgment, in an interview following her Spectator column against him.",
+        "venue": "The American Conservative interview with Andrew Day",
+        "source": {
+          "title": "Why Out-of-Touch Donors Love Rubio",
+          "publisher": "The American Conservative",
+          "url": "https://www.theamericanconservative.com/why-out-of-touch-donors-love-rubio/",
+          "date": "2026-05-25"
         }
       }
     ]
