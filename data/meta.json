@@ -1,8 +1,8 @@
 {
   "title": "2028 Watch",
   "electionDate": "2028-11-07",
-  "lastUpdated": "2026-11-24",
-  "previousUpdate": "2026-11-23",
+  "lastUpdated": "2026-11-25",
+  "previousUpdate": "2026-11-24",
   "raceSummary": {
     "asOf": "2026-11-23",
     "headline": "Rubio leads Vance narrowly in the RealClearPolling Republican average, Harris leads the Democrats by 1.5 points, and the DNC has set 12 primary debates starting in June 2027. No major candidate has declared.",
@@ -141,6 +141,10 @@
     ]
   },
   "updates": [
+    {
+      "date": "2026-11-25",
+      "summary": "Candidates: no changes found; national averages unchanged since Nov. 20."
+    },
     {
       "date": "2026-11-24",
       "summary": "Pundits: Ann Coulter said there will be no \"groundswell of support\" for Rubio; Erick Erickson argued history is against Vance as a sitting vice president and raised the same doubt about Rubio. November cable ratings are not out yet. YouTube subscriber counts refreshed."
