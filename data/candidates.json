@@ -132,6 +132,24 @@
     },
     "moves": [
       {
+        "date": "2026-11-25",
+        "text": "Served Thanksgiving lunch to troops at Wright-Patterson Air Force Base in Ohio before spending the holiday with family in the state. The Washington Post reported that he is starting to weigh a 2028 run and is not expected to announce his plans until next year.",
+        "sources": [
+          {
+            "title": "JD Vance goes home to Ohio to ponder political future over the holiday",
+            "publisher": "The Washington Post, via The Spokesman-Review",
+            "url": "https://www.spokesman.com/stories/2026/nov/25/jd-vance-goes-home-to-ohio-to-ponder-political-fut/",
+            "date": "2026-11-25"
+          },
+          {
+            "title": "Vance serves up turkey and conversation to Air Force troops at an Ohio base",
+            "publisher": "Associated Press, via PBS NewsHour",
+            "url": "https://www.pbs.org/newshour/politics/watch-vance-defends-iowa-lead-azide-detonation-as-he-visits-air-force-troops-in-ohio",
+            "date": "2026-11-25"
+          }
+        ]
+      },
+      {
         "date": "2026-11-20",
         "text": "Fell to second in the RealClearPolling Republican average, 34% to Rubio's 35.4%, after post-midterm polls from Emerson and Verasight showed Rubio ahead. Trump declined to pick between the two, calling both \"very, very popular.\"",
         "sources": [
@@ -146,6 +164,18 @@
             "publisher": "Fox News",
             "url": "https://www.foxnews.com/politics/trump-says-vance-rubio-doing-fantastically-ahead-2028-republican-presidential-primary",
             "date": "2026-11-21"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-19",
+        "text": "Responded on X to Oklahoma Gov. Kevin Stitt's call for bipartisan immigration reform, saying that \"to a lot of people, this sounds like an effort to give amnesty to people who have broken our laws\" and that it is \"morally and electorally disastrous.\"",
+        "sources": [
+          {
+            "title": "Vance says it's 'morally and electorally disastrous' to give amnesty to illegal migrants",
+            "publisher": "The National Desk",
+            "url": "https://thenationaldesk.com/news/nation-world/vance-says-its-morally-and-electorally-disastrous-to-give-amnesty-to-illegal-migrants-washington-dc-markwayne-mullin-homeland-security-rrt",
+            "date": "2026-11-19"
           }
         ]
       },
@@ -376,6 +406,18 @@
       }
     },
     "moves": [
+      {
+        "date": "2026-11-25",
+        "text": "Fox News reported that several House Republicans are urging him to run, among them Rep. Marlin Stutzman (\"I am all in for Marco\") and Rep. Nicole Malliotakis, who said there is \"a lot of interest from Republicans in seeing him explore a run.\" Rubio has publicly dismissed questions about his plans.",
+        "sources": [
+          {
+            "title": "Marco Rubio's 2028 stock surges among House Republicans as Trump insiders split on Vance",
+            "publisher": "Fox News",
+            "url": "https://www.foxnews.com/politics/marco-rubios-2028-stock-surges-among-house-republicans-trump-insiders-split-vance",
+            "date": "2026-11-25"
+          }
+        ]
+      },
       {
         "date": "2026-11-23",
         "text": "Led Vance in all four early states in an OnMessage Inc. poll of 1,000 likely Republican voters taken just after the Nov. 3 midterms: Iowa 49% to 28%, New Hampshire 44% to 25%, South Carolina 43% to 28% and Nevada 53% to 32%. The poll was sponsored by the Combat Antisemitism Movement, an advocacy group, and did not include DeSantis.",
@@ -1811,20 +1853,41 @@
         "history": []
       },
       "israel": {
-        "label": "Supporter, critic of Netanyahu",
-        "lean": 1,
-        "summary": "A longtime supporter of Israel who has sharply criticized Benjamin Netanyahu's leadership.",
-        "asOf": "2026-11",
-        "basis": "record",
+        "label": "Arms sales with clear limits",
+        "lean": 0,
+        "summary": "Told The Wall Street Journal that Israel should be able to buy defensive weapons but that they must come with \"clear guidance on how and when they can be used,\" and faulted both Biden and Trump for not using US leverage over Netanyahu, whom he called \"a failed leader.\" Lean moved from 1 to 0 because he now ties weapons to conditions on their use while still defending the alliance; he has not called for cutting aid.",
+        "asOf": "2026-11-25",
+        "basis": "statement",
         "sources": [
           {
-            "title": "Josh Shapiro",
-            "publisher": "Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Josh_Shapiro",
-            "date": "2026-11"
+            "title": "Josh Shapiro slams Biden, Trump for failing to put the brakes on Netanyahu",
+            "publisher": "Jewish Telegraphic Agency",
+            "url": "https://www.jta.org/2026/11/25/politics/josh-shapiro-slams-biden-trump-for-failing-to-put-the-brakes-on-netanyahu",
+            "date": "2026-11-25"
+          },
+          {
+            "title": "Josh Shapiro criticizes Trump and Biden for failing to rein in Netanyahu as he builds up foreign policy bona fides",
+            "publisher": "Washington Examiner",
+            "url": "https://www.washingtonexaminer.com/news/campaigns/presidential/4815244/josh-shapiro-criticizes-trump-biden-netanyahu-foreign-policy/",
+            "date": "2026-11-25"
           }
         ],
-        "history": []
+        "history": [
+          {
+            "date": "2026-11",
+            "label": "Supporter, critic of Netanyahu",
+            "lean": 1,
+            "note": "Longtime supporter of Israel and critic of Netanyahu, with no stated view on conditioning aid.",
+            "sources": [
+              {
+                "title": "Josh Shapiro",
+                "publisher": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Josh_Shapiro",
+                "date": "2026-11"
+              }
+            ]
+          }
+        ]
       },
       "abortion": {
         "label": "Vows to veto restrictions",
@@ -1844,6 +1907,24 @@
       }
     },
     "moves": [
+      {
+        "date": "2026-11-25",
+        "text": "In a Wall Street Journal interview, criticized Biden and Trump for not using US leverage to restrain Netanyahu, called him \"a failed leader\" who has \"led Israel down a dangerous, dark, isolated path,\" and called for a stronger US role on Ukraine and against Russia and China.",
+        "sources": [
+          {
+            "title": "Josh Shapiro slams Biden, Trump for failing to put the brakes on Netanyahu",
+            "publisher": "Jewish Telegraphic Agency",
+            "url": "https://www.jta.org/2026/11/25/politics/josh-shapiro-slams-biden-trump-for-failing-to-put-the-brakes-on-netanyahu",
+            "date": "2026-11-25"
+          },
+          {
+            "title": "Josh Shapiro criticizes Trump and Biden for failing to rein in Netanyahu as he builds up foreign policy bona fides",
+            "publisher": "Washington Examiner",
+            "url": "https://www.washingtonexaminer.com/news/campaigns/presidential/4815244/josh-shapiro-criticizes-trump-biden-netanyahu-foreign-policy/",
+            "date": "2026-11-25"
+          }
+        ]
+      },
       {
         "date": "2026-11-13",
         "text": "Spoke at the Majority Democrats \"What's Next\" conference in Denver, saying \"I've decided to be a loud voice in this process that we're going through right now as a party.\" Gave no timeline for a 2028 decision.",

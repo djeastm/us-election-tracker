@@ -1,8 +1,8 @@
 {
   "title": "2028 Watch",
   "electionDate": "2028-11-07",
-  "lastUpdated": "2026-11-25",
-  "previousUpdate": "2026-11-24",
+  "lastUpdated": "2026-11-26",
+  "previousUpdate": "2026-11-25",
   "raceSummary": {
     "asOf": "2026-11-23",
     "headline": "Rubio leads Vance narrowly in the RealClearPolling Republican average, Harris leads the Democrats by 1.5 points, and the DNC has set 12 primary debates starting in June 2027. No major candidate has declared.",
@@ -141,6 +141,10 @@
     ]
   },
   "updates": [
+    {
+      "date": "2026-11-26",
+      "summary": "Candidates: Shapiro's Israel position updated after a WSJ interview calling for clear limits on weapons use; House Republicans urge Rubio to run; Vance spent Thanksgiving in Ohio and rejected amnesty in a post on X. National averages unchanged since Nov. 20."
+    },
     {
       "date": "2026-11-25",
       "summary": "Pundits: Tucker Carlson said Rubio backers are \"neocons\" and called Vance the best politician he has seen in national office. November cable ratings are not out yet. YouTube subscriber counts refreshed."
