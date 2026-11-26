@@ -25,13 +25,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 5800000,
-            "asOf": "2026-11-25",
+            "asOf": "2026-11-26",
             "youtube": "TuckerCarlson",
             "source": {
               "title": "Tucker Carlson on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@TuckerCarlson",
-              "date": "2026-11-25"
+              "date": "2026-11-26"
             }
           }
         ]
@@ -171,13 +171,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 6950000,
-            "asOf": "2026-11-25",
+            "asOf": "2026-11-26",
             "youtube": "BenShapiro",
             "source": {
               "title": "Ben Shapiro on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@BenShapiro",
-              "date": "2026-11-25"
+              "date": "2026-11-26"
             }
           }
         ]
@@ -257,13 +257,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 4200000,
-            "asOf": "2026-11-25",
+            "asOf": "2026-11-26",
             "youtube": "MegynKelly",
             "source": {
               "title": "Megyn Kelly on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@MegynKelly",
-              "date": "2026-11-25"
+              "date": "2026-11-26"
             }
           }
         ]
@@ -687,13 +687,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 2620000,
-            "asOf": "2026-11-25",
+            "asOf": "2026-11-26",
             "youtube": "MichaelKnowles",
             "source": {
               "title": "Michael Knowles on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@MichaelKnowles",
-              "date": "2026-11-25"
+              "date": "2026-11-26"
             }
           }
         ]
@@ -743,13 +743,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 1470000,
-            "asOf": "2026-11-25",
+            "asOf": "2026-11-26",
             "youtube": "Timcast",
             "source": {
               "title": "Tim Pool on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@Timcast",
-              "date": "2026-11-25"
+              "date": "2026-11-26"
             }
           }
         ]
@@ -990,13 +990,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 104000,
-            "asOf": "2026-11-25",
+            "asOf": "2026-11-26",
             "youtube": "marklevinshow",
             "source": {
               "title": "The Mark Levin Show on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@marklevinshow",
-              "date": "2026-11-25"
+              "date": "2026-11-26"
             }
           }
         ]
@@ -1052,13 +1052,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 6070000,
-            "asOf": "2026-11-25",
+            "asOf": "2026-11-26",
             "youtube": "RealCandaceO",
             "source": {
               "title": "Candace Owens on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@RealCandaceO",
-              "date": "2026-11-25"
+              "date": "2026-11-26"
             }
           }
         ]
@@ -1108,13 +1108,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 3000000,
-            "asOf": "2026-11-25",
+            "asOf": "2026-11-26",
             "youtube": "PBDPodcast",
             "source": {
               "title": "PBD Podcast on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@PBDPodcast",
-              "date": "2026-11-25"
+              "date": "2026-11-26"
             }
           }
         ]
@@ -1164,13 +1164,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 1330000,
-            "asOf": "2026-11-25",
+            "asOf": "2026-11-26",
             "youtube": "PodSaveAmerica",
             "source": {
               "title": "Pod Save America on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@PodSaveAmerica",
-              "date": "2026-11-25"
+              "date": "2026-11-26"
             }
           }
         ]
@@ -1219,14 +1219,14 @@
         "reach": [
           {
             "metric": "YouTube subscribers",
-            "value": 610000,
-            "asOf": "2026-11-25",
+            "value": 611000,
+            "asOf": "2026-11-26",
             "youtube": "EzraKleinShow",
             "source": {
               "title": "The Ezra Klein Show on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@EzraKleinShow",
-              "date": "2026-11-25"
+              "date": "2026-11-26"
             }
           }
         ]
@@ -1315,13 +1315,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 14200000,
-            "asOf": "2026-11-25",
+            "asOf": "2026-11-26",
             "youtube": "TheDailyShow",
             "source": {
               "title": "The Daily Show on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@TheDailyShow",
-              "date": "2026-11-25"
+              "date": "2026-11-26"
             }
           }
         ]
@@ -1333,14 +1333,14 @@
         "reach": [
           {
             "metric": "YouTube subscribers",
-            "value": 950000,
-            "asOf": "2026-11-25",
+            "value": 951000,
+            "asOf": "2026-11-26",
             "youtube": "WeeklyShowPodcast",
             "source": {
               "title": "The Weekly Show with Jon Stewart on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@WeeklyShowPodcast",
-              "date": "2026-11-25"
+              "date": "2026-11-26"
             }
           }
         ]
@@ -1390,13 +1390,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 2060000,
-            "asOf": "2026-11-25",
+            "asOf": "2026-11-26",
             "youtube": "HasanAbi",
             "source": {
               "title": "HasanAbi on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@HasanAbi",
-              "date": "2026-11-25"
+              "date": "2026-11-26"
             }
           }
         ]
@@ -1802,13 +1802,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 6040000,
-            "asOf": "2026-11-25",
+            "asOf": "2026-11-26",
             "youtube": "BreakfastClubPower1051FM",
             "source": {
               "title": "Breakfast Club Power 105.1 FM on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@BreakfastClubPower1051FM",
-              "date": "2026-11-25"
+              "date": "2026-11-26"
             }
           }
         ]
@@ -1873,13 +1873,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 2990000,
-            "asOf": "2026-11-25",
+            "asOf": "2026-11-26",
             "youtube": "RealTime",
             "source": {
               "title": "Real Time with Bill Maher on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@RealTime",
-              "date": "2026-11-25"
+              "date": "2026-11-26"
             }
           }
         ]
@@ -1891,14 +1891,14 @@
         "reach": [
           {
             "metric": "YouTube subscribers",
-            "value": 897000,
-            "asOf": "2026-11-25",
+            "value": 898000,
+            "asOf": "2026-11-26",
             "youtube": "ClubRandomPodcast",
             "source": {
               "title": "Club Random Podcast on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@ClubRandomPodcast",
-              "date": "2026-11-25"
+              "date": "2026-11-26"
             }
           }
         ]
