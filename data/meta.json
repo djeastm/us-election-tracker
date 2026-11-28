@@ -1,8 +1,8 @@
 {
   "title": "2028 Watch",
   "electionDate": "2028-11-07",
-  "lastUpdated": "2026-11-26",
-  "previousUpdate": "2026-11-25",
+  "lastUpdated": "2026-11-28",
+  "previousUpdate": "2026-11-26",
   "raceSummary": {
     "asOf": "2026-11-23",
     "headline": "Rubio leads Vance narrowly in the RealClearPolling Republican average, Harris leads the Democrats by 1.5 points, and the DNC has set 12 primary debates starting in June 2027. No major candidate has declared.",
@@ -141,6 +141,10 @@
     ]
   },
   "updates": [
+    {
+      "date": "2026-11-28",
+      "summary": "Candidates: former Buttigieg aides launched Team Pete PAC; Axios reported DeSantis is quietly writing a book; a DSA members' petition for Ocasio-Cortez passed the threshold for the group's endorsement process. National averages unchanged since Nov. 20."
+    },
     {
       "date": "2026-11-26",
       "summary": "Pundits: no new stances found since the Nov. 25 run. November cable ratings are not out yet. YouTube subscriber counts refreshed."
