@@ -25,13 +25,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 5800000,
-            "asOf": "2026-11-26",
+            "asOf": "2026-11-28",
             "youtube": "TuckerCarlson",
             "source": {
               "title": "Tucker Carlson on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@TuckerCarlson",
-              "date": "2026-11-26"
+              "date": "2026-11-28"
             }
           }
         ]
@@ -171,13 +171,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 6950000,
-            "asOf": "2026-11-26",
+            "asOf": "2026-11-28",
             "youtube": "BenShapiro",
             "source": {
               "title": "Ben Shapiro on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@BenShapiro",
-              "date": "2026-11-26"
+              "date": "2026-11-28"
             }
           }
         ]
@@ -257,13 +257,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 4200000,
-            "asOf": "2026-11-26",
+            "asOf": "2026-11-28",
             "youtube": "MegynKelly",
             "source": {
               "title": "Megyn Kelly on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@MegynKelly",
-              "date": "2026-11-26"
+              "date": "2026-11-28"
             }
           }
         ]
@@ -346,6 +346,21 @@
       }
     ],
     "stances": [
+      {
+        "date": "2026-11-27",
+        "candidate": null,
+        "subject": "The 2028 Republican field",
+        "position": "neutral",
+        "quote": "You could be the perfect conservative, but if you don't have the ability to win a race, why would I support you?",
+        "context": "Told The Washington Post he plans to interview every Republican presidential candidate and will judge them on whether they are conservative and can build a coalition broad enough to win; the Post reported that he expects Vance, Rubio and Cruz to be among the favorites but did not quote him naming a choice.",
+        "venue": "Interview with The Washington Post",
+        "source": {
+          "title": "Sean Hannity has outlasted Fox rivals. Now he’s eyeing the GOP's future.",
+          "publisher": "The Washington Post (via Yahoo News)",
+          "url": "https://www.yahoo.com/news/politics/articles/sean-hannity-outlasted-fox-rivals-110000012.html",
+          "date": "2026-11-27"
+        }
+      },
       {
         "date": "2026-11-05",
         "candidate": "marco-rubio",
@@ -557,6 +572,21 @@
     ],
     "stances": [
       {
+        "date": "2026-11-23",
+        "candidate": null,
+        "subject": "Scott Bessent for the 2028 nomination",
+        "position": "leaning",
+        "quote": "If Scott Bessent wanted it, I think he could be the Republican nominee in 2028",
+        "context": "Told The New Yorker, for a profile of the Treasury secretary, that Bessent could win the nomination if he chose to run, a shift in emphasis from his earlier push for a third Trump term; the New Yorker piece itself could not be read for this update, so the quote is taken from NJ.com and Political Wire, which both attribute it to that profile.",
+        "venue": "Interview with The New Yorker",
+        "source": {
+          "title": "MAGA architect wants Trump in 2028. But here's his surprising alternative",
+          "publisher": "NJ.com (via Yahoo News)",
+          "url": "https://www.yahoo.com/news/politics/articles/maga-architect-wants-trump-2028-211854126.html",
+          "date": "2026-11-24"
+        }
+      },
+      {
         "date": "2026-01-10",
         "candidate": null,
         "subject": "His own candidacy",
@@ -687,13 +717,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 2620000,
-            "asOf": "2026-11-26",
+            "asOf": "2026-11-28",
             "youtube": "MichaelKnowles",
             "source": {
               "title": "Michael Knowles on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@MichaelKnowles",
-              "date": "2026-11-26"
+              "date": "2026-11-28"
             }
           }
         ]
@@ -743,13 +773,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 1470000,
-            "asOf": "2026-11-26",
+            "asOf": "2026-11-28",
             "youtube": "Timcast",
             "source": {
               "title": "Tim Pool on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@Timcast",
-              "date": "2026-11-26"
+              "date": "2026-11-28"
             }
           }
         ]
@@ -990,13 +1020,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 104000,
-            "asOf": "2026-11-26",
+            "asOf": "2026-11-28",
             "youtube": "marklevinshow",
             "source": {
               "title": "The Mark Levin Show on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@marklevinshow",
-              "date": "2026-11-26"
+              "date": "2026-11-28"
             }
           }
         ]
@@ -1052,13 +1082,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 6070000,
-            "asOf": "2026-11-26",
+            "asOf": "2026-11-28",
             "youtube": "RealCandaceO",
             "source": {
               "title": "Candace Owens on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@RealCandaceO",
-              "date": "2026-11-26"
+              "date": "2026-11-28"
             }
           }
         ]
@@ -1108,13 +1138,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 3000000,
-            "asOf": "2026-11-26",
+            "asOf": "2026-11-28",
             "youtube": "PBDPodcast",
             "source": {
               "title": "PBD Podcast on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@PBDPodcast",
-              "date": "2026-11-26"
+              "date": "2026-11-28"
             }
           }
         ]
@@ -1164,13 +1194,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 1330000,
-            "asOf": "2026-11-26",
+            "asOf": "2026-11-28",
             "youtube": "PodSaveAmerica",
             "source": {
               "title": "Pod Save America on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@PodSaveAmerica",
-              "date": "2026-11-26"
+              "date": "2026-11-28"
             }
           }
         ]
@@ -1220,13 +1250,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 611000,
-            "asOf": "2026-11-26",
+            "asOf": "2026-11-28",
             "youtube": "EzraKleinShow",
             "source": {
               "title": "The Ezra Klein Show on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@EzraKleinShow",
-              "date": "2026-11-26"
+              "date": "2026-11-28"
             }
           }
         ]
@@ -1315,13 +1345,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 14200000,
-            "asOf": "2026-11-26",
+            "asOf": "2026-11-28",
             "youtube": "TheDailyShow",
             "source": {
               "title": "The Daily Show on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@TheDailyShow",
-              "date": "2026-11-26"
+              "date": "2026-11-28"
             }
           }
         ]
@@ -1333,14 +1363,14 @@
         "reach": [
           {
             "metric": "YouTube subscribers",
-            "value": 951000,
-            "asOf": "2026-11-26",
+            "value": 952000,
+            "asOf": "2026-11-28",
             "youtube": "WeeklyShowPodcast",
             "source": {
               "title": "The Weekly Show with Jon Stewart on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@WeeklyShowPodcast",
-              "date": "2026-11-26"
+              "date": "2026-11-28"
             }
           }
         ]
@@ -1390,13 +1420,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 2060000,
-            "asOf": "2026-11-26",
+            "asOf": "2026-11-28",
             "youtube": "HasanAbi",
             "source": {
               "title": "HasanAbi on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@HasanAbi",
-              "date": "2026-11-26"
+              "date": "2026-11-28"
             }
           }
         ]
@@ -1802,13 +1832,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 6040000,
-            "asOf": "2026-11-26",
+            "asOf": "2026-11-28",
             "youtube": "BreakfastClubPower1051FM",
             "source": {
               "title": "Breakfast Club Power 105.1 FM on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@BreakfastClubPower1051FM",
-              "date": "2026-11-26"
+              "date": "2026-11-28"
             }
           }
         ]
@@ -1873,13 +1903,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 2990000,
-            "asOf": "2026-11-26",
+            "asOf": "2026-11-28",
             "youtube": "RealTime",
             "source": {
               "title": "Real Time with Bill Maher on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@RealTime",
-              "date": "2026-11-26"
+              "date": "2026-11-28"
             }
           }
         ]
@@ -1892,13 +1922,13 @@
           {
             "metric": "YouTube subscribers",
             "value": 898000,
-            "asOf": "2026-11-26",
+            "asOf": "2026-11-28",
             "youtube": "ClubRandomPodcast",
             "source": {
               "title": "Club Random Podcast on YouTube",
               "publisher": "YouTube",
               "url": "https://www.youtube.com/@ClubRandomPodcast",
-              "date": "2026-11-26"
+              "date": "2026-11-28"
             }
           }
         ]
